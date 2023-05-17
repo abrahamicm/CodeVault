@@ -1,0 +1,1 @@
+ aqui voy a poner todos los escribs que uso para trabajar, por ejemplo los escriobs de sacar enlaces de youtube, o trabajar ocn wordpress con javascripts
