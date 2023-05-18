@@ -1,0 +1,8 @@
+- metricool
+- publicidad
+- mercadeo
+- marketinkg 
+
+
+
+ 

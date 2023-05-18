@@ -1,0 +1,1 @@
+#\[([^\]]+)\] expresion regular para consegur todas las etiquetas, ejemplo #[etiqueta] 

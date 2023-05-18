@@ -11,3 +11,13 @@ README.md
 - mi_documentacion
 - recursos
 - tutoriales
+
+
+#[etiqueta] voy a usar este formato para las etiqueta de los temas
+
+#[uno]
+#[dos]
+#[tres]
+
+
+#\[([^\]]+)\] expresion regular para consegur todas las etiquetas, recordar activar las expresiones regulares en en buscador
