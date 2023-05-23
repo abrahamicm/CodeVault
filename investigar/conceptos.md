@@ -2,6 +2,8 @@
 - publicidad
 - mercadeo
 - marketinkg 
+- propagandas
+
 
 
 

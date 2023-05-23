@@ -23,6 +23,8 @@
 - proyectos
 - reforsar la memoria de trabajo
 # flujos de trabajo
+- tengo una carpeta donde tengo todas las capturas, lugo las voy copiando en los proyectos correspondientes
+- win r y poner code C:\laragon\www\perfexfu
 ## general a particular
 ## particular a general
 ## agrupacion de tareas

@@ -1,0 +1,2 @@
+- tipos de prueba
+- e2e
