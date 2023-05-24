@@ -4,3 +4,4 @@
 - Notion
 - Miro
 - Roam Research
+- Canva

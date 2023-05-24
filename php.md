@@ -1,0 +1,617 @@
+
+- ## main/main
+- **set_time_limit**(int $seconds): *bool*
+- ## main/SAPI
+- **header_register_callback**(callable $c): *bool*
+- ## main/output
+- ob_start
+- ## main/main
+- **set_time_limit**(int $seconds): *bool*
+- ## main/SAPI
+- **header_register_callback**(callable $c): *bool*
+- ## main/output
+- **ob_start**($callback = null, int $chunk_size = 0, int $flags = PHP_OUTPUT_HANDLER_STDFLAGS): *bool*
+- **ob_flush**(): *bool*
+- **ob_clean**(): *bool*
+- **ob_end_flush**(): *bool*
+- **ob_end_clean**(): *bool*
+- **ob_get_flush**(): *string|false*
+- **ob_get_clean**(): *string|false*
+- **ob_get_contents**(): *string|false*
+- **ob_get_level**(): *int*
+- **ob_get_length**(): *int|false*
+- **ob_list_handlers**(): *array*
+- **ob_get_status**(bool $full_status = false): *array*
+- **ob_implicit_flush**(bool $enable = true): *void*
+- **output_reset_rewrite_vars**(): *bool*
+- **output_add_rewrite_var**(string $name, string $value): *bool*
+- ## main/streams/userspace
+- **stream_wrapper_register**(string $protocol, string $class, int $flags = 0): *bool*
+- **stream_register_wrapper**(string $protocol, string $class, int $flags = 0): *bool*
+- **stream_wrapper_unregister**(string $protocol): *bool*
+- **stream_wrapper_restore**(string $protocol): *bool*
+- ## array
+- **array_push**(array &$a, mixed ...$vs): *int*
+- **krsort**(array &$a, int $flags = SORT_REGULAR): *true*
+- **ksort**(array &$a, int $flags = SORT_REGULAR): *true*
+- **count**(Countable|array $value, int $mode = COUNT_NORMAL): *int*
+- **sizeof**(Countable|array $value, int $mode = COUNT_NORMAL): *int*
+- **natsort**(array &$a): *bool*
+- **natcasesort**(array &$a): *bool*
+- **asort**(array &$a, int $flags = SORT_REGULAR): *true*
+- **arsort**(array &$a, int $flags = SORT_REGULAR): *true*
+- **sort**(array &$a, int $flags = SORT_REGULAR): *true*
+- **rsort**(array &$a, int $flags = SORT_REGULAR): *bool*
+- **usort**(array &$a, callable $c): *true*
+- **uasort**(array &$a, callable $c): *true*
+- **uksort**(array &$a, callable $c): *true*
+- **end**(array|object &$a): *mixed*
+- **prev**(array|object &$a): *mixed*
+- **next**(array|object &$a): *mixed*
+- **reset**(array|object &$a): *mixed*
+- **current**(array|object $array): *mixed*
+- **pos**(array|object $array): *mixed*
+- **key**(array|object $array): *int|string|null*
+- **min**(mixed $v, mixed ...$vs): *mixed*
+- **max**(mixed $v, mixed ...$vs): *mixed*
+- **array_walk**(array|object &$a, callable $c, mixed $arg = UNKNOWN): *true*
+- **array_walk_recursive**(array|object &$a, callable $c, mixed $arg = UNKNOWN): *true*
+- **in_array**(mixed $needle, array $haystack, bool $strict = false): *bool*
+- **array_search**(mixed $needle, array $haystack, bool $strict = false): *int|string|false*
+- **extract**(array &$a, int $flags = EXTR_OVERWRITE, string $prefix = ""): *int*
+- **compact**($var_name, ...$var_names): *array*
+- **array_fill**(int $start_index, int $count, mixed $v): *array*
+- **array_fill_keys**(array $keys, mixed $v): *array*
+- **range**($start, $end, int|float $step = 1): *array*
+- **shuffle**(array &$a): *true*
+- **array_pop**(array &$a): *mixed*
+- **array_shift**(array &$a): *mixed*
+- **array_unshift**(array &$a, mixed ...$vs): *int*
+- **array_splice**(array &$a, int $offset, ?int $length = null, mixed $replacement = []): *array*
+- **array_slice**(array $a, int $offset, ?int $length = null, bool $preserve_keys = false): *array*
+- **array_merge**(array ...$as): *array*
+- **array_merge_recursive**(array ...$as): *array*
+- **array_replace**(array $a, array ...$replacements): *array*
+- **array_replace_recursive**(array $a, array ...$replacements): *array*
+- **array_keys**(array $a, mixed $filter_value = UNKNOWN, bool $strict = false): *array*
+- **array_key_first**(array $a): *int|string|null*
+- **array_key_last**(array $a): *int|string|null*
+- **array_values**(array $a): *array*
+- **array_count_values**(array $a): *array*
+- **array_column**(array $a, int|string|null $column_key, int|string|null $index_key = null): *array*
+- **array_reverse**(array $a, bool $preserve_keys = false): *array*
+- **array_pad**(array $a, int $length, mixed $v): *array*
+- **array_flip**(array $a): *array*
+- **array_change_key_case**(array $a, int $case = CASE_LOWER): *array*
+- **array_unique**(array $a, int $flags = SORT_STRING): *array*
+- **array_intersect_key**(array $a, array ...$as): *array*
+- **array_intersect_ukey**(array $a, ...$rest): *array*
+- **array_intersect**(array $a, array ...$as): *array*
+- **array_uintersect**(array $a, ...$rest): *array*
+- **array_intersect_assoc**(array $a, array ...$as): *array*
+- **array_uintersect_assoc**(array $a, ...$rest): *array*
+- **array_intersect_uassoc**(array $a, ...$rest): *array*
+- **array_uintersect_uassoc**(array $a, ...$rest): *array*
+- **array_diff_key**(array $a, array ...$as): *array*
+- **array_diff_ukey**(array $a, ...$rest): *array*
+- **array_diff**(array $a, array ...$as): *array*
+- **array_udiff**(array $a, ...$rest): *array*
+- **array_diff_assoc**(array $a, array ...$as): *array*
+- **array_diff_uassoc**(array $a, ...$rest): *array*
+- **array_udiff_assoc**(array $a, ...$rest): *array*
+- **array_udiff_uassoc**(array $a, ...$rest): *array*
+- **array_multisort**(&$array, &...$rest): *bool*
+- **array_rand**(array $a, int $num = 1): *int|string|array*
+- **array_sum**(array $a): *int|float*
+- **array_product**(array $a): *int|float*
+- **array_reduce**(array $a, callable $c, mixed $initial = null): *mixed*
+- **array_filter**(array $a, ?callable $c = null, int $mode = 0): *array*
+- **array_map**(?callable $c, array $a, array ...$as): *array*
+- **array_key_exists**($key, array $a): *bool*
+- **key_exists**($key, array $a): *bool*
+- **array_chunk**(array $a, int $length, bool $preserve_keys = false): *array*
+- **array_combine**(array $keys, array $values): *array*
+- **array_is_list**(array $a): *bool*
+- ## base64
+- **base64_encode**(string $s): *string*
+- **base64_decode**(string $s, bool $strict = false): *string|false*
+- ## basic_functions
+- **constant**(string $name): *mixed*
+- **ip2long**(string $ip): *int|false*
+- **long2ip**(int $ip): *string|false*
+- **getenv**(?string $name = null, bool $local_only = false): *string|array|false*
+- **putenv**(string $assignment): *bool*
+- **getopt**(string $short_options, array $long_options = [], &$rest_index = null): *array|false*
+- **flush**(): *void*
+- **sleep**(int $seconds): *int*
+- **usleep**(int $microseconds): *void*
+- **time_nanosleep**(int $seconds, int $nanoseconds): *array|bool*
+- **time_sleep_until**(float $timestamp): *bool*
+- **get_current_user**(): *string*
+- **get_cfg_var**(string $option): *string|array|false*
+- **error_log**(string $message, int $message_type = 0, ?string $destination = null, ?string $additional_headers = null): *bool*
+- **error_get_last**(): *?array*
+- **error_clear_last**(): *void*
+- **call_user_func**(callable $c, mixed ...$args): *mixed*
+- **call_user_func_array**(callable $c, array $args): *mixed*
+- **forward_static_call**(callable $c, mixed ...$args): *mixed*
+- **forward_static_call_array**(callable $c, array $args): *mixed*
+- **register_shutdown_function**(callable $c, mixed ...$args): *void*
+- **highlight_file**(string $filename, bool $return = false): *string|bool*
+- **show_source**(string $filename, bool $return = false): *string|bool*
+- **php_strip_whitespace**(string $filename): *string*
+- **highlight_string**(string $s, bool $return = false): *string|bool*
+- **ini_get**(string $option): *string|false*
+- **ini_get_all**(?string $extension = null, bool $details = true): *array|false*
+- **ini_set**(string $option, string|int|float|bool|null $value): *string|false*
+- **ini_alter**(string $option, string|int|float|bool|null $value): *string|false*
+- **ini_restore**(string $option): *void*
+- **ini_parse_quantity**(string $shorthand): *int*
+- **set_include_path**(string $include_path): *string|false*
+- **get_include_path**(): *string|false*
+- **print_r**(mixed $v, bool $return = false): *string|bool*
+- **connection_aborted**(): *int*
+- **connection_status**(): *int*
+- **ignore_user_abort**(?bool $enable = null): *int*
+- **getservbyname**(string $service, string $protocol): *int|false*
+- **getservbyport**(int $port, string $protocol): *string|false*
+- **getprotobyname**(string $protocol): *int|false*
+- **getprotobynumber**(int $protocol): *string|false*
+- **register_tick_function**(callable $c, mixed ...$args): *bool*
+- **unregister_tick_function**(callable $c): *void*
+- **is_uploaded_file**(string $filename): *bool*
+- **move_uploaded_file**(string $from, string $to): *bool*
+- **parse_ini_file**(string $filename, bool $process_sections = false, int $scanner_mode = INI_SCANNER_NORMAL): *array|false*
+- **parse_ini_string**(string $ini_string, bool $process_sections = false, int $scanner_mode = INI_SCANNER_NORMAL): *array|false*
+- **config_get_hash**(): *array*
+- **sys_getloadavg**(): *array|false*
+- ## browscap
+- **get_browser**(?string $user_agent = null, bool $return_array = false): *object|array|false*
+- ## crc32
+- **crc32**(string $s): *int*
+- ## crypt
+- **crypt**(#[\SensitiveParameter] string $s, string $salt): *string*
+- ## datetime
+- **strptime**(string $timestamp, string $format): *array|false*
+- ## dns
+- **gethostname**(): *string|false*
+- **gethostbyaddr**(string $ip): *string|false*
+- **gethostbyname**(string $hostname): *string*
+- **gethostbynamel**(string $hostname): *array|false*
+- **dns_check_record**(string $hostname, string $type = "MX"): *bool*
+- **checkdnsrr**(string $hostname, string $type = "MX"): *bool*
+- **dns_get_record**(string $hostname, int $type = DNS_ANY, &$authoritative_name_servers = null, &$additional_records = null, bool $raw = false): *array|false*
+- **dns_get_mx**(string $hostname, &$hosts, &$weights = null): *bool*
+- **getmxrr**(string $hostname, &$hosts, &$weights = null): *bool*
+- ## net
+- **net_get_interfaces**(): *array|false*
+- ## ftok
+- **ftok**(string $filename, string $project_id): *int*
+- ## hrtime
+- **hrtime**(bool $as_number = false): *array|int|float|false*
+- ## md5
+- **md5**(string $s, bool $binary = false): *string*
+- **md5_file**(string $filename, bool $binary = false): *string|false*
+- ## pageinfo
+- **getmyuid**(): *int|false*
+- **getmygid**(): *int|false*
+- **getmypid**(): *int|false*
+- **getmyinode**(): *int|false*
+- **getlastmod**(): *int|false*
+- ## sha1
+- **sha1**(string $s, bool $binary = false): *string*
+- **sha1_file**(string $filename, bool $binary = false): *string|false*
+- ## syslog
+- **openlog**(string $prefix, int $flags, int $facility): *true*
+- **closelog**(): *true*
+- **syslog**(int $priority, string $message): *true // TODO make return type void*
+- **inet_ntop**(string $ip): *string|false*
+- **inet_pton**(string $ip): *string|false*
+- ## metaphone
+- **metaphone**(string $s, int $max_phonemes = 0): *string*
+- ## head
+- **header**(string $header, bool $replace = true, int $response_code = 0): *void*
+- **header_remove**(?string $name = null): *void*
+- **setrawcookie**(string $name, string $value = "", array|int $expires_or_options = 0, string $path = "", string $domain = "", bool $secure = false, bool $httponly = false): *bool*
+- **setcookie**(string $name, string $value = "", array|int $expires_or_options = 0, string $path = "", string $domain = "", bool $secure = false, bool $httponly = false): *bool*
+- **http_response_code**(int $response_code = 0): *int|bool*
+- **headers_sent**(&$filename = null, &$line = null): *bool*
+- **headers_list**(): *array*
+- ## html
+- **htmlspecialchars**(string $s, int $flags = ENT_QUOTES | ENT_SUBSTITUTE | ENT_HTML401, ?string $encoding = null, bool $double_encode = true): *string*
+- **htmlspecialchars_decode**(string $s, int $flags = ENT_QUOTES | ENT_SUBSTITUTE | ENT_HTML401): *string*
+- **html_entity_decode**(string $s, int $flags = ENT_QUOTES | ENT_SUBSTITUTE | ENT_HTML401, ?string $encoding = null): *string*
+- **htmlentities**(string $s, int $flags = ENT_QUOTES | ENT_SUBSTITUTE | ENT_HTML401, ?string $encoding = null, bool $double_encode = true): *string*
+- **get_html_translation_table**(int $table = HTML_SPECIALCHARS, int $flags = ENT_QUOTES | ENT_SUBSTITUTE | ENT_HTML401, string $encoding = "UTF-8"): *array*
+- ## assert
+- **assert**(mixed $assertion, Throwable|string|null $description = null): *bool*
+- **assert_options**(int $option, mixed $v = UNKNOWN): *mixed*
+- ## string
+- **bin2hex**(string $s): *string*
+- **hex2bin**(string $s): *string|false*
+- **strspn**(string $s, string $characters, int $offset = 0, ?int $length = null): *int*
+- **strcspn**(string $s, string $characters, int $offset = 0, ?int $length = null): *int*
+- **nl_langinfo**(int $item): *string|false*
+- **strcoll**(string $s1, string $s2): *int*
+- **trim**(string $s, string $characters = " \n\r\t\v\0"): *string*
+- **rtrim**(string $s, string $characters = " \n\r\t\v\0"): *string*
+- **chop**(string $s, string $characters = " \n\r\t\v\0"): *string*
+- **ltrim**(string $s, string $characters = " \n\r\t\v\0"): *string*
+- **wordwrap**(string $s, int $width = 75, string $break = "\n", bool $cut_long_words = false): *string*
+- **explode**(string $separator, string $s, int $limit = PHP_INT_MAX): *array*
+- **implode**(string|array $separator, ?array $a = null): *string*
+- **join**(string|array $separator, ?array $a = null): *string*
+- **strtok**(string $s, ?string $token = null): *string|false*
+- **strtoupper**(string $s): *string*
+- **strtolower**(string $s): *string*
+- **basename**(string $path, string $suffix = ""): *string*
+- **dirname**(string $path, int $levels = 1): *string*
+- **pathinfo**(string $path, int $flags = PATHINFO_ALL): *array|string*
+- **stristr**(string $haystack, string $needle, bool $before_needle = false): *string|false*
+- **strstr**(string $haystack, string $needle, bool $before_needle = false): *string|false*
+- **strchr**(string $haystack, string $needle, bool $before_needle = false): *string|false*
+- **strpos**(string $haystack, string $needle, int $offset = 0): *int|false*
+- **stripos**(string $haystack, string $needle, int $offset = 0): *int|false*
+- **strrpos**(string $haystack, string $needle, int $offset = 0): *int|false*
+- **strripos**(string $haystack, string $needle, int $offset = 0): *int|false*
+- **strrchr**(string $haystack, string $needle): *string|false*
+- **str_contains**(string $haystack, string $needle): *bool*
+- **str_starts_with**(string $haystack, string $needle): *bool*
+- **str_ends_with**(string $haystack, string $needle): *bool*
+- **chunk_split**(string $s, int $length = 76, string $separator = "\r\n"): *string*
+- **substr**(string $s, int $offset, ?int $length = null): *string*
+- **substr_replace**(array|string $s, array|string $replace, array|int $offset, array|int|null $length = null): *string|array*
+- **quotemeta**(string $s): *string*
+- **ord**(string $character): *int*
+- **chr**(int $codepoint): *string*
+- **ucfirst**(string $s): *string*
+- **lcfirst**(string $s): *string*
+- **ucwords**(string $s, string $separators = " \t\r\n\f\v"): *string*
+- **strtr**(string $s, string|array $from, ?string $to = null): *string*
+- **strrev**(string $s): *string*
+- **similar_text**(string $s1, string $s2, &$percent = null): *int*
+- **addcslashes**(string $s, string $characters): *string*
+- **addslashes**(string $s): *string*
+- **stripcslashes**(string $s): *string*
+- **stripslashes**(string $s): *string*
+- **str_replace**(array|string $search, array|string $replace, string|array $subject, &$count = null): *string|array*
+- **str_ireplace**(array|string $search, array|string $replace, string|array $subject, &$count = null): *string|array*
+- **hebrev**(string $s, int $max_chars_per_line = 0): *string*
+- **nl2br**(string $s, bool $use_xhtml = true): *string*
+- **strip_tags**(string $s, array|string|null $allowed_tags = null): *string*
+- **setlocale**(int $category, $locales, ...$rest): *string|false*
+- **parse_str**(string $s, &$result): *void*
+- **str_getcsv**(string $s, string $separator = ",", string $enclosure = "\"", string $escape = "\\"): *array*
+- **str_repeat**(string $s, int $times): *string*
+- **count_chars**(string $s, int $mode = 0): *array|string*
+- **strnatcmp**(string $s1, string $s2): *int*
+- **localeconv**(): *array*
+- **strnatcasecmp**(string $s1, string $s2): *int*
+- **substr_count**(string $haystack, string $needle, int $offset = 0, ?int $length = null): *int*
+- **str_pad**(string $s, int $length, string $pad_string = " ", int $pad_type = STR_PAD_RIGHT): *string*
+- **sscanf**(string $s, string $format, mixed &...$vars): *array|int|null*
+- **str_rot13**(string $s): *string*
+- **str_shuffle**(string $s): *string*
+- **str_word_count**(string $s, int $format = 0, ?string $characters = null): *array|int*
+- **str_split**(string $s, int $length = 1): *array*
+- **strpbrk**(string $s, string $characters): *string|false*
+- **substr_compare**(string $haystack, string $needle, int $offset, ?int $length = null, bool $case_insensitive = false): *int*
+- **utf8_encode**(string $s): *string*
+- **utf8_decode**(string $s): *string*
+- ## dir
+- **opendir**(string $directory, $context = null)
+- **dir**(string $directory, $context = null): *Directory|false*
+- **closedir**($dir_handle = null): *void*
+- **chdir**(string $directory): *bool*
+- **chroot**(string $directory): *bool*
+- **getcwd**(): *string|false*
+- **rewinddir**($dir_handle = null): *void*
+- **readdir**($dir_handle = null): *string|false*
+- **scandir**(string $directory, int $sorting_order = SCANDIR_SORT_ASCENDING, $context = null): *array|false*
+- **glob**(string $pattern, int $flags = 0): *array|false*
+- ## exec
+- **exec**(string $command, &$output = null, &$result_code = null): *string|false*
+- **system**(string $command, &$result_code = null): *string|false*
+- **passthru**(string $command, &$result_code = null): *false|null*
+- **escapeshellcmd**(string $command): *string*
+- **escapeshellarg**(string $arg): *string*
+- **shell_exec**(string $command): *string|false|null*
+- **proc_nice**(int $priority): *bool*
+- ## file
+- **flock**($stream, int $operation, &$would_block = null): *bool*
+- **get_meta_tags**(string $filename, bool $use_include_path = false): *array|false*
+- **pclose**($handle): *int*
+- **popen**(string $command, string $mode)
+- **readfile**(string $filename, bool $use_include_path = false, $context = null): *int|false*
+- **rewind**($stream): *bool*
+- **rmdir**(string $directory, $context = null): *bool*
+- **umask**(?int $mask = null): *int*
+- **fclose**($stream): *bool*
+- **feof**($stream): *bool*
+- **fgetc**($stream): *string|false*
+- **fgets**($stream, ?int $length = null): *string|false*
+- **fread**($stream, int $length): *string|false*
+- **fopen**(string $filename, string $mode, bool $use_include_path = false, $context = null)
+- **fscanf**($stream, string $format, mixed &...$vars): *array|int|false|null*
+- **fpassthru**($stream): *int*
+- **ftruncate**($stream, int $size): *bool*
+- **fstat**($stream): *array|false*
+- **fseek**($stream, int $offset, int $whence = SEEK_SET): *int*
+- **ftell**($stream): *int|false*
+- **fflush**($stream): *bool*
+- **fsync**($stream): *bool*
+- **fdatasync**($stream): *bool*
+- **fwrite**($stream, string $data, ?int $length = null): *int|false*
+- **fputs**($stream, string $data, ?int $length = null): *int|false*
+- **mkdir**(string $directory, int $permissions = 0777, bool $recursive = false, $context = null): *bool*
+- **rename**(string $from, string $to, $context = null): *bool*
+- **copy**(string $from, string $to, $context = null): *bool*
+- **tempnam**(string $directory, string $prefix): *string|false*
+- **tmpfile**()
+- **file**(string $filename, int $flags = 0, $context = null): *array|false*
+- **file_get_contents**(string $filename, bool $use_include_path = false, $context = null, int $offset = 0, ?int $length = null): *string|false*
+- **unlink**(string $filename, $context = null): *bool*
+- **file_put_contents**(string $filename, mixed $data, int $flags = 0, $context = null): *int|false*
+- **fputcsv**($stream, array $fields, string $separator = ",", string $enclosure = "\"", string $escape = "\\", string $eol = "\n"): *int|false*
+- **fgetcsv**($stream, ?int $length = null, string $separator = ",", string $enclosure = "\"", string $escape = "\\"): *array|false*
+- **realpath**(string $path): *string|false*
+- **fnmatch**(string $pattern, string $filename, int $flags = 0): *bool*
+- **sys_get_temp_dir**(): *string*
+- ## filestat
+- **fileatime**(string $filename): *int|false*
+- **filectime**(string $filename): *int|false*
+- **filegroup**(string $filename): *int|false*
+- **fileinode**(string $filename): *int|false*
+- **filemtime**(string $filename): *int|false*
+- **fileowner**(string $filename): *int|false*
+- **fileperms**(string $filename): *int|false*
+- **filesize**(string $filename): *int|false*
+- **filetype**(string $filename): *string|false*
+- **file_exists**(string $filename): *bool*
+- **is_writable**(string $filename): *bool*
+- **is_writeable**(string $filename): *bool*
+- **is_readable**(string $filename): *bool*
+- **is_executable**(string $filename): *bool*
+- **is_file**(string $filename): *bool*
+- **is_dir**(string $filename): *bool*
+- **is_link**(string $filename): *bool*
+- **stat**(string $filename): *array|false*
+- **lstat**(string $filename): *array|false*
+- **chown**(string $filename, string|int $user): *bool*
+- **chgrp**(string $filename, string|int $group): *bool*
+- **lchown**(string $filename, string|int $user): *bool*
+- **lchgrp**(string $filename, string|int $group): *bool*
+- **chmod**(string $filename, int $permissions): *bool*
+- **touch**(string $filename, ?int $mtime = null, ?int $atime = null): *bool*
+- **clearstatcache**(bool $clear_realpath_cache = false, string $filename = ""): *void*
+- **disk_total_space**(string $directory): *float|false*
+- **disk_free_space**(string $directory): *float|false*
+- **diskfreespace**(string $directory): *float|false*
+- **realpath_cache_get**(): *array*
+- **realpath_cache_size**(): *int*
+- ## formatted_print
+- **sprintf**(string $format, mixed ...$vs): *string*
+- **printf**(string $format, mixed ...$vs): *int*
+- **vprintf**(string $format, array $values): *int*
+- **vsprintf**(string $format, array $values): *string*
+- **fprintf**($stream, string $format, mixed ...$vs): *int*
+- **vfprintf**($stream, string $format, array $values): *int*
+- ## fsock
+- **fsockopen**(string $hostname, int $port = -1, &$error_code = null, &$error_message = null, ?float $timeout = null)
+- **pfsockopen**(string $hostname, int $port = -1, &$error_code = null, &$error_message = null, ?float $timeout = null)
+- ## http
+- **http_build_query**(array|object $data, string $numeric_prefix = "", ?string $arg_separator = null, int $encoding_type = PHP_QUERY_RFC1738): *string*
+- ## image
+- **image_type_to_mime_type**(int $image_type): *string*
+- **image_type_to_extension**(int $image_type, bool $include_dot = true): *string|false*
+- **getimagesize**(string $filename, &$image_info = null): *array|false*
+- **getimagesizefromstring**(string $s, &$image_info = null): *array|false*
+- ## info
+- **phpinfo**(int $flags = INFO_ALL): *true // make return type void*
+- **phpversion**(?string $extension = null): *string|false*
+- **phpcredits**(int $flags = CREDITS_ALL): *true*
+- **php_sapi_name**(): *string|false*
+- **php_uname**(string $mode = "a"): *string*
+- **php_ini_scanned_files**(): *string|false*
+- **php_ini_loaded_file**(): *string|false*
+- ## iptc
+- **iptcembed**(string $iptc_data, string $filename, int $spool = 0): *string|bool*
+- **iptcparse**(string $iptc_block): *array|false*
+- ## levenshtein
+- **levenshtein**(string $s1, string $s2, int $insertion_cost = 1, int $replacement_cost = 1, int $deletion_cost = 1): *int*
+- ## link
+- **readlink**(string $path): *string|false*
+- **linkinfo**(string $path): *int|false*
+- **symlink**(string $target, string $link): *bool*
+- **link**(string $target, string $link): *bool*
+- ## mail
+- **mail**(string $to, string $subject, string $message, array|string $additional_headers = [], string $additional_params = ""): *bool*
+- ## math
+- **abs**(int|float $n): *int|float*
+- **ceil**(int|float $n): *float*
+- **floor**(int|float $n): *float*
+- **round**(int|float $n, int $precision = 0, int $mode = PHP_ROUND_HALF_UP): *float*
+- **sin**(float $n): *float*
+- **cos**(float $n): *float*
+- **tan**(float $n): *float*
+- **asin**(float $n): *float*
+- **acos**(float $n): *float*
+- **atan**(float $n): *float*
+- **atanh**(float $n): *float*
+- **atan2**(float $y, float $x): *float*
+- **sinh**(float $n): *float*
+- **cosh**(float $n): *float*
+- **tanh**(float $n): *float*
+- **asinh**(float $n): *float*
+- **acosh**(float $n): *float*
+- **expm1**(float $n): *float*
+- **log1p**(float $n): *float*
+- **pi**(): *float*
+- **is_finite**(float $n): *bool*
+- **is_nan**(float $n): *bool*
+- **intdiv**(int $num1, int $num2): *int*
+- **is_infinite**(float $n): *bool*
+- **pow**(mixed $num, mixed $exponent): *int|float|object*
+- **exp**(float $n): *float*
+- **log**(float $n, float $base = M_E): *float*
+- **log10**(float $n): *float*
+- **sqrt**(float $n): *float*
+- **hypot**(float $x, float $y): *float*
+- **deg2rad**(float $n): *float*
+- **rad2deg**(float $n): *float*
+- **bindec**(string $binary_string): *int|float*
+- **hexdec**(string $hex_string): *int|float*
+- **octdec**(string $octal_string): *int|float*
+- **decbin**(int $num): *string*
+- **decoct**(int $num): *string*
+- **dechex**(int $num): *string*
+- **base_convert**(string $num, int $from_base, int $to_base): *string*
+- **number_format**(float $n, int $decimals = 0, ?string $decimal_separator = ".", ?string $thousands_separator = ","): *string*
+- **fmod**(float $n1, float $n2): *float*
+- **fdiv**(float $n1, float $n2): *float*
+- ## microtime
+- **microtime**(bool $as_float = false): *string|float*
+- **gettimeofday**(bool $as_float = false): *array|float*
+- **getrusage**(int $mode = 0): *array|false*
+- ## pack
+- **pack**(string $format, mixed ...$vs): *string*
+- **unpack**(string $format, string $s, int $offset = 0): *array|false*
+- ## password
+- **password_get_info**(string $hash): *array*
+- **password_hash**(#[\SensitiveParameter] string $password, string|int|null $algo, array $options = []): *string*
+- **password_needs_rehash**(string $hash, string|int|null $algo, array $options = []): *bool*
+- **password_verify**(#[\SensitiveParameter] string $password, string $hash): *bool*
+- **password_algos**(): *array*
+- ## proc_open
+- **proc_open**(array|string $command, array $descriptor_spec, &$pipes, ?string $cwd = null, ?array $env_vars = null, ?array $options = null)
+- **proc_close**($process): *int*
+- **proc_terminate**($process, int $signal = 15): *bool*
+- **proc_get_status**($process): *array*
+- ## quot_print
+- **quoted_printable_decode**(string $s): *string*
+- **quoted_printable_encode**(string $s): *string*
+- ## soundex
+- **soundex**(string $s): *string*
+- ## streamsfuncs
+- **stream_select**(?array &$read, ?array &$write, ?array &$except, ?int $seconds, ?int $microseconds = null): *int|false*
+- **stream_context_create**(?array $options = null, ?array $params = null)
+- **stream_context_set_params**($context, array $params): *bool*
+- **stream_context_get_params**($context): *array*
+- **stream_context_set_option**($context, array|string $wrapper_or_options, ?string $option_name = null, mixed $v = UNKNOWN): *bool*
+- **stream_context_get_options**($stream_or_context): *array*
+- **stream_context_get_default**(?array $options = null)
+- **stream_context_set_default**(array $options)
+- **stream_filter_prepend**($stream, string $filter_name, int $mode = 0, mixed $params = UNKNOWN)
+- **stream_filter_append**($stream, string $filter_name, int $mode = 0, mixed $params = UNKNOWN)
+- **stream_filter_remove**($stream_filter): *bool*
+- **stream_socket_client**(string $address, &$error_code = null, &$error_message = null, ?float $timeout = null, int $flags = STREAM_CLIENT_CONNECT, $context = null)
+- **stream_socket_server**(string $address, &$error_code = null, &$error_message = null, int $flags = STREAM_SERVER_BIND | STREAM_SERVER_LISTEN, $context = null)
+- **stream_socket_accept**($socket, ?float $timeout = null, &$peer_name = null)
+- **stream_socket_get_name**($socket, bool $remote): *string|false*
+- **stream_socket_recvfrom**($socket, int $length, int $flags = 0, &$address = null): *string|false*
+- **stream_socket_sendto**($socket, string $data, int $flags = 0, string $address = ""): *int|false*
+- **stream_socket_enable_crypto**($stream, bool $enable, ?int $crypto_method = null, $session_stream = null): *int|bool*
+- **stream_socket_shutdown**($stream, int $mode): *bool*
+- **stream_socket_pair**(int $domain, int $type, int $protocol): *array|false*
+- **stream_copy_to_stream**($from, $to, ?int $length = null, int $offset = 0): *int|false*
+- **stream_get_contents**($stream, ?int $length = null, int $offset = -1): *string|false*
+- **stream_supports_lock**($stream): *bool*
+- **stream_set_write_buffer**($stream, int $size): *int*
+- **set_file_buffer**($stream, int $size): *int*
+- **stream_set_read_buffer**($stream, int $size): *int*
+- **stream_set_blocking**($stream, bool $enable): *bool*
+- **socket_set_blocking**($stream, bool $enable): *bool*
+- **stream_get_meta_data**($stream): *array*
+- **socket_get_status**($stream): *array*
+- **stream_get_line**($stream, int $length, string $ending = ""): *string|false*
+- **stream_resolve_include_path**(string $filename): *string|false*
+- **stream_get_wrappers**(): *array*
+- **stream_get_transports**(): *array*
+- **stream_is_local**($stream): *bool*
+- **stream_isatty**($stream): *bool*
+- **sapi_windows_vt100_support**($stream, ?bool $enable = null): *bool*
+- **stream_set_chunk_size**($stream, int $size): *int*
+- **stream_set_timeout**($stream, int $seconds, int $microseconds = 0): *bool*
+- **socket_set_timeout**($stream, int $seconds, int $microseconds = 0): *bool*
+- ## type
+- **gettype**(mixed $v): *string*
+- **get_debug_type**(mixed $v): *string*
+- **settype**(mixed &$var, string $type): *bool*
+- **intval**(mixed $v, int $base = 10): *int*
+- **floatval**(mixed $v): *float*
+- **doubleval**(mixed $v): *float*
+- **boolval**(mixed $v): *bool*
+- **strval**(mixed $v): *string*
+- **is_null**(mixed $v): *bool*
+- **is_resource**(mixed $v): *bool*
+- **is_bool**(mixed $v): *bool*
+- **is_int**(mixed $v): *bool*
+- **is_integer**(mixed $v): *bool*
+- **is_long**(mixed $v): *bool*
+- **is_float**(mixed $v): *bool*
+- **is_double**(mixed $v): *bool*
+- **is_numeric**(mixed $v): *bool*
+- **is_string**(mixed $v): *bool*
+- **is_array**(mixed $v): *bool*
+- **is_object**(mixed $v): *bool*
+- **is_scalar**(mixed $v): *bool*
+- **is_callable**(mixed $v, bool $syntax_only = false, &$callable_name = null): *bool*
+- **is_iterable**(mixed $v): *bool*
+- **is_countable**(mixed $v): *bool*
+- ## uniqid
+- **uniqid**(string $prefix = "", bool $more_entropy = false): *string*
+- ## url
+- **parse_url**(string $url, int $component = -1): *int|string|array|null|false*
+- **urlencode**(string $s): *string*
+- **urldecode**(string $s): *string*
+- **rawurlencode**(string $s): *string*
+- **rawurldecode**(string $s): *string*
+- **get_headers**(string $url, bool $associative = false, $context = null): *array|false*
+- ## user_filters
+- **stream_bucket_make_writeable**($brigade): *?object*
+- **stream_bucket_prepend**($brigade, object $bucket): *void*
+- **stream_bucket_append**($brigade, object $bucket): *void*
+- **stream_bucket_new**($stream, string $buffer): *object*
+- **stream_get_filters**(): *array*
+- **stream_filter_register**(string $filter_name, string $class): *bool*
+- ## uuencode
+- **convert_uuencode**(string $s): *string*
+- **convert_uudecode**(string $s): *string|false*
+- ## var
+- **var_dump**(mixed $v, mixed ...$vs): *void*
+- **var_export**(mixed $v, bool $return = false): *?string*
+- **debug_zval_dump**(mixed $v, mixed ...$vs): *void*
+- **serialize**(mixed $v): *string*
+- **unserialize**(string $data, array $options = []): *mixed*
+- **memory_get_usage**(bool $real_usage = false): *int*
+- **memory_get_peak_usage**(bool $real_usage = false): *int*
+- **memory_reset_peak_usage**(): *void*
+- ## versioning
+- **version_compare**(string $version1, string $version2, ?string $operator = null): *int|bool*
+- ## win32/codepage
+- **sapi_windows_cp_set**(int $codepage): *bool*
+- **sapi_windows_cp_get**(string $kind = ""): *int*
+- **sapi_windows_cp_conv**(int|string $in_codepage, int|string $out_codepage, string $subject): *?string*
+- **sapi_windows_cp_is_utf8**(): *bool*
+- **sapi_windows_set_ctrl_handler**(?callable $handler, bool $add = true): *bool*
+- **sapi_windows_generate_ctrl_event**(int $event, int $pid = 0): *bool*
+- ****($callback = null, int $chunk_size = 0, int $flags = PHP_OUTPUT_HANDLER_STDFLAGS): *bool*
+- **ob_flush**(): *bool*
+- **ob_clean**(): *bool*
+- **ob_end_flush**(): *bool*
+- **ob_end_clean**(): *bool*
+- **ob_get_flush**(): *string|false*
+- **ob_get_clean**(): *string|false*
+- **ob_get_contents**(): *string|false*
+- **ob_get_level**(): *int*
+- **ob_get_length**(): *int|false*
+- **ob_list_handlers**(): *array*
+- **ob_get_status**(bool $full_status = false): *array*
+- **ob_implicit_flush**(bool $enable = true): *void*
+- **output_reset_rewrite_vars**(): *bool*
+- **output_add_rewrite_var**(string $name, string $value): *bool*
+- ## main/streams/userspace
+- **stream_wrapper_register**(string $protocol, string $class, int $flags = 0): *bool*
+- **stream_register_wrapper**(string $protocol, string $class, int $flags = 0): *bool*
+- **stream_wrapper_unregister**(string $protocol): *bool*
+- **stream_wrapper_restore**(string $protocol): *bool*
