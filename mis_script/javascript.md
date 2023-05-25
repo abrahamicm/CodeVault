@@ -22,4 +22,6 @@ for (var i = 0; i < styleSheets.length; i++) {
     }
   }
 }
+// youtube
+$$("ytd-rich-grid-renderer a.ytd-thumbnail").map(x=>x.href).forEach(x=>console.log(x))    
 ````
