@@ -6,4 +6,22 @@ ids.forEach(x=>{
 	const check_id = "cb-select-"+x
     document.getAnimations(check_id).click()
 })
+
+// ver el nombre de las clases css disponibles en el documento
+var styleSheets = document.styleSheets;
+for (var i = 0; i < styleSheets.length; i++) {
+  var sheet = styleSheets[i];
+
+  for (var j = 0; j < sheet.cssRules.length; j++) {
+    var rule = sheet.cssRules[j];
+
+    if (rule.selectorText && rule.selectorText.indexOf('.') === 0) {
+      var className = rule.selectorText.slice(1);
+
+      console.log(className);
+    }
+  }
+}
+// youtube
+$$("ytd-rich-grid-renderer a.ytd-thumbnail").map(x=>x.href).forEach(x=>console.log(x))    
 ````
