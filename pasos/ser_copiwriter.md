@@ -36,9 +36,7 @@
 36. Amplía tu vocabulario y mejora tus habilidades de expresión.
 37. Aprende a trabajar dentro de plazos ajustados.
 38. Establece tarifas competitivas para tus servicios de copywriting.
-39. Crea una red de
-
- contactos en la industria.
+39. Crea una red de contactos en la industria.
 40. Investiga sobre las mejores prácticas de diseño para acompañar tus textos.
 41. Aprende a escribir para diferentes plataformas y formatos, como redes sociales, blogs, anuncios impresos, etc.
 42. Mantente al tanto de las regulaciones legales y éticas relacionadas con la publicidad y el copywriting.
@@ -70,9 +68,7 @@
 68. Participa en conferencias y eventos de la industria para mantenerte al día con las últimas tendencias.
 69. Desarrolla habilidades de presentación para comunicar tus ideas y propuestas a los clientes.
 70. Aprende a manejar múltiples proyectos a la vez y establecer prioridades.
-71. Investiga sobre los diferentes formatos publicit
-
-arios, como anuncios de video, anuncios de display, etc.
+71. Investiga sobre los diferentes formatos publicitarios, como anuncios de video, anuncios de display, etc.
 72. Amplía tus conocimientos sobre marketing digital y estrategias de generación de leads.
 73. Aprende a utilizar el poder de las emociones en tu escritura persuasiva.
 74. Practica la escritura en diferentes estilos y tonos de voz para adaptarte a diferentes marcas y audiencias.

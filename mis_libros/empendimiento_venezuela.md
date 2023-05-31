@@ -65,7 +65,7 @@ En resumen, el panorama empresarial en Venezuela presenta desafíos significativ
 ## 7.1 Historias inspiradoras de emprendedores exitosos en Venezuela
 ## 7.2 Lecciones aprendidas y consejos prácticos de emprendedores destacados
 
-8. Redes de apoyo y recursos para emprendedores
+# 8. Redes de apoyo y recursos para emprendedores
 ## 8.1 Organizaciones y programas de apoyo al emprendimiento en Venezuela
 ## 8.2 Incubadoras y aceleradoras de negocios en el país
 ## 8.3 Eventos y conferencias relevantes para emprendedores
