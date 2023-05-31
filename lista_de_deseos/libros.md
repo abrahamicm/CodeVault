@@ -1,0 +1,5 @@
+- filosofia
+- historia de la matematica
+- historia de la computacion
+- historia de los emprendimiendos
+- historia del marketing
