@@ -9,9 +9,11 @@
     - busqueda de funciones de bajo nivel
     - hacer una guia visual de hooks, variables , etc y donde se ven en las vistas
     - hacer una representacion de como ser ven las variables, por ejemplo poner la estrutura de array de la variable $menu
-    - cuando haga una busqueda de variables buscar las variables sin el $ por delante porque php avces crea las variables
+    - cuando haga una busqueda de variables buscar las variables sin el $ por delante porque php aveces crea las variables
     - empezar por donde pueda tener mayor feedback
-    - pober la funcion mas grande de ultimo
+    - poner la funcion mas grande de ultimo
+    - poner la atencion en las variables claves, variables que afectan el  conportamiento
+    - estar pilas con el id de las cosas
 
 - analisis de flujo de peticiones
 - donde, cuando, como, que necesito, que datos tengo (estrategia de las 5 preguntas clave)
