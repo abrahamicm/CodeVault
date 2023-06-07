@@ -1,0 +1,21 @@
+## extensiones Chrome
+
+- Adobe Acrobat: herramientas para convertir, editar y firmar PDFs
+- ColorZilla
+- Cookie-Editor
+- Documentos de Google sin conexión
+- Element to Figma
+- Evernote Web Clipper
+- GoFullPage - Full Page Screen Capture
+- Google Traductor
+- JSON Formatter
+- LastPass: Free Password Manager
+- Lector de Selección (Texto a Voz)
+- Markdown Viewer
+- Raspador de datos sin codificación: raspado web fácil
+- Video Downloader for Vimeo
+- Wappalyzer - Technology profiler
+- Web Scraper - Free Web Scraping
+- WhatFont
+- Windscribe 
+- Temporizador de tareas
