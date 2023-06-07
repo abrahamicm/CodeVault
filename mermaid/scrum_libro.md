@@ -1,3 +1,5 @@
+
+```mermaid
 graph LR
     A(Introducción a Scrum) --> B(Roles en Scrum)
     A --> C(Artefactos de Scrum)
@@ -54,3 +56,4 @@ graph LR
     J --> J2(Adaptación y evolución del proceso)
     J --> J3(Cultura de mejora continua y aprendizaje organizacional)
     J --> J4(Herramientas y técnicas para la mejora en Scrum)
+```
