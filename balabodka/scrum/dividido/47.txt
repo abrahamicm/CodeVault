@@ -1,0 +1,8 @@
+ Uso de retrospectivas para el aprendizaje
+Las retrospectivas son reuniones periódicas en Scrum donde el equipo reflexiona sobre el proceso y busca oportunidades de mejora. Algunos puntos clave son:
+
+- Se identifican los aspectos positivos y negativos del último sprint y se analizan las lecciones aprendidas.
+- Se definen acciones concretas para abordar los problemas identificados y mejorar el proceso en el próximo sprint.
+- Se fomenta la participación de todos los miembros del equipo y se crea un ambiente seguro para compartir ideas y opiniones.
+
+El uso de retrospectivas permite un aprendizaje continuo y la implementación de mejoras basadas en la experiencia y la retroalimentación.

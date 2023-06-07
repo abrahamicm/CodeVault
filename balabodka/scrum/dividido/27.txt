@@ -1,0 +1,8 @@
+ Creación y mantenimiento del Product Backlog
+La creación y el mantenimiento del Product Backlog involucran la identificación y documentación de los requisitos del producto. Algunas consideraciones clave son:
+
+- El Product Owner es responsable de crear y mantener el Product Backlog.
+- Se colabora con los stakeholders para recopilar y priorizar los requisitos del producto.
+- El Product Backlog es un artefacto vivo y se actualiza de forma continua a medida que se obtiene más información y se cambian las necesidades del negocio.
+
+La creación y el mantenimiento adecuados del Product Backlog garantizan que se tengan en cuenta todas las necesidades y requisitos del producto a lo largo del proyecto.

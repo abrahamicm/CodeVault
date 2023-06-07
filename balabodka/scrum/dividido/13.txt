@@ -1,0 +1,9 @@
+ Incremento del Producto
+El Incremento del Producto es el resultado tangible y potencialmente entregable del trabajo realizado durante un sprint. Algunas características del Incremento del Producto incluyen:
+
+- Representa un avance concreto hacia el objetivo general del proyecto.
+- Debe cumplir con la Definition of Done para garantizar la calidad y la capacidad de entrega.
+- Se revisa y evalúa durante el Sprint Review para obtener retroalimentación y realizar ajustes si es necesario.
+- Se acumula con los incrementos anteriores para construir gradualmente el producto final.
+
+El Incremento del Producto es una forma de medir el progreso y demostrar el valor entregado en cada sprint.

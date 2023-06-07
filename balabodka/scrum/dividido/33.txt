@@ -1,0 +1,8 @@
+ Planificación y ejecución de Sprints
+La planificación y ejecución de sprints es fundamental para el desarrollo iterativo e incremental en Scrum. Algunos puntos importantes son:
+
+- En la planificación de cada sprint, el equipo de desarrollo selecciona los elementos del Product Backlog que se abordarán durante ese período.
+- Se define un objetivo claro para el sprint y se acuerda cómo se logrará.
+- Durante el sprint, el equipo de desarrollo trabaja de manera colaborativa y autoorganizada para completar las tareas y alcanzar el objetivo establecido.
+
+La planificación y ejecución de sprints asegura un enfoque concentrado en la entrega de valor y permite una iteración rápida y adaptativa.

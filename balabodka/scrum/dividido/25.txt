@@ -1,0 +1,13 @@
+Gestión del tiempo y seguimiento del progreso
+En Scrum, la gestión del tiempo y el seguimiento del progreso se realizan mediante el uso de herramientas y prácticas ágiles. Algunas características de la gestión del
+
+ tiempo y el seguimiento del progreso incluyen:
+
+- Se utiliza un tablero Kanban o una herramienta de gestión de proyectos ágil para visualizar y realizar un seguimiento del trabajo en curso.
+- El equipo de desarrollo realiza reuniones diarias de seguimiento (Daily Scrum) para compartir actualizaciones sobre el progreso y los posibles obstáculos.
+- Se realizan reuniones de revisión de sprints y retrospectivas para evaluar el progreso y realizar ajustes en el plan de trabajo.
+- El Scrum Master es responsable de facilitar la gestión del tiempo y asegurarse de que el equipo de desarrollo tenga las herramientas y el apoyo necesarios para seguir el plan.
+
+La gestión del tiempo y el seguimiento del progreso permiten al equipo de desarrollo tener visibilidad sobre el avance del proyecto y tomar decisiones informadas para ajustar el plan si es necesario.
+
+Estos aspectos de la estimación y planificación en Scrum son esenciales para asegurar una ejecución efectiva y una entrega de valor en cada sprint.

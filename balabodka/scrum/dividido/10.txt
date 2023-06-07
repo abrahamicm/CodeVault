@@ -1,0 +1,3 @@
+ 3. Artefactos de Scrum
+
+Los artefactos en Scrum son elementos clave que proporcionan transparencia, comunicación y visibilidad del trabajo realizado en el proyecto. Los principales artefactos en Scrum son el Product Backlog, el Sprint Backlog, el Incremento del Producto y la Definition of Done.

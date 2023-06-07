@@ -1,0 +1,13 @@
+ Definition of Done
+La Definition of Done es un conjunto de criterios que establece los requisitos y estándares para considerar que un elemento del backlog está "terminado" y listo para ser entregado. Algunas características de la Definition of Done incluyen:
+
+- Define los criterios de calidad y completitud para cada elemento del backlog.
+- Puede incluir aspectos como pruebas, revisión de código, documentación, integración, aprobación del cliente, entre otros.
+- Es acordada y compartida por todo el equipo de desarrollo.
+- Garantiza que los incrementos entregados cumplan con los estándares de calidad esperados.
+
+La Definition of Done proporciona claridad y alineación dentro del equipo de desarrollo sobre las expectativas de finalización de cada elemento.
+
+Estos artefactos en Scrum son fundamentales para la planificación, ejecución y seguimiento del
+
+ trabajo en el proyecto. Proporcionan transparencia, comunicación efectiva y una guía clara para el equipo de desarrollo y los stakeholders.

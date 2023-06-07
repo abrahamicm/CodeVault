@@ -1,0 +1,8 @@
+ Scrum en proyectos grandes y complejos
+Scrum es una metodología ágil que se puede adaptar y escalar para proyectos grandes y complejos. Algunos puntos clave a tener en cuenta son:
+
+- Se requiere una estructura organizativa adecuada, con roles y responsabilidades claramente definidos.
+- Se pueden establecer equipos de Scrum dedicados a diferentes componentes o funcionalidades del producto.
+- Se necesita una planificación cuidadosa para coordinar y sincronizar el trabajo de los equipos.
+
+El uso de Scrum en proyectos grandes y complejos permite una mayor flexibilidad, adaptación y entrega de valor continuo.

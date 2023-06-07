@@ -1,0 +1,8 @@
+ Herramientas y técnicas para la mejora en Scrum
+Existen varias herramientas y técnicas que se pueden utilizar para facilitar la mejora en Scrum. Algunas de ellas son:
+
+- Diagrama de causa-efecto (Diagrama de Ishikawa): Ayuda a identificar las causas raíz de los problemas y a tomar acciones correctivas.
+- Análisis de datos y métricas: Permite medir y evaluar el rendimiento del equipo y el proceso para identificar áreas de mejora.
+- Experimentación y prueba de conceptos: Permite probar nuevas ideas y prácticas para evaluar su efectividad antes de implementarlas a gran escala.
+
+Estas herramientas y técnicas brindan estructura y enfoque para impulsar la mejora continua en Scrum.

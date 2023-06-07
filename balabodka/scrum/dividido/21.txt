@@ -1,0 +1,3 @@
+ 5. Estimación y planificación en Scrum
+
+La estimación y planificación en Scrum son procesos clave para garantizar una ejecución efectiva del proyecto. Estos procesos permiten al equipo de desarrollo establecer expectativas realistas, asignar recursos adecuados y hacer un seguimiento del progreso. Los principales aspectos de la estimación y planificación en Scrum incluyen la estimación relativa, la planificación de releases, la planificación de sprints y la gestión del tiempo y seguimiento del progreso.

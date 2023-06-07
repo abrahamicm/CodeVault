@@ -1,0 +1,8 @@
+ Concepto de entrega de valor incremental
+En Scrum, la entrega de valor incremental implica entregar al cliente y a los stakeholders un incremento funcional del producto en cada iteración. Algunos puntos clave son:
+
+- El equipo de desarrollo trabaja en elementos prioritarios del Product Backlog durante cada sprint para crear un incremento del producto.
+- Cada incremento debe ser potencialmente entregable y aportar valor al cliente o al negocio.
+- Los incrementos se acumulan a lo largo del tiempo, mejorando el producto en cada iteración.
+
+La entrega de valor incremental permite obtener retroalimentación temprana y asegurar que las necesidades del cliente sean atendidas de manera continua.

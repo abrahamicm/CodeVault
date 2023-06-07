@@ -1,0 +1,8 @@
+ Adaptación y evolución del proceso
+En Scrum, se valora la adaptación y evolución del proceso para optimizar su eficacia. Algunos aspectos clave son:
+
+- Se realizan ajustes en el proceso de Scrum a medida que se identifican áreas de mejora o se enfrentan nuevos desafíos.
+- Se experimenta con nuevas prácticas o técnicas para encontrar formas más efectivas de trabajar.
+- Se monitorea el impacto de los cambios realizados y se ajusta el proceso en consecuencia.
+
+La adaptación y evolución del proceso en Scrum permite una mejora continua y una mejor alineación con los objetivos y necesidades del proyecto.

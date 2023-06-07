@@ -1,0 +1,3 @@
+ 7. Desarrollo iterativo e incremental
+
+El desarrollo iterativo e incremental es una de las principales características de Scrum. Se basa en la entrega de valor de manera progresiva a lo largo del proyecto, permitiendo una mayor flexibilidad y adaptación a medida que se obtiene retroalimentación del producto. Algunos aspectos importantes del desarrollo iterativo e incremental incluyen el concepto de entrega de valor incremental, la planificación y ejecución de sprints, la revisión y ajuste de objetivos en cada sprint, y el control y adaptación durante el desarrollo.

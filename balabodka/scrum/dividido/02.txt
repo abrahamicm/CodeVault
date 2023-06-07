@@ -1,0 +1,7 @@
+ Definición y principios fundamentales de Scrum
+Scrum es una metodología ágil de gestión de proyectos que se utiliza ampliamente en el desarrollo de software y en otros contextos empresariales. Se basa en un enfoque iterativo e incremental que permite a los equipos adaptarse y responder rápidamente a los cambios en los requisitos y condiciones del proyecto.
+
+Los principios fundamentales de Scrum incluyen:
+- Transparencia: todos los aspectos del proceso de desarrollo deben ser visibles y comprensibles para todos los miembros del equipo.
+- Inspección: se deben realizar revisiones periódicas para evaluar el progreso y detectar posibles problemas o áreas de mejora.
+- Adaptación: se deben realizar ajustes y cambios en función de los hallazgos de la inspección para optimizar el resultado del proyecto.

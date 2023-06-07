@@ -1,0 +1,10 @@
+ Equipo de Desarrollo
+El Equipo de Desarrollo es responsable de entregar los incrementos de producto funcionales al final de cada sprint. Algunas características y responsabilidades del Equipo de Desarrollo incluyen:
+
+- Ser un equipo autoorganizado y multidisciplinario que trabaja en colaboración.
+- Descomponer los elementos del Product Backlog en tareas y estimar el esfuerzo necesario para completarlas.
+- Desarrollar y probar las funcionalidades del producto en cada sprint.
+- Colaborar con el Product Owner para asegurar que se comprendan los requisitos y se entregue valor de negocio.
+- Participar en las reuniones y eventos de Scrum, aportando su experiencia y comprometiéndose con los objetivos del sprint.
+
+El Equipo de Desarrollo tiene la flexibilidad y autonomía para organizar su trabajo y tomar decisiones técnicas con el objetivo de cumplir los objetivos establecidos para cada sprint.

@@ -1,0 +1,3 @@
+ 9. Escalado de Scrum
+
+A medida que los proyectos crecen en tamaño y complejidad, puede ser necesario escalar Scrum para abordar los desafíos asociados. El escalado de Scrum se refiere a la aplicación de Scrum en proyectos grandes que involucran múltiples equipos. Algunos aspectos importantes del escalado de Scrum incluyen el uso de Scrum en proyectos grandes y complejos, la utilización de frameworks y prácticas específicas de escalado, la coordinación y alineación entre equipos, y los retos y consideraciones involucrados en el escalado de Scrum.

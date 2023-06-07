@@ -1,0 +1,8 @@
+ Retos y consideraciones en el escalado de Scrum
+El escalado de Scrum también presenta desafíos y consideraciones particulares que deben abordarse. Algunos puntos importantes son:
+
+- Mantener la agilidad y la flexibilidad en un entorno escalado, evitando la rigidez y la burocracia excesiva.
+- Gestionar la dependencia y la integración de los entregables de diferentes equipos.
+- Asegurar una comunicación clara y efectiva entre los diferentes niveles de gestión y los equipos.
+
+El escalado de Scrum requiere una planificación y una adaptación cuidadosas para superar estos desafíos y garantizar el éxito del proyecto.

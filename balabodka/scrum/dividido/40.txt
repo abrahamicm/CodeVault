@@ -1,0 +1,8 @@
+ Resolución de conflictos y toma de decisiones
+En cualquier proyecto, pueden surgir conflictos y decisiones difíciles. En Scrum, algunos puntos clave para abordarlos son:
+
+- Fomentar un entorno de confianza y respeto mutuo entre los miembros del equipo.
+- Utilizar técnicas de resolución de conflictos, como la escucha activa, la negociación y la búsqueda de soluciones en conjunto.
+- Facilitar la toma de decisiones basada en consenso o utilizando métodos ágiles como "Fist of Five" o "Dot Voting".
+
+La resolución de conflictos y la toma de decisiones colaborativa promueven la cohesión del equipo y mejoran la calidad de las soluciones adoptadas.

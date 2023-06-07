@@ -1,0 +1,8 @@
+ Control y adaptación durante el desarrollo
+La metodología Scrum fomenta un enfoque de control y adaptación constante. Algunos puntos a considerar son:
+
+- Se realizan reuniones diarias de seguimiento (Daily Scrum) para monitorear el progreso y abordar los posibles obstáculos.
+- Se realizan reuniones de retrospectiva al final de cada sprint para evaluar el proceso y realizar mejoras.
+- El equipo de desarrollo y el Scrum Master colaboran para identificar y abordar los cambios necesarios durante el desarrollo.
+
+El control y adaptación durante el desarrollo permite una mayor flexibilidad y la capacidad de responder rápidamente a los cambios y desafíos que surjan.

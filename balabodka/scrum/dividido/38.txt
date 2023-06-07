@@ -1,0 +1,8 @@
+ Facilitación de la comunicación efectiva
+La comunicación efectiva es esencial para el éxito de un equipo de Scrum. Algunos aspectos clave son:
+
+- Se realizan reuniones diarias de seguimiento (Daily Scrum) para compartir actualizaciones, sincronizar actividades y abordar posibles problemas.
+- Se fomenta la comunicación abierta y honesta entre todos los miembros del equipo.
+- Se utilizan herramientas colaborativas y canales de comunicación adecuados para mantener a todos informados y facilitar la colaboración.
+
+La facilitación de la comunicación efectiva promueve la colaboración, la resolución rápida de problemas y el flujo continuo de información.

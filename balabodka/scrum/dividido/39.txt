@@ -1,0 +1,8 @@
+ Transparencia y visibilidad del progreso
+La transparencia y la visibilidad del progreso son elementos esenciales en Scrum. Algunos puntos importantes son:
+
+- Se utiliza un tablero Kanban o una herramienta de gestión de proyectos ágil para visualizar el estado de las tareas y el avance del proyecto.
+- El Product Backlog y el Sprint Backlog son accesibles para todos los miembros del equipo y stakeholders, lo que permite una comprensión clara de las prioridades y el trabajo realizado.
+- Se realizan reuniones de revisión de sprints para mostrar los incrementos del producto y recibir retroalimentación.
+
+La transparencia y la visibilidad del progreso promueven la confianza, la colaboración y la toma de decisiones basada en información actualizada.

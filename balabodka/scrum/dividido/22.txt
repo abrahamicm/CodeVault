@@ -1,0 +1,8 @@
+ Estimación relativa (story points)
+En Scrum, la estimación relativa se basa en la complejidad y el esfuerzo relativo de las historias de usuario en lugar de estimaciones precisas en unidades de tiempo. Algunas características de la estimación relativa incluyen:
+
+- Se utiliza una escala de puntos de historia (story points) para asignar valores a las historias de usuario en función de su complejidad y esfuerzo.
+- Se compara el esfuerzo requerido por una historia con otras historias previamente estimadas para establecer una referencia relativa.
+- El equipo de desarrollo colabora en las estimaciones, lo que fomenta la discusión y el entendimiento compartido.
+
+La estimación relativa proporciona una forma más flexible y menos precisa de estimar el trabajo, permitiendo al equipo de desarrollo adaptarse a medida que se adquiere más conocimiento durante el proyecto.

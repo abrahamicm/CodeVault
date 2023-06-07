@@ -1,0 +1,9 @@
+ Planificación de Sprints
+La planificación de sprints es el proceso de selección y desglose de elementos del Product Backlog para un sprint específico. Algunas características de la planificación de sprints incluyen:
+
+- El equipo de desarrollo y el Product Owner colaboran para seleccionar los elementos más prioritarios del Product Backlog para el próximo sprint.
+- Los elementos seleccionados se desglosan en tareas más pequeñas y se estima el esfuerzo necesario para completarlas.
+- Se establece el objetivo del sprint y se define cómo se logrará.
+- Se acuerda la cantidad de trabajo que se puede completar dentro de la capacidad del equipo de desarrollo durante el sprint.
+
+La planificación de sprints permite al equipo de desarrollo tener una visión clara del trabajo a realizar durante el sprint y establecer metas alcanzables.

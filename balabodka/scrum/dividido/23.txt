@@ -1,0 +1,9 @@
+ Planificación de Releases
+La planificación de releases implica establecer una hoja de ruta para la entrega de incrementos del producto y la gestión de las expectativas de los stakeholders. Algunas características de la planificación de releases incluyen:
+
+- Se identifican los elementos del Product Backlog que se incluirán en cada release o versión del producto.
+- Se establecen las fechas de entrega y los objetivos para cada release.
+- Se priorizan los elementos del Product Backlog en función de su valor y necesidades del negocio.
+- El Product Owner y el equipo de desarrollo colaboran para planificar y ajustar las releases a medida que avanza el proyecto.
+
+La planificación de releases permite una visión de alto nivel del progreso del proyecto y ayuda a garantizar que se entreguen incrementos valiosos de manera regular.
