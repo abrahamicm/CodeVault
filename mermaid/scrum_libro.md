@@ -112,6 +112,7 @@ graph TD
 ```
 
 3. Diagrama de barras
+
 ```mermaid
 bar
     title Estructura del libro de Scrum
