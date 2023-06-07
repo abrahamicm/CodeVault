@@ -57,3 +57,73 @@ graph LR
     J --> J3(Cultura de mejora continua y aprendizaje organizacional)
     J --> J4(Herramientas y técnicas para la mejora en Scrum)
 ```
+
+
+1. Diagrama de flujo
+
+```mermaid
+graph TB
+    A((Introducción a Scrum))
+    B((Roles en Scrum))
+    C((Artefactos de Scrum))
+    D((Eventos de Scrum))
+    E((Estimación y planificación en Scrum))
+    F((Gestión del Product Backlog))
+    G((Desarrollo iterativo e incremental))
+    H((Colaboración y comunicación en Scrum))
+    I((Escalado de Scrum))
+    J((Mejora continua en Scrum))
+
+    A --> B
+    A --> C
+    A --> D
+    A --> E
+    A --> F
+    A --> G
+    A --> H
+    A --> I
+    A --> J
+```
+
+2. Diagrama de árbol
+
+```mermaid
+graph TD
+    A((Introducción a Scrum))
+    B((Roles en Scrum))
+    C((Artefactos de Scrum))
+    D((Eventos de Scrum))
+    E((Estimación y planificación en Scrum))
+    F((Gestión del Product Backlog))
+    G((Desarrollo iterativo e incremental))
+    H((Colaboración y comunicación en Scrum))
+    I((Escalado de Scrum))
+    J((Mejora continua en Scrum))
+
+    A -->|Subtemas| B
+    A -->|Subtemas| C
+    A -->|Subtemas| D
+    A -->|Subtemas| E
+    A -->|Subtemas| F
+    A -->|Subtemas| G
+    A -->|Subtemas| H
+    A -->|Subtemas| I
+    A -->|Subtemas| J
+```
+
+3. Diagrama de barras
+```mermaid
+bar
+    title Estructura del libro de Scrum
+    Introducción a Scrum : 1
+    Roles en Scrum : 1
+    Artefactos de Scrum : 1
+    Eventos de Scrum : 1
+    Estimación y planificación en Scrum : 1
+    Gestión del Product Backlog : 1
+    Desarrollo iterativo e incremental : 1
+    Colaboración y comunicación en Scrum : 1
+    Escalado de Scrum : 1
+    Mejora continua en Scrum : 1
+```
+
