@@ -87,8 +87,8 @@ Conclusiones
 Recuerda que esta es solo una propuesta de índice y puedes ajustarlo según los juegos específicos que desees incluir en tu libro sobre juegos de grupo para romper el hielo.
 
 
-cual seria la tabla de contenido para un libro de mecanica_automotriz
-cual seria la tabla de contenido para un libro de andragogia
+
+
 cual seria la tabla de contenido para un libro de economia
 cual seria la tabla de contenido para un libro de historia_de_venezuela
 cual seria la tabla de contenido para un libro de geografia_de_venezuela
@@ -130,7 +130,7 @@ cual seria la tabla de contenido para un libro de publicidad_local_de_charcuteri
 cual seria la tabla de contenido para un libro de negocio_carnicero
 cual seria la tabla de contenido para un libro de negocio_supermercados
 cual seria la tabla de contenido para un libro de mantenimiento_mecanico
-cual seria la tabla de contenido para un libro de 
+
 
 
 
