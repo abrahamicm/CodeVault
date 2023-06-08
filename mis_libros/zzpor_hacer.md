@@ -33,11 +33,9 @@ cual seria la tabla de contenido para un libro de arquitectura_php
 cual seria la tabla de contenido para un libro de ui
 cual seria la tabla de contenido para un libro de ux
 cual seria la tabla de contenido para un libro de tipos_de_escritura
-cual seria la tabla de contenido para un libro de videografía
-cual seria la tabla de contenido para un libro de conversaciones_dificiles
 cual seria la tabla de contenido para un libro de fumigacion
 cual seria la tabla de contenido para un libro de motocicletas
-cual seria la tabla de contenido para un libro de invovacion
+
 cual seria la tabla de contenido para un libro de refigeracion_domestica
 cual seria la tabla de contenido para un libro de refigeracion_industrial
 cual seria la tabla de contenido para un libro de publicidad_local_de_charcuterias
