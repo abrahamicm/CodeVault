@@ -48,7 +48,5 @@
 4. Sobreprocesamiento: Realizar actividades o procesos innecesarios.
 5. Inventario: Mantener existencias excesivas de productos o materiales.
 6. Movimiento: Movimiento innecesario de personas u objetos.
-7. Defectos: Productos o servicios
-
- que no cumplen con los requisitos del cliente.
+7. Defectos: Productos o servicios que no cumplen con los requisitos del cliente.
 8. Habilidades no utilizadas: No aprovechar todo el potencial y las habilidades de los empleados.
