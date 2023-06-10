@@ -23,3 +23,6 @@ Hay varias estrategias que se pueden utilizar para aliviar la sobrecarga cogniti
 6. Hacer ejercicio: el ejercicio físico regular puede mejorar la salud mental y cognitiva, reducir el estrés y mejorar la capacidad de concentración y procesamiento cognitivo.
 
 En general, la clave para aliviar la sobrecarga cognitiva es encontrar un equilibrio adecuado entre la cantidad de información y demandas cognitivas a las que estamos expuestos y nuestras habilidades cognitivas para procesarlas y manejarlas.
+# 10-06-2023
+- manual de marcas
+- google my busines
