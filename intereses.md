@@ -26,3 +26,4 @@ En general, la clave para aliviar la sobrecarga cognitiva es encontrar un equili
 # 10-06-2023
 - manual de marcas
 - google my busines
+- revisar mis otros repositorios a ver que consigo

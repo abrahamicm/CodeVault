@@ -128,5 +128,3 @@ win32`
 
 3. **Crear archivo ejecutable**:
    - Para Windows: `electron-builder --win`
-
-Recuerda que estos son solo algunos aspectos básicos de Electron. Para obtener más información, consulta la documentación oficial de Electron. ¡Espero que esto te sea útil!

@@ -1,4 +1,3 @@
-
 Introducción
 1. La importancia de detectar oportunidades
    1.1 ¿Qué es una oportunidad?
