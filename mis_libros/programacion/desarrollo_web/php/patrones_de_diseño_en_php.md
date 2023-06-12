@@ -1,13 +1,13 @@
 # 1. Introducción a los patrones de diseño en PHP
-1.  ¿Qué son los patrones de diseño?
+# 1  ¿Qué son los patrones de diseño?
 Los patrones de diseño son soluciones generales y probadas para problemas comunes en el desarrollo de software. Se trata de un conjunto de reglas y buenas prácticas que ayudan a los desarrolladores a resolver problemas comunes de manera eficiente y efectiva. 
-2.  Ventajas de utilizar patrones de diseño en el desarrollo de aplicaciones web en PHP
+# 2  Ventajas de utilizar patrones de diseño en el desarrollo de aplicaciones web en PHP
 En el contexto de PHP, los patrones de diseño son particularmente útiles debido a la naturaleza dinámica del lenguaje y la flexibilidad de su sintaxis. La utilización de patrones de diseño en el desarrollo de aplicaciones web en PHP puede proporcionar las siguientes ventajas:
 - Mejora la calidad del código: Los patrones de diseño proporcionan una estructura clara y ordenada al código, lo que facilita su lectura y mantenimiento. Además, fomentan la modularidad y la reutilización de código, lo que puede mejorar significativamente la calidad del software.
 - Reduce el tiempo de desarrollo: Al utilizar patrones de diseño, los desarrolladores pueden aprovechar soluciones ya probadas y optimizadas para problemas comunes. Esto puede reducir el tiempo necesario para implementar nuevas funcionalidades o corregir errores.
 - Facilita la colaboración: Dado que los patrones de diseño son soluciones establecidas y bien conocidas, los desarrolladores pueden trabajar juntos de manera más eficiente y efectiva.
 
-3.  Patrones de diseño más comunes en PHP
+# 3  Patrones de diseño más comunes en PHP
 Entre los patrones de diseño más comunes en PHP se encuentran:
 - Patrón MVC (Modelo Vista Controlador): Este patrón divide una aplicación web en tres partes principales: el modelo (que representa los datos), la vista (que representa la interfaz de usuario) y el controlador (que se encarga de la lógica de negocio y mantiene la comunicación entre el modelo y la vista).
 - Patrón Singleton: Este patrón garantiza que solo exista una instancia de una clase determinada en toda la aplicación. Es útil para establecer una única conexión a una base de datos o para mantener una configuración global.
@@ -201,7 +201,7 @@ $productoB2 = $fabrica2->crearProductoB(); // crea un objeto ProductoB2
 
 De esta forma, se pueden crear objetos de diferentes familias sin tener que conocer las clases específicas que se están instanciando.
 
-4.  Builder
+# 4  Builder
 
 |                                | Factory                                           | Abstract Factory                                   |
 |--------------------------------|---------------------------------------------------|----------------------------------------------------|
@@ -227,7 +227,7 @@ Por otro lado, el patrón Abstract Factory es más adecuado cuando se necesita t
 
 En resumen, utiliza el patrón Factory cuando sólo necesites crear objetos concretos de una clase en particular sin necesidad de cambiar entre ellos, y utiliza el patrón Abstract Factory cuando necesites trabajar con múltiples familias de productos y desees abstraer su creación para hacer el código más modular y flexible.
    
-5.  Prototype
+# 5  Prototype
 El patrón de diseño Prototype se utiliza cuando no se conoce el tipo exacto de objetos que deben crearse pero se tiene un prototipo, es decir, un objeto preexistente que sirve como modelo para crear nuevos objetos.
 
 En PHP, se puede implementar el patrón de diseño Prototype de la siguiente manera:

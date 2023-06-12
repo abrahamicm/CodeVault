@@ -25,29 +25,29 @@
 
 # 6. Herramientas de ingeniería inversa en PHP
 ## Descripción de las herramientas más populares para ingeniería inversa en PHP
-   1. PHP Parser
-   - Una herramienta que analiza el código fuente PHP y lo convierte en un árbol sintáctico abstracto (AST), lo que permite obtener información sobre la estructura del código y sus elementos individuales.
-   - Esta herramienta es útil para entender la lógica del código y detectar problemas de seguridad potenciales, como inyecciones SQL o vulnerabilidades XSS.
+1. PHP Parser
+- Una herramienta que analiza el código fuente PHP y lo convierte en un árbol sintáctico abstracto (AST), lo que permite obtener información sobre la estructura del código y sus elementos individuales.
+- Esta herramienta es útil para entender la lógica del código y detectar problemas de seguridad potenciales, como inyecciones SQL o vulnerabilidades XSS.
 
-   2. phpMyAdmin
-   - Un gestor de bases de datos MySQL que permite a los usuarios visualizar y modificar las tablas y registros de una base de datos.
-   - Esta herramienta puede ser utilizada para extraer información sensible de una base de datos, como credenciales de acceso o información confidencial de los usuarios.
+2. phpMyAdmin
+- Un gestor de bases de datos MySQL que permite a los usuarios visualizar y modificar las tablas y registros de una base de datos.
+- Esta herramienta puede ser utilizada para extraer información sensible de una base de datos, como credenciales de acceso o información confidencial de los usuarios.
 
-   3. Xdebug
-   - Una extensión de PHP que proporciona una serie de herramientas para el debugging y profiling de aplicaciones PHP.
-   - Incluye funciones para rastrear la ejecución de scripts, inspeccionar variables y generar informes de performance.
+3. Xdebug
+- Una extensión de PHP que proporciona una serie de herramientas para el debugging y profiling de aplicaciones PHP.
+- Incluye funciones para rastrear la ejecución de scripts, inspeccionar variables y generar informes de performance.
 
-   4. Zend Studio
-   - Un IDE (entorno de desarrollo integrado) para PHP que incluye un conjunto de herramientas para análisis estático de código, profiling de rendimiento y debugging de aplicaciones web.
-   - Es una herramienta muy completa y popular entre los desarrolladores PHP profesionales.
+4. Zend Studio
+- Un IDE (entorno de desarrollo integrado) para PHP que incluye un conjunto de herramientas para análisis estático de código, profiling de rendimiento y debugging de aplicaciones web.
+- Es una herramienta muy completa y popular entre los desarrolladores PHP profesionales.
 
-   5. Wireshark
-   - Un sniffer de red que permite monitorear el tráfico de red y analizar los paquetes intercambiados entre dos sistemas.
-   - Puede ser utilizado para interceptar solicitudes HTTP y analizar la información transmitida, incluyendo credenciales de acceso y otra información sensible.
+5. Wireshark
+- Un sniffer de red que permite monitorear el tráfico de red y analizar los paquetes intercambiados entre dos sistemas.
+- Puede ser utilizado para interceptar solicitudes HTTP y analizar la información transmitida, incluyendo credenciales de acceso y otra información sensible.
 
-   6. SQLMap
-   - Una herramienta automatizada de inyección SQL y explotación de vulnerabilidades de bases de datos.
-   - Puede ser utilizado para identificar vulnerabilidades en aplicaciones web PHP y obtener información confidencial de las bases de datos subyacentes.
+6. SQLMap
+- Una herramienta automatizada de inyección SQL y explotación de vulnerabilidades de bases de datos.
+- Puede ser utilizado para identificar vulnerabilidades en aplicaciones web PHP y obtener información confidencial de las bases de datos subyacentes.
 
 ## Comparación y selección de herramientas adecuadas para diferentes proyectos
 

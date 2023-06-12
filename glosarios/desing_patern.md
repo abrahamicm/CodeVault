@@ -11,17 +11,10 @@
 11. Decorator: Un patrón estructural que permite agregar comportamiento adicional a un objeto dinámicamente.
 12. Composite: Un patrón estructural que permite tratar a un grupo de objetos de manera similar a un objeto individual.
 13. Proxy: Un patrón estructural que proporciona un sustituto o representante de otro objeto para controlar el acceso a él.
-
 14. Observer: Un patrón de comportamiento que define una dependencia uno a muchos entre objetos, de modo que cuando uno cambia de estado, todos los dependientes son notificados y actualizados automáticamente.
-
 15. Strategy: Un patrón de comportamiento que encapsula algoritmos intercambiables y los hace independientes de los clientes que los utilizan.
-
 16. Template Method: Un patrón de comportamiento que define el esqueleto de un algoritmo en una clase base y permite a las subclases redefinir ciertos pasos del algoritmo sin cambiar su estructura.
-
 17. Iterator: Un patrón de comportamiento que proporciona una forma de acceder a los elementos de una colección de manera secuencial sin exponer su estructura interna.
-
 18. State: Un patrón de comportamiento que permite que un objeto altere su comportamiento cuando su estado interno cambia.
-
 19. Command: Un patrón de comportamiento que encapsula una solicitud como un objeto, lo que le permite parametrizar a los clientes con diferentes solicitudes, encolar o registrar solicitudes y soportar operaciones deshacer.
-
 20. MVC (Model-View-Controller): Un patrón de arquitectura que separa los datos, la lógica de negocio y la interfaz de usuario en tres componentes distintos.

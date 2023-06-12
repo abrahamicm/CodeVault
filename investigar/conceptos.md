@@ -1,10 +1,10 @@
-- metricool
-- publicidad
-- mercadeo
-- marketinkg 
-- propagandas
+- Metricool: es una herramienta de análisis y gestión de redes sociales que proporciona estadísticas detalladas y métricas de rendimiento para perfiles comerciales en plataformas como Facebook, Instagram, Twitter, LinkedIn y YouTube. Permite a los profesionales de marketing medir el alcance, la participación, la interacción y otros aspectos importantes de sus campañas en redes sociales.
+
+- La publicidad: se refiere a la promoción de productos, servicios o ideas mediante la difusión de mensajes patrocinados a través de diversos canales de comunicación, como la televisión, la radio, los periódicos, las revistas, el correo directo, el correo electrónico y, cada vez más, a través de plataformas digitales y redes sociales. El objetivo de la publicidad es persuadir a los consumidores o a la audiencia objetivo para que tomen una acción específica, como comprar un producto, usar un servicio o adoptar una determinada idea.
+
+- El mercadeo: también conocido como marketing, es un conjunto de actividades y estrategias que tienen como objetivo identificar, anticipar y satisfacer las necesidades y deseos de los consumidores de manera rentable. Implica el análisis de mercado, la segmentación de la audiencia, la investigación de mercado, la creación y promoción de productos o servicios, la fijación de precios, la distribución y la comunicación efectiva con los consumidores.
 
 
-
+- Las propagandas: también conocidas como anuncios o publicidades, son mensajes persuasivos y promocionales destinados a captar la atención y persuadir a una audiencia para que realice una acción específica. Las propagandas se utilizan en diversos medios de comunicación, como la televisión, la radio, los periódicos, las revistas, los sitios web y las redes sociales, y pueden tomar la forma de anuncios de texto, imágenes, videos, audios u otros formatos creativos. Su objetivo principal es aumentar la conciencia de marca, impulsar las ventas y fomentar la lealtad del cliente.
 
  

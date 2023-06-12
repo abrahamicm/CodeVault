@@ -4,3 +4,5 @@
 - tener una carpeta llamada parches
 - lead project magnament
 - usar en better-comment HACK
+# junio 
+- investigar de google mybusisnes
