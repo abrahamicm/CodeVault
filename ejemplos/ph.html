@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Phaser.js Game</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/phaser/3.55.2/phaser.min.js"></script>
+</head>
+<body>
+  <script>
+    const config = {
+      type: Phaser.AUTO,
+      width: 800,
+      height: 600,
+      scene: {
+        create: create,
+        update: update
+      }
+    };
+
+    let game = new Phaser.Game(config);
+    let player;
+    let enemy;
+
+    function create() {
+      this.add.rectangle(0, 0, 800, 600, 0x000000).setOrigin(0);
+
+      player = this.add.circle(400, 300, 30, 0xff0000);
+      enemy = this.add.rectangle(Phaser.Math.Between(100, 700), Phaser.Math.Between(100, 500), 50, 50, 0x00ff00);
+    }
+
+    function update() {
+      if (this.input.activePointer.isDown) {
+        player.x = this.input.activePointer.x;
+        player.y = this.input.activePointer.y;
+      }
+
+      if (Phaser.Geom.Intersects.RectangleToRectangle(player.getBounds(), enemy.getBounds())) {
+        console.log("¡Colisión!");
+      }
+    }
+  </script>
+</body>
+</html>

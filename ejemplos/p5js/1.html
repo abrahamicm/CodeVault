@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pintar elementos de un array con p5.js</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+</head>
+<body>
+  <script>
+    let numbers = [1, 2, 3, 8, 5, 6, 7, 8];
+
+    function setup() {
+      createCanvas(900, 900);
+      background(220);
+      noLoop();
+    }
+
+    function draw() {
+      let x = 50;
+      let y = height / 2;
+      let size = 40;
+
+      for (let i = 0; i < numbers.length; i++) {
+        let num = numbers[i];
+        let color = getRandomColor();
+
+        fill(color);
+        rect(x, y, size, size);
+        fill(255);
+        textSize(16);
+        textAlign(CENTER, CENTER);
+        text(num, x + size / 2, y + size / 2);
+
+        x += size + 10;
+      }
+    }
+
+    function getRandomColor() {
+      let r = random(0, 255);
+      let g = random(0, 255);
+      let b = random(0, 255);
+      return color(r, g, b);
+    }
+  </script>
+</body>
+</html>

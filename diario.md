@@ -27,3 +27,8 @@ En general, la clave para aliviar la sobrecarga cognitiva es encontrar un equili
 - manual de marcas
 - google my busines
 - revisar mis otros repositorios a ver que consigo
+# 12-06-2023
+- https://www.phpformbuilder.pro/
+- VS Sequential Number, extension vscode
+- Markdown Preview Mermaid Support
+- Mermaid Markdown Syntax Highlighting
