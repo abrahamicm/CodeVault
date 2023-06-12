@@ -1,62 +1,62 @@
-1. Introducción a Scrum
-   - Definición y principios fundamentales de Scrum
-   - Historia y origen de Scrum
-   - Beneficios y aplicaciones de Scrum
+# 1 Introducción a Scrum
+- Definición y principios fundamentales de Scrum
+- Historia y origen de Scrum
+- Beneficios y aplicaciones de Scrum
 
-2. Roles en Scrum
-   - Scrum Master
-   - Product Owner
-   - Equipo de Desarrollo
-   - Interacciones y responsabilidades entre los roles
+# 2 Roles en Scrum
+- Scrum Master
+- Product Owner
+- Equipo de Desarrollo
+- Interacciones y responsabilidades entre los roles
 
-3. Artefactos de Scrum
-   - Product Backlog
-   - Sprint Backlog
-   - Incremento del Producto
-   - Definition of Done
+# 3 Artefactos de Scrum
+- Product Backlog
+- Sprint Backlog
+- Incremento del Producto
+- Definition of Done
 
-4. Eventos de Scrum
-   - Sprint Planning
-   - Daily Scrum
-   - Sprint Review
-   - Sprint Retrospective
-   - Sprint y ciclos de trabajo
+# 4 Eventos de Scrum
+- Sprint Planning
+- Daily Scrum
+- Sprint Review
+- Sprint Retrospective
+- Sprint y ciclos de trabajo
 
-5. Estimación y planificación en Scrum
-   - Estimación relativa (story points)
-   - Planificación de Releases
-   - Planificación de Sprints
-   - Gestión del tiempo y seguimiento del progreso
+# 5 Estimación y planificación en Scrum
+- Estimación relativa (story points)
+- Planificación de Releases
+- Planificación de Sprints
+- Gestión del tiempo y seguimiento del progreso
 
-6. Gestión del Product Backlog
-   - Creación y mantenimiento del Product Backlog
-   - Priorización de los elementos del Product Backlog
-   - Refinamiento y descomposición de historias de usuario
-   - Técnicas de gestión y seguimiento del Product Backlog
+# 6 Gestión del Product Backlog
+- Creación y mantenimiento del Product Backlog
+- Priorización de los elementos del Product Backlog
+- Refinamiento y descomposición de historias de usuario
+- Técnicas de gestión y seguimiento del Product Backlog
 
-7. Desarrollo iterativo e incremental
-   - Concepto de entrega de valor incremental
-   - Planificación y ejecución de Sprints
-   - Revisión y ajuste de objetivos en cada Sprint
-   - Control y adaptación durante el desarrollo
+# 7 Desarrollo iterativo e incremental
+- Concepto de entrega de valor incremental
+- Planificación y ejecución de Sprints
+- Revisión y ajuste de objetivos en cada Sprint
+- Control y adaptación durante el desarrollo
 
-8. Colaboración y comunicación en Scrum
-   - Trabajo en equipo autogestionado
-   - Facilitación de la comunicación efectiva
-   - Transparencia y visibilidad del progreso
-   - Resolución de conflictos y toma de decisiones
+# 8 Colaboración y comunicación en Scrum
+- Trabajo en equipo autogestionado
+- Facilitación de la comunicación efectiva
+- Transparencia y visibilidad del progreso
+- Resolución de conflictos y toma de decisiones
 
-9. Escalado de Scrum
-   - Scrum en proyectos grandes y complejos
-   - Frameworks y prácticas de escalado
-   - Coordinación y alineación entre equipos
-   - Retos y consideraciones en el escalado de Scrum
+# 9 Escalado de Scrum
+- Scrum en proyectos grandes y complejos
+- Frameworks y prácticas de escalado
+- Coordinación y alineación entre equipos
+- Retos y consideraciones en el escalado de Scrum
 
-10. Mejora continua en Scrum
-    - Uso de retrospectivas para el aprendizaje
-    - Adaptación y evolución del proceso
-    - Cultura de mejora continua y aprendizaje organizacional
-    - Herramientas y técnicas para la mejora en Scrum
+# 10 Mejora continua en Scrum
+ - Uso de retrospectivas para el aprendizaje
+ - Adaptación y evolución del proceso
+ - Cultura de mejora continua y aprendizaje organizacional
+ - Herramientas y técnicas para la mejora en Scrum
 
 
 
