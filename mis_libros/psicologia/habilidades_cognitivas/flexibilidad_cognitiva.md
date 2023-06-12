@@ -40,6 +40,6 @@
 -  Solución de problemas complejos a través de la flexibilidad cognitiva
 
 # 10 Mantenimiento y desarrollo continuo de la flexibilidad cognitiva
-    - Prácticas diarias para mantener y fortalecer la flexibilidad cognitiva
-    - Incorporación de la flexibilidad cognitiva en el estilo de vida y la rutina diaria
-    - Beneficios a largo plazo de mantener la flexibilidad cognitiva
+- Prácticas diarias para mantener y fortalecer la flexibilidad cognitiva
+- Incorporación de la flexibilidad cognitiva en el estilo de vida y la rutina diaria
+- Beneficios a largo plazo de mantener la flexibilidad cognitiva

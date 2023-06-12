@@ -30,7 +30,7 @@
 # 6 El poder del storytelling en diferentes ámbitos
 - 6.1 Storytelling en el ámbito empresarial y del marketing
 - 6.2 Storytelling en presentaciones y discursos
- - 6.3 Storytelling en el ámbito educativo
+- 6.3 Storytelling en el ámbito educativo
 - 6.4 Storytelling en el ámbito social y cultural
 
 # 7 Cómo desarrollar tus habilidades de storytelling
