@@ -329,9 +329,7 @@ El refinamiento y la descomposición efectivos de las historias de usuario permi
 Existen varias técnicas y prácticas que ayudan en la gestión y seguimiento del Product Backlog. Algunas de ellas son:
 
 - Establecer criterios de aceptación claros para cada elemento del Product Backlog.
-- Utilizar herramientas de gestión de proyectos ágiles para mantener el Product Backlog visible y actual
-
-izado.
+- Utilizar herramientas de gestión de proyectos ágiles para mantener el Product Backlog visible y actualizado.
 - Realizar reuniones periódicas de refinamiento del Product Backlog para revisar y ajustar los elementos.
 - Realizar un seguimiento regular del progreso y los cambios en el Product Backlog.
 
