@@ -1,5 +1,3 @@
-- filosofia
-- historia de la matematica
-- historia de la computacion
-- historia de los emprendimiendos
-- historia del marketing
+
+tabla de contenido de un libro sobre historia de los emprendimiendos
+tabla de contenido de un libro sobre historia del marketing
