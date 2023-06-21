@@ -1,12 +1,12 @@
-01. Patrón de diseño: Una solución probada y repetible para un problema común en el diseño de software.
-02. Patrón creacional: Un patrón que se ocupa de la creación de objetos, abstrayendo los detalles específicos de su creación.
-03. Patrón estructural: Un patrón que se ocupa de la composición y estructura de las clases y objetos.
-04. Patrón de comportamiento: Un patrón que se ocupa de la interacción y comunicación entre objetos.
-05. Singleton: Un patrón creacional que asegura la existencia de una única instancia de una clase y proporciona un punto de acceso global a ella.
-06. Factory Method: Un patrón creacional que define una interfaz para crear objetos, pero permite a las subclases decidir qué clase instanciar.
-07. Abstract Factory: Un patrón creacional que proporciona una interfaz para crear familias de objetos relacionados o dependientes sin especificar sus clases concretas.
-08. Builder: Un patrón creacional que separa la construcción de un objeto complejo de su representación, permitiendo la creación paso a paso.
-09. Prototype: Un patrón creacional que permite la creación de nuevos objetos a partir de un objeto existente mediante la clonación.
+1. Patrón de diseño: Una solución probada y repetible para un problema común en el diseño de software.
+2. Patrón creacional: Un patrón que se ocupa de la creación de objetos, abstrayendo los detalles específicos de su creación.
+3. Patrón estructural: Un patrón que se ocupa de la composición y estructura de las clases y objetos.
+4. Patrón de comportamiento: Un patrón que se ocupa de la interacción y comunicación entre objetos.
+5. Singleton: Un patrón creacional que asegura la existencia de una única instancia de una clase y proporciona un punto de acceso global a ella.
+6. Factory Method: Un patrón creacional que define una interfaz para crear objetos, pero permite a las subclases decidir qué clase instanciar.
+7. Abstract Factory: Un patrón creacional que proporciona una interfaz para crear familias de objetos relacionados o dependientes sin especificar sus clases concretas.
+8. Builder: Un patrón creacional que separa la construcción de un objeto complejo de su representación, permitiendo la creación paso a paso.
+9. Prototype: Un patrón creacional que permite la creación de nuevos objetos a partir de un objeto existente mediante la clonación.
 10. Adapter: Un patrón estructural que permite la colaboración entre objetos con interfaces incompatibles.
 11. Decorator: Un patrón estructural que permite agregar comportamiento adicional a un objeto dinámicamente.
 12. Composite: Un patrón estructural que permite tratar a un grupo de objetos de manera similar a un objeto individual.
