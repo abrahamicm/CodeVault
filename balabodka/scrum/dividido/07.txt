@@ -1,9 +1,0 @@
- Product Owner
-El Product Owner representa los intereses de los stakeholders y es responsable de maximizar el valor del producto. Sus responsabilidades incluyen:
-
-- Definir y priorizar el Product Backlog, que es la lista ordenada de requisitos y funcionalidades del producto.
-- Trabajar en estrecha colaboración con el equipo de desarrollo para establecer una visión clara y compartida del producto.
-- Tomar decisiones sobre las características y funcionalidades del producto en función de las necesidades y objetivos del negocio.
-- Participar en las reuniones de planificación, revisión y retrospectiva del sprint para asegurar que se estén cumpliendo los objetivos del producto.
-
-El Product Owner tiene la autoridad y responsabilidad final sobre las decisiones relacionadas con el producto y es el enlace principal entre el equipo de desarrollo y los stakeholders.

@@ -1,4 +1,0 @@
- Historia y origen de Scrum
-Scrum fue desarrollado por primera vez a principios de la década de 1990 por Jeff Sutherland y Ken Schwaber. Se inspiraron en los trabajos de Hirotaka Takeuchi e Ikujiro Nonaka sobre el desarrollo de productos nuevos y complejos, quienes acuñaron el término "scrum" basado en el rugby para describir un enfoque de equipo colaborativo.
-
-Inicialmente, Scrum se utilizaba principalmente en el ámbito del desarrollo de software, pero con el tiempo ha encontrado aplicaciones en una amplia gama de industrias y proyectos, incluidos proyectos de marketing, investigación, desarrollo de productos y más.

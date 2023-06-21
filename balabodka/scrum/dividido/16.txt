@@ -1,9 +1,0 @@
- Sprint Planning
-El Sprint Planning es una reunión que se lleva a cabo al comienzo de cada sprint. Algunas características del Sprint Planning incluyen:
-
-- El Product Owner y el equipo de desarrollo colaboran para seleccionar y priorizar los elementos del Product Backlog que se abordarán durante el sprint.
-- Se discute y se desglosa cada elemento en tareas más pequeñas.
-- Se establece el objetivo del sprint y se define cómo se logrará.
-- Se determina la capacidad del equipo de desarrollo y se acuerda la cantidad de trabajo a realizar durante el sprint.
-
-El Sprint Planning permite al equipo de desarrollo comprender los requisitos del sprint y establecer un plan claro para lograr los objetivos establecidos.

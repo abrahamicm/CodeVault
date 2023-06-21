@@ -1,8 +1,0 @@
- Trabajo en equipo autogestionado
-En Scrum, se fomenta el trabajo en equipo autogestionado, donde los miembros del equipo tienen la responsabilidad de organizar y realizar su trabajo de manera colaborativa. Algunos puntos clave son:
-
-- Los miembros del equipo se comprometen a alcanzar los objetivos establecidos y trabajan juntos para lograrlos.
-- Existe una distribución equitativa de las tareas y se promueve la colaboración y el apoyo mutuo.
-- El equipo tiene la autoridad y la responsabilidad de tomar decisiones y gestionar su propio trabajo.
-
-El trabajo en equipo autogestionado fomenta la autonomía, la creatividad y el compromiso del equipo, lo que contribuye a una colaboración efectiva.

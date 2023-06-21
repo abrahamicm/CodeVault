@@ -1,9 +1,0 @@
- Sprint Review
-El Sprint Review es una reunión al final de cada sprint para revisar y evaluar el incremento del producto completado. Algunas características del Sprint Review incluyen:
-
-- El equipo de desarrollo muestra al Product Owner y a los stakeholders el incremento del producto.
-- Se recopila y se discute la retroalimentación de los stakeholders.
-- Se revisa el progreso hacia el objetivo general del proyecto y se ajusta el Product Backlog según sea necesario.
-- El Product Owner decide qué hacer con el incremento del producto, como su entrega o su inclusión en la próxima iteración.
-
-El Sprint Review brinda la oportunidad de obtener comentarios valiosos de los stakeholders y asegura que el producto esté alineado con las expectativas y necesidades del cliente.

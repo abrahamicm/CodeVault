@@ -1,8 +1,0 @@
- Coordinación y alineación entre equipos
-La coordinación y alineación entre los equipos es fundamental para el éxito del escalado de Scrum. Algunos aspectos clave son:
-
-- Establecer reuniones de coordinación, como eventos de sincronización y retrospectivas a nivel de equipo ampliado.
-- Compartir información y conocimientos entre los equipos para garantizar una comprensión común de los objetivos y requisitos.
-- Utilizar herramientas y plataformas colaborativas para facilitar la comunicación y la gestión del trabajo a nivel de equipo ampliado.
-
-La coordinación y alineación efectivas entre equipos promueven la coherencia y la entrega de valor integrada en proyectos escalados.

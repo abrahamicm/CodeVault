@@ -1,8 +1,0 @@
- Cultura de mejora continua y aprendizaje organizacional
-En Scrum, se fomenta una cultura de mejora continua y aprendizaje organizacional. Algunos puntos importantes son:
-
-- Se valora el aprendizaje de los errores y se fomenta la experimentación y la innovación.
-- Se promueve el intercambio de conocimientos y experiencias entre los miembros del equipo.
-- Se alienta a la organización a aprender de los resultados de los proyectos y aplicar ese aprendizaje en futuros proyectos.
-
-La cultura de mejora continua y aprendizaje organizacional en Scrum permite un crecimiento y desarrollo constantes tanto a nivel individual como a nivel de equipo y organización.

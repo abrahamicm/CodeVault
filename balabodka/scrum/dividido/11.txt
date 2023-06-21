@@ -1,9 +1,0 @@
- Product Backlog
-El Product Backlog es una lista ordenada de todas las funcionalidades, características, mejoras y elementos de trabajo necesarios para el producto. Algunas características del Product Backlog incluyen:
-
-- Contiene descripciones claras y detalladas de los elementos del producto.
-- Los elementos están priorizados en función del valor que aportan al producto y las necesidades del negocio.
-- Se actualiza de forma continua a medida que se agregan nuevos requisitos o se modifican los existentes.
-- Es responsabilidad del Product Owner gestionar y mantener el Product Backlog.
-
-El Product Backlog actúa como una guía dinámica para el equipo de desarrollo y se utiliza para planificar y priorizar el trabajo durante los sprints.

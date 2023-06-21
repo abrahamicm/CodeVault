@@ -1,8 +1,0 @@
- Refinamiento y descomposición de historias de usuario
-El refinamiento y la descomposición de las historias de usuario es un proceso continuo para asegurar que sean claras, comprensibles y abordables. Algunos aspectos importantes incluyen:
-
-- El equipo de desarrollo y el Product Owner colaboran para refinar las historias de usuario y descomponerlas en tareas más pequeñas.
-- Se utilizan técnicas como INVEST (Independent, Negotiable, Valuable, Estimable, Small, Testable) para garantizar que las historias de usuario sean de alta calidad.
-- El refinamiento se realiza antes de la planificación de cada sprint para asegurar que las historias de usuario estén listas para ser seleccionadas.
-
-El refinamiento y la descomposición efectivos de las historias de usuario permiten un mejor entendimiento y una implementación más eficiente durante el desarrollo.
