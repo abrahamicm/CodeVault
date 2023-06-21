@@ -1,3 +1,0 @@
- 6. Gestión del Product Backlog
-
-El Product Backlog es una lista dinámica y priorizada de los requisitos, funcionalidades y mejoras deseadas para el producto. La gestión efectiva del Product Backlog es crucial para garantizar el éxito del proyecto en Scrum. Algunos aspectos importantes de la gestión del Product Backlog incluyen la creación y mantenimiento del Product Backlog, la priorización de los elementos, la refinación y descomposición de las historias de usuario, y el uso de técnicas de gestión y seguimiento.

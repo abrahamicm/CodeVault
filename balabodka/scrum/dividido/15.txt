@@ -1,3 +1,0 @@
- 4. Eventos de Scrum
-
-Los eventos de Scrum son reuniones y actividades programadas que brindan estructura y oportunidades de colaboración para el equipo de desarrollo. Estos eventos ayudan a mantener un flujo de trabajo ágil y permiten la inspección y adaptación continua. Los principales eventos de Scrum son el Sprint Planning, el Daily Scrum, el Sprint Review, el Sprint Retrospective y los sprints y ciclos de trabajo.

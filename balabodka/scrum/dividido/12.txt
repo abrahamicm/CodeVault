@@ -1,9 +1,0 @@
- Sprint Backlog
-El Sprint Backlog es una lista de elementos seleccionados del Product Backlog que el equipo de desarrollo se compromete a completar durante un sprint específico. Algunas características del Sprint Backlog incluyen:
-
-- Los elementos seleccionados se descomponen en tareas más pequeñas y concretas.
-- Incluye una estimación del esfuerzo necesario para completar cada tarea.
-- Se actualiza durante el sprint a medida que se realizan avances o surgen nuevos elementos.
-- Es responsabilidad del equipo de desarrollo gestionar y actualizar el Sprint Backlog.
-
-El Sprint Backlog proporciona una visión clara del trabajo que se debe realizar durante el sprint y ayuda al equipo de desarrollo a mantener el enfoque y cumplir con los objetivos establecidos.

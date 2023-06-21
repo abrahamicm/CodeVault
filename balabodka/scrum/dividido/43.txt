@@ -1,8 +1,0 @@
- Frameworks y prácticas de escalado
-Existen varios frameworks y prácticas específicas diseñadas para escalar Scrum y facilitar la colaboración entre múltiples equipos. Algunos de ellos son:
-
-- Scaled Agile Framework (SAFe): Proporciona un conjunto completo de principios, prácticas y roles para escalar Scrum en proyectos empresariales.
-- Large-Scale Scrum (LeSS): Se enfoca en simplificar y escalar Scrum manteniendo su esencia y minimizando la burocracia.
-- Nexus: Proporciona un framework para escalar Scrum basado en la colaboración y la integración continua de los equipos.
-
-Estos frameworks y prácticas brindan pautas y estructuras para el escalado efectivo de Scrum y la coordinación entre equipos.

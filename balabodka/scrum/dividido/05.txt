@@ -1,3 +1,0 @@
- 2. Roles en Scrum
-
-Scrum define tres roles fundamentales que son clave para el éxito del proyecto. Estos roles son el Scrum Master, el Product Owner y el Equipo de Desarrollo.

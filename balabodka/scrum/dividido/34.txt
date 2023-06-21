@@ -1,8 +1,0 @@
- Revisión y ajuste de objetivos en cada Sprint
-En cada sprint, es importante revisar y ajustar los objetivos para maximizar el valor entregado. Algunos aspectos clave son:
-
-- Al finalizar cada sprint, se lleva a cabo una reunión de revisión en la que se muestra el incremento del producto al cliente y a los stakeholders.
-- Se obtiene retroalimentación y se revisan los objetivos establecidos para el próximo sprint.
-- Los objetivos se ajustan según la retroalimentación recibida y las necesidades cambiantes del negocio.
-
-La revisión y ajuste de objetivos en cada sprint permiten una adaptación continua y aseguran que el equipo esté enfocado en las prioridades correctas.

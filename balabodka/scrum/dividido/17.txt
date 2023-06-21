@@ -1,9 +1,0 @@
- Daily Scrum
-El Daily Scrum es una reunión diaria y breve que se lleva a cabo durante el sprint. Algunas características del Daily Scrum incluyen:
-
-- Se realiza todos los días a la misma hora y lugar.
-- El equipo de desarrollo revisa el progreso y comparte información sobre lo que se ha hecho, lo que se hará y los posibles obstáculos.
-- Cada miembro del equipo responde a tres preguntas clave: ¿Qué hice ayer?, ¿Qué haré hoy? y ¿Hay algún impedimento que me esté bloqueando?
-- El Scrum Master facilita la reunión y se asegura de que se mantenga enfocada y breve.
-
-El Daily Scrum fomenta la comunicación y la colaboración diaria dentro del equipo de desarrollo, y ayuda a identificar y resolver problemas de manera oportuna.

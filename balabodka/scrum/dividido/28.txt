@@ -1,8 +1,0 @@
- Priorización de los elementos del Product Backlog
-La priorización de los elementos del Product Backlog es esencial para maximizar el valor entregado. Algunas consideraciones clave son:
-
-- El Product Owner establece la prioridad de los elementos en función del valor que aportan al producto y las necesidades del negocio.
-- Se utilizan técnicas como MoSCoW (Must have, Should have, Could have, Won't have) o Value-based Prioritization para ayudar en la priorización.
-- La prioridad de los elementos puede cambiar a medida que se adquiere más información y se ajustan las necesidades del negocio.
-
-La correcta priorización del Product Backlog asegura que los elementos más valiosos sean abordados primero y se entregue valor en cada iteración del proyecto.
