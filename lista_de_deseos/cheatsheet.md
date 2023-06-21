@@ -19,7 +19,7 @@
 
 7. Cheatsheet de patrones de diseño de PHP: Esta cheatsheet cubre algunos patrones de diseño comunes utilizados en desarrollo PHP, como Singleton y Factory.
 
-¡Por supuesto! Aquí te proporciono una lista de cheatsheets útiles para un programador frontend senior:
+## lista de cheatsheets útiles para un programador frontend senior:
 
 1. Cheatsheet de HTML: Esta cheatsheet cubre todos los elementos y atributos de HTML, incluyendo la estructura básica de un documento HTML, tipos de datos de entrada y elementos semánticos.
 
