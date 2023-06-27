@@ -10,502 +10,502 @@
 - https://goalkicker.com/
 - zealdocs.org
 
-4geeks.com
-4geeksacademy.com
-aboutespanol.com
-abrahamicm.github.io
-account.microsoft.com
-accounts.appypie.com
-accounts.google.com
-accounts.spotify.com
-acordes.lacuerda.net
-acordesweb.com
-adminlte.io
-adoptium.net
-adsmanager.facebook.com
-adsoftheworld.com
-advancedcustomfields.com
-alamy.es
-amaliorey.com
-americandream.com
-amueller.github.io
-analyticsinsight.net
-anda.cl
-anime4mega.net
-ankiweb.net
-api.whatsapp.com
-apocrypha.ovh
-app.writesonic.com
-apple.com
-apps.ankiweb.net
-appypie.com
-ar.pinterest.com
-artica.marketing
-articulo.mercadolibre.com.ve
-artoyclaro.com
-atube.me
-auth0.openai.com
-autoprefixer.github.io
-bancodevenezuela.com
-banesconline.com
-bbvaprovinet.provincial.com
-bdvenlinea.banvenez.com
-bdvenlineaempresas.banvenez.com
-beravirtual.com
-betas.ankiweb.net
-bible.com
-bible.knowing-jesus.com
-biblegateway.com
-bibleserver.com
-bigseomarketing.typeform.com
-bing.com
-bitnami.com
-bitvise.com
-biz.nf
-blog.hubspot.es
-bncenlinea.com
-board.support
-briangrinstead.com
-buenastareas.com
-buildmedia.readthedocs.org
-bumeran.com.ve
-business.facebook.com
-campus.chamilo.org
-candidato.ve.computrabajo.com
-canva.com
-cart.godaddy.com
-cdn.computerhoy.com
-cdnjs.com
-ceenaija.com
-chamilo.org
-chat.openai.com
-chatbot.theb.ai
-chiark.greenend.org.uk
-chordify.net
-chrome.google.com
-chromium.googlesource.com
-chromium.org
-chromium.woolyss.com
-cifraclub.com
-cifraclub.com.br
-classroom.google.com
-clickittech.com.mx
-clientes.sered.net
-cloud.google.com
-cloudgeki.cti-ve.com
-code.visualstudio.com
-codebeautify.org
-codecanyon.net
-codeigniter.com
-codeigniterfun.wordpress.com
-codelabs.developers.google.com
-codepen.io
-codepile.net
-computerhoy.com
-concamilo.com
-conclusion.com.ar
-convertio.co
-coty.com
-coursehero.com
-cpanel.typeform.com
-crear.wa.link
-create.wa.link
-crehana.com
-criticismo.com
-crmtest.tk
-cronopista.com
-cszcms.com
-dartpad.dev
-dashboard.ionicframework.com
-daytraderprofesional.com
-demo.board.support
-demo.files.gallery
-desarrolloweb.com
-dev.mysql.com
-developer.android.com
-developer.mozilla.org
-developer.wordpress.org
-developers.elementor.com
-developers.facebook.com
-developers.google.com
-df.cl
-diffchecker.com
-digital.com
-directorist.com
-discord.com
-discounthero.org
-djangoproject.com
-dle.rae.es
-doc.hotexamples.com
-docs.ankiweb.net
-docs.cypress.io
-docs.djangoproject.com
-docs.expo.dev
-docs.flutter.dev
-docs.github.com
-docs.google.com
-docs.gravityforms.com
-docs.litespeedtech.com
-docs.midjourney.com
-docs.sonarqube.org
-download-chromium.appspot.com
-download.moodle.org
-drive.google.com
-dupla.ai
-dynamic.ooo
-eclipse.org
-efectococuyo.com
-elcomercio.pe
-elementor.com
-elements.envato.com
-elm-lang.org
-elmostrador.cl
-eloquentjs-es.thedojo.mx
-eluniversal.com
-emezeta.com
-en.wikipedia.org
-enmimaquinafunciona.com
-entornoempresarial.com
-envato.arefindev.com
-epidata.net
-erlang.org
-es.scamdoc.com
-es.stackoverflow.com
-es.wikihow.com
-es.wikipedia.org
-es.wordpress.org
-escudamoto.com
-escudamoto.com:2083
-escudamotorcycles.com
-escudamotorcycles.com:2083
-escuelabiblica.com
-eslprintables.com
-essnappy.appypie.com
-etcanada.com
-europapress.es
-evanyou.me
-evrone.es
-expo.dev
-facebook.com
-familiahoy.com
-fenixwebcaracas.com.ve
-ffmpeg.org
-figma.com
-files.gallery
-fileviewpro.com
-flaticon.com
-flaticon.es
-flutter.dev
-flutter.github.io
-fontawesome.com
-fonts.google.com
-forum.codeigniter.com
-forum.laragon.org
-foxdp.com
-freecodecamp.org
-freelancer.es
-freenom.com
-freepik.es
-frikipedia.es
-fumigacionuniversal.com
-gekimarketing.com
-getbootstrap.com
-getcssscan.com
-getfuelcms.com
-gist.github.com
-git.ffmpeg.org
-github-android.en.uptodown.com
-github.com
-gmail.com
-goalkicker.com
-godaddy.com
-google.co.ve
-google.com
-gospeljingle.com
-gravityforms.com
-guide.elm-lang.org
-gyan.dev
-hackerrank.com
-heidisql.com
-help.ovhcloud.com
-help.perfexcrm.com
-hmsantaelena.com
-host.cpse29.eu:2083
-hostadvice.com
-hostinger.es
-html-to-pug.com
+- 4geeks.com
+- 4geeksacademy.com
+- aboutespanol.com
+- abrahamicm.github.io
+- account.microsoft.com
+- accounts.appypie.com
+- accounts.google.com
+- accounts.spotify.com
+- acordes.lacuerda.net
+- acordesweb.com
+- adminlte.io
+- adoptium.net
+- adsmanager.facebook.com
+- adsoftheworld.com
+- advancedcustomfields.com
+- alamy.es
+- amaliorey.com
+- americandream.com
+- amueller.github.io
+- analyticsinsight.net
+- anda.cl
+- anime4mega.net
+- ankiweb.net
+- api.whatsapp.com
+- apocrypha.ovh
+- app.writesonic.com
+- apple.com
+- apps.ankiweb.net
+- appypie.com
+- ar.pinterest.com
+- artica.marketing
+- articulo.mercadolibre.com.ve
+- artoyclaro.com
+- atube.me
+- auth0.openai.com
+- autoprefixer.github.io
+- bancodevenezuela.com
+- banesconline.com
+- bbvaprovinet.provincial.com
+- bdvenlinea.banvenez.com
+- bdvenlineaempresas.banvenez.com
+- beravirtual.com
+- betas.ankiweb.net
+- bible.com
+- bible.knowing-jesus.com
+- biblegateway.com
+- bibleserver.com
+- bigseomarketing.typeform.com
+- bing.com
+- bitnami.com
+- bitvise.com
+- biz.nf
+- blog.hubspot.es
+- bncenlinea.com
+- board.support
+- briangrinstead.com
+- buenastareas.com
+- buildmedia.readthedocs.org
+- bumeran.com.ve
+- business.facebook.com
+- campus.chamilo.org
+- candidato.ve.computrabajo.com
+- canva.com
+- cart.godaddy.com
+- cdn.computerhoy.com
+- cdnjs.com
+- ceenaija.com
+- chamilo.org
+- chat.openai.com
+- chatbot.theb.ai
+- chiark.greenend.org.uk
+- chordify.net
+- chrome.google.com
+- chromium.googlesource.com
+- chromium.org
+- chromium.woolyss.com
+- cifraclub.com
+- cifraclub.com.br
+- classroom.google.com
+- clickittech.com.mx
+- clientes.sered.net
+- cloud.google.com
+- cloudgeki.cti-ve.com
+- code.visualstudio.com
+- codebeautify.org
+- codecanyon.net
+- codeigniter.com
+- codeigniterfun.wordpress.com
+- codelabs.developers.google.com
+- codepen.io
+- codepile.net
+- computerhoy.com
+- concamilo.com
+- conclusion.com.ar
+- convertio.co
+- coty.com
+- coursehero.com
+- cpanel.typeform.com
+- crear.wa.link
+- create.wa.link
+- crehana.com
+- criticismo.com
+- crmtest.tk
+- cronopista.com
+- cszcms.com
+- dartpad.dev
+- dashboard.ionicframework.com
+- daytraderprofesional.com
+- demo.board.support
+- demo.files.gallery
+- desarrolloweb.com
+- dev.mysql.com
+- developer.android.com
+- developer.mozilla.org
+- developer.wordpress.org
+- developers.elementor.com
+- developers.facebook.com
+- developers.google.com
+- df.cl
+- diffchecker.com
+- digital.com
+- directorist.com
+- discord.com
+- discounthero.org
+- djangoproject.com
+- dle.rae.es
+- doc.hotexamples.com
+- docs.ankiweb.net
+- docs.cypress.io
+- docs.djangoproject.com
+- docs.expo.dev
+- docs.flutter.dev
+- docs.github.com
+- docs.google.com
+- docs.gravityforms.com
+- docs.litespeedtech.com
+- docs.midjourney.com
+- docs.sonarqube.org
+- download-chromium.appspot.com
+- download.moodle.org
+- drive.google.com
+- dupla.ai
+- dynamic.ooo
+- eclipse.org
+- efectococuyo.com
+- elcomercio.pe
+- elementor.com
+- elements.envato.com
+- elm-lang.org
+- elmostrador.cl
+- eloquentjs-es.thedojo.mx
+- eluniversal.com
+- emezeta.com
+- en.wikipedia.org
+- enmimaquinafunciona.com
+- entornoempresarial.com
+- envato.arefindev.com
+- epidata.net
+- erlang.org
+- es.scamdoc.com
+- es.stackoverflow.com
+- es.wikihow.com
+- es.wikipedia.org
+- es.wordpress.org
+- escudamoto.com
+- escudamoto.com:2083
+- escudamotorcycles.com
+- escudamotorcycles.com:2083
+- escuelabiblica.com
+- eslprintables.com
+- essnappy.appypie.com
+- etcanada.com
+- europapress.es
+- evanyou.me
+- evrone.es
+- expo.dev
+- facebook.com
+- familiahoy.com
+- fenixwebcaracas.com.ve
+- ffmpeg.org
+- figma.com
+- files.gallery
+- fileviewpro.com
+- flaticon.com
+- flaticon.es
+- flutter.dev
+- flutter.github.io
+- fontawesome.com
+- fonts.google.com
+- forum.codeigniter.com
+- forum.laragon.org
+- foxdp.com
+- freecodecamp.org
+- freelancer.es
+- freenom.com
+- freepik.es
+- frikipedia.es
+- fumigacionuniversal.com
+- gekimarketing.com
+- getbootstrap.com
+- getcssscan.com
+- getfuelcms.com
+- gist.github.com
+- git.ffmpeg.org
+- github-android.en.uptodown.com
+- github.com
+- gmail.com
+- goalkicker.com
+- godaddy.com
+- google.co.ve
+- google.com
+- gospeljingle.com
+- gravityforms.com
+- guide.elm-lang.org
+- gyan.dev
+- hackerrank.com
+- heidisql.com
+- help.ovhcloud.com
+- help.perfexcrm.com
+- hmsantaelena.com
+- host.cpse29.eu:2083
+- hostadvice.com
+- hostinger.es
+- html-to-pug.com
 http:
-httrack.com
-huggingface.co
-i.emezeta.com
-icomoon.io
-icons8.com
-igmoweb.com
-ilovepdf.com
-imagen.online-convert.com
-imgflip.com
-inciclopedia.org
-informaticapc.com
-innovativewp.org
-instagram.com
-ionic.io
-ionicframework.com
-isocialweb.agency
-iutamaracay.com.ve
-jasondavis.net
-jenkins.io
-jesusful.com
-jetbrains.com
-jose.gitbooks.io
-jsparagatos.com
-juntadeandalucia.es
-kalstein.co.ve
-kawasaki.com
-kinsta.com
-kivy.org
-krebsonsecurity.com
-kuentro.com
-l.instagram.com
-labs.openai.com
-lambdatest.com
-laravel.com
-laraveles.com
-larepublica.pe
-lawebdelprogramador.com
-leanpub.com
-learn.microsoft.com
-lenguajecss.com
-lenguajejs.com
-lens.google.com
-letras.com
-lh3.googleusercontent.com
-lh5.googleusercontent.com
-linkedin.com
-linktr.ee
-lipsum.com
-listado.mercadolibre.com.ve
-login.live.com
-m.facebook.com
-mail.google.com
-make.wordpress.org
-malavida.com
-mansory.com
-markdown-convert.com
-markdown.es
-markdowntohtml.com
-marketplace.eclipse.org
-marketplace.visualstudio.com
-mas.escudamotorcycles.com
-masonry.desandro.com
-mayoclinic.org
-mdbootstrap.com
-medlineplus.gov
-meet.google.com
-mercadolibre.com
-mercadolibre.com.ve
-mibebeyyo.elmundo.es
-midjourney.com
-milenio.com
-miro.com
-momentjs.com
-moodle.org
-mui.com
-multimaxstore.com
-musica.com
-musicca.com
-musixmatch.com
-my.elementor.com
-my.freenom.com
-myaccount.google.com
-mysql.com
-narcity.com
-newtonsoft.com
-nextu.com
-nic.ve
-nicelocal.com.ve
-ninjatrader.com
-nirsoft.net
-nominalia.com
-nosolousabilidad.com
-noticiasdelaciencia.com
-noticiasrcn.com
-notion.so
-octoparse.es
-one.google.com
-onedrive.live.com
-online-convert.com
-opal4.opalstacked.com
-open.spotify.com
-openai.com
-opencollective.com
-openhub.net
-openlibra.com
-openstreetmap.org
-openwms.github.io
-opera.com
-opsu.terna.net
-oreilly.com
-osomos.com
-outlook.live.com
-overapi.com
-ovhcloud.com
-packagist.org
-paletasdecolores.com
-parroquialoscastanos.cl
-paypal.com
-pcmac.download
-pear.php.net
-pelisplay.cc
-peps.python.org
-perfectviewcrm.com
-perfex.qualifinic.com
-perfexcrm.com
-perfexcrm.themesic.com
-perfexfu.foxdp.com
-perfexfu.foxdp.com:2083
-peteraba.com
-pexels.com
-pgweb.com.ve
-photos.google.com
-php-minify.com
-php.net
-phpmetrics.org
-phpqrcode.sourceforge.net
-phpstan.org
-pinterest.com
-pinterest.es
-pintzap.com
-plataforma.zoon.cl
-platzi.com
-play.google.com
-pluginize.com
-preview.codecanyon.net
-preview.themeforest.net
-prezi.com
-products.aspose.app
-profesionalreview.com
-programmerclick.com
-provincial.com
-puntospacca.webnode.es
-python.org
-raw.githubusercontent.com
-reactjs.org
-reactnative.dev
-refactoring.guru
-risecrm.themesic.com
-rudrastyh.com
-rules.sonarsource.com
-s3.amazonaws.com
-salesforce.com
-scielo.cl
-scielo.isciii.es
-select2.org
-sered.media
-sered.net
-servicios.bncenlinea.com
-servmask.com
-sigueme.net
-site.tunegocioagro.com
-sitepoint.com
-sites.google.com
-sleeplessparent.com
-slides.com
-sni.opsu.gob.ve
-solidity-es.readthedocs.io
-somoso-publicidad.com
-sonarsource.com
-sourceforge.net
-spanish.visitkorea.or.kr
-speedtest.net
-ss64.com
-ss64.org
-stackoverflow.com
-stage.escudamotorcycles.com
-stage.gekimarketing.com
-static-support.nominalia.com
-storage.googleapis.com
-styde.net
-sublimetext.com
-suitecrm.com
-superdia.com.ve
-support.google.com
-support.microsoft.com
-sweetydeals.com
-synthesia.io
-t-cool.github.io
-t.co
-tableconvert.com
-tabletomarkdown.com
-tcpdf.org
-testingsni.opsu.gob.ve
-text-compare.com
-textedit.tools
-thecrazyprogrammer.com
-themeforest.net
-themes.getbootstrap.com
-theringer.com
-tiktok.com
-tldevtech.com
-toolset.com
-toptal.com
-trac.ffmpeg.org
-tractilus.tk
-translate.google.com
-tryphp.w3schools.com
-turing.com
-twitter.com
-typescriptlang.org
-udemy.com
-uneg.edu.ve
-unicentromaracay.com
-universodeacordes.com
-unpkg.com
-unpocodejava.com
-unserialize.com
-usbrandcolors.com
-v2.vuejs.org
-vagalume.com.br
-validator.w3.org
-vardumpformatter.io
-ve.computrabajo.com
-ve.wordpress.org
-vecindadch.com
-venezuelayello.com
-virtualaula.wordpress.com
-virtumedia.wordpress.com
-visualstudio.microsoft.com
-voipstudio.es
-w3.org
-w3bai.com
-w3schools.com
-walmart.com
-wappalyzer.com
-web.archive.org
-web.whatsapp.com
-webempresa.com
-webhook.site
-webhostingsecretrevealed.net
-webrate.org
-websitesetup.org
-wedevs.com
-whatfontis.com
-whatsapp.com
-wiki.eclipse.org
-willpeavy.com
-woocommerce.com
-wordpress.org
-wordpress.stackexchange.com
-workana.com
-wpastra.com
-wpengine.com
-writesonic.com
-wtools.io
-www6.cuevana3.ch
-xataka.com
-yamaha-motor.com
-yandex.com
-youtube.com
-zapier.com
-zealdocs.org
-zend.com
-zoon.cl
+- httrack.com
+- huggingface.co
+- i.emezeta.com
+- icomoon.io
+- icons8.com
+- igmoweb.com
+- ilovepdf.com
+- imagen.online-convert.com
+- imgflip.com
+- inciclopedia.org
+- informaticapc.com
+- innovativewp.org
+- instagram.com
+- ionic.io
+- ionicframework.com
+- isocialweb.agency
+- iutamaracay.com.ve
+- jasondavis.net
+- jenkins.io
+- jesusful.com
+- jetbrains.com
+- jose.gitbooks.io
+- jsparagatos.com
+- juntadeandalucia.es
+- kalstein.co.ve
+- kawasaki.com
+- kinsta.com
+- kivy.org
+- krebsonsecurity.com
+- kuentro.com
+- l.instagram.com
+- labs.openai.com
+- lambdatest.com
+- laravel.com
+- laraveles.com
+- larepublica.pe
+- lawebdelprogramador.com
+- leanpub.com
+- learn.microsoft.com
+- lenguajecss.com
+- lenguajejs.com
+- lens.google.com
+- letras.com
+- lh3.googleusercontent.com
+- lh5.googleusercontent.com
+- linkedin.com
+- linktr.ee
+- lipsum.com
+- listado.mercadolibre.com.ve
+- login.live.com
+- m.facebook.com
+- mail.google.com
+- make.wordpress.org
+- malavida.com
+- mansory.com
+- markdown-convert.com
+- markdown.es
+- markdowntohtml.com
+- marketplace.eclipse.org
+- marketplace.visualstudio.com
+- mas.escudamotorcycles.com
+- masonry.desandro.com
+- mayoclinic.org
+- mdbootstrap.com
+- medlineplus.gov
+- meet.google.com
+- mercadolibre.com
+- mercadolibre.com.ve
+- mibebeyyo.elmundo.es
+- midjourney.com
+- milenio.com
+- miro.com
+- momentjs.com
+- moodle.org
+- mui.com
+- multimaxstore.com
+- musica.com
+- musicca.com
+- musixmatch.com
+- my.elementor.com
+- my.freenom.com
+- myaccount.google.com
+- mysql.com
+- narcity.com
+- newtonsoft.com
+- nextu.com
+- nic.ve
+- nicelocal.com.ve
+- ninjatrader.com
+- nirsoft.net
+- nominalia.com
+- nosolousabilidad.com
+- noticiasdelaciencia.com
+- noticiasrcn.com
+- notion.so
+- octoparse.es
+- one.google.com
+- onedrive.live.com
+- online-convert.com
+- opal4.opalstacked.com
+- open.spotify.com
+- openai.com
+- opencollective.com
+- openhub.net
+- openlibra.com
+- openstreetmap.org
+- openwms.github.io
+- opera.com
+- opsu.terna.net
+- oreilly.com
+- osomos.com
+- outlook.live.com
+- overapi.com
+- ovhcloud.com
+- packagist.org
+- paletasdecolores.com
+- parroquialoscastanos.cl
+- paypal.com
+- pcmac.download
+- pear.php.net
+- pelisplay.cc
+- peps.python.org
+- perfectviewcrm.com
+- perfex.qualifinic.com
+- perfexcrm.com
+- perfexcrm.themesic.com
+- perfexfu.foxdp.com
+- perfexfu.foxdp.com:2083
+- peteraba.com
+- pexels.com
+- pgweb.com.ve
+- photos.google.com
+- php-minify.com
+- php.net
+- phpmetrics.org
+- phpqrcode.sourceforge.net
+- phpstan.org
+- pinterest.com
+- pinterest.es
+- pintzap.com
+- plataforma.zoon.cl
+- platzi.com
+- play.google.com
+- pluginize.com
+- preview.codecanyon.net
+- preview.themeforest.net
+- prezi.com
+- products.aspose.app
+- profesionalreview.com
+- programmerclick.com
+- provincial.com
+- puntospacca.webnode.es
+- python.org
+- raw.githubusercontent.com
+- reactjs.org
+- reactnative.dev
+- refactoring.guru
+- risecrm.themesic.com
+- rudrastyh.com
+- rules.sonarsource.com
+- s3.amazonaws.com
+- salesforce.com
+- scielo.cl
+- scielo.isciii.es
+- select2.org
+- sered.media
+- sered.net
+- servicios.bncenlinea.com
+- servmask.com
+- sigueme.net
+- site.tunegocioagro.com
+- sitepoint.com
+- sites.google.com
+- sleeplessparent.com
+- slides.com
+- sni.opsu.gob.ve
+- solidity-es.readthedocs.io
+- somoso-publicidad.com
+- sonarsource.com
+- sourceforge.net
+- spanish.visitkorea.or.kr
+- speedtest.net
+- ss64.com
+- ss64.org
+- stackoverflow.com
+- stage.escudamotorcycles.com
+- stage.gekimarketing.com
+- static-support.nominalia.com
+- storage.googleapis.com
+- styde.net
+- sublimetext.com
+- suitecrm.com
+- superdia.com.ve
+- support.google.com
+- support.microsoft.com
+- sweetydeals.com
+- synthesia.io
+- t-cool.github.io
+- t.co
+- tableconvert.com
+- tabletomarkdown.com
+- tcpdf.org
+- testingsni.opsu.gob.ve
+- text-compare.com
+- textedit.tools
+- thecrazyprogrammer.com
+- themeforest.net
+- themes.getbootstrap.com
+- theringer.com
+- tiktok.com
+- tldevtech.com
+- toolset.com
+- toptal.com
+- trac.ffmpeg.org
+- tractilus.tk
+- translate.google.com
+- tryphp.w3schools.com
+- turing.com
+- twitter.com
+- typescriptlang.org
+- udemy.com
+- uneg.edu.ve
+- unicentromaracay.com
+- universodeacordes.com
+- unpkg.com
+- unpocodejava.com
+- unserialize.com
+- usbrandcolors.com
+- v2.vuejs.org
+- vagalume.com.br
+- validator.w3.org
+- vardumpformatter.io
+- ve.computrabajo.com
+- ve.wordpress.org
+- vecindadch.com
+- venezuelayello.com
+- virtualaula.wordpress.com
+- virtumedia.wordpress.com
+- visualstudio.microsoft.com
+- voipstudio.es
+- w3.org
+- w3bai.com
+- w3schools.com
+- walmart.com
+- wappalyzer.com
+- web.archive.org
+- web.whatsapp.com
+- webempresa.com
+- webhook.site
+- webhostingsecretrevealed.net
+- webrate.org
+- websitesetup.org
+- wedevs.com
+- whatfontis.com
+- whatsapp.com
+- wiki.eclipse.org
+- willpeavy.com
+- woocommerce.com
+- wordpress.org
+- wordpress.stackexchange.com
+- workana.com
+- wpastra.com
+- wpengine.com
+- writesonic.com
+- wtools.io
+- www6.cuevana3.ch
+- xataka.com
+- yamaha-motor.com
+- yandex.com
+- youtube.com
+- zapier.com
+- zealdocs.org
+- zend.com
+- zoon.cl

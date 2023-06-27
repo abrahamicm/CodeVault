@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Procesamiento de texto</title>
+</head>
+
+<body>
+    <h1>Procesamiento de texto</h1>
+
+    <label for="lenguaje">Lenguaje de programación:</label>
+    <select id="lenguaje" name="lenguaje">
+        <option value="php">PHP</option>
+        <option value="javascript">JavaScript</option>
+        <option value="python">Python</option>
+    </select><br><br>
+
+    <label for="clasificacion">Clasificación:</label>
+    <select id="clasificacion" name="clasificacion">
+        <option value="string">String</option>
+        <option value="array">Array</option>
+        <option value="objeto">Objeto</option>
+    </select><br><br>
+
+    <label for="metodo">Método:</label>
+    <select id="metodo" name="metodo">
+        <option value="convertirTextoAArray">convertirTextoAArray</option>
+        <option value="hexToRgb">hexToRgb</option>
+        <option value="rgbToHex">rgbToHex</option>
+    </select><br><br>
+
+    <label for="texto">Texto de entrada:</label><br>
+    <textarea id="texto" name="texto" rows="4" cols="50"></textarea><br><br>
+
+    <button onclick="procesar()">Procesar</button><br><br>
+
+    <label for="resultado">Resultado:</label><br>
+    <textarea id="resultado" name="resultado" rows="4" cols="50" readonly></textarea>
+
+    <script>
+        function procesar() {
+            var metodo = document.querySelector("#metodo");
+            var texto = document.querySelector("#texto");
+            var resultado = document.querySelector("#resultado");
+
+            if (texto.value === "") {
+                alert("Por favor ingrese un texto");
+                return;
+            }
+
+            if (metodo.value === "convertirTextoAArray" && texto.value.indexOf(",") === -1) {
+                alert("El texto debe tener al menos una coma para poder convertirse en array");
+                return;
+            }
+
+            resultado.innerHTML = ejecutarFuncionPorNombre(metodo.value, [texto.value]);
+        }
+
+        function convertirTextoAArray(texto) {
+            let arr = texto.split(",");
+            let phpArray = " $arr = [";
+            for (let i = 0; i < arr.length; i++) {
+                phpArray += "\"" + arr[i] + "\"";
+                if (i !== arr.length - 1) {
+                    phpArray += ",";
+                }
+            }
+            phpArray += "];"
+            return phpArray;
+        }
+
+        function ejecutarFuncionPorNombre(nombreDeLaFuncion, parametros) {
+            if (typeof window[nombreDeLaFuncion] !== "function") {
+                console.error("La función " + nombreDeLaFuncion + " no existe");
+                return;
+            }
+            return window[nombreDeLaFuncion].apply(null, parametros);
+        }
+        function hexToRgb(hexString) {
+            const hex = parseInt(hexString.substring(1), 16);
+            const red = (hex >> 16) & 255;
+            const green = (hex >> 8) & 255;
+            const blue = hex & 255;
+
+            return `(${red}, ${green}, ${blue})`;
+        }
+
+        function rgbToHex(rgbString) {
+            const [r, g, b] = rgbString.split(',').map(Number);
+            const hex = ((r << 16) | (g << 8) | b).toString(16).padStart(6, '0');
+
+            return `#${hex}`;
+        }
+
+    </script>
+</body>
+
+</html>
