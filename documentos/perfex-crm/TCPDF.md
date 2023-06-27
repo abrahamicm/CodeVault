@@ -1,0 +1,9 @@
+| Método              | Descripción                                                                                                                              | Ejemplo de uso                            |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| Cell()              | Genera una celda con un borde opcional, un ancho, una altura y un contenido. También puede establecer la posición de la siguiente celda. | $pdf->Cell(40, 10, 'Hola mundo');         |
+| Ln()                | Genera un salto de línea. También puede establecer la posición de la siguiente celda.                                                    | $pdf->Ln(10);                             |
+| writeHTMLCell()     | Genera una celda con contenido HTML. Se puede establecer la posición de la siguiente celda.                                              | $pdf->writeHTMLCell(0, 0, '', '', $html); |
+| SetFont()           | Establece la fuente para el texto que se va a imprimir. Puede establecer la familia de fuentes, el estilo y el tamaño.                   | $pdf->SetFont('helvetica', 'B', 16);      |
+| writeHTML()         | Genera texto con formato HTML. También puede establecer la posición de la siguiente celda.                                               | $pdf->writeHTML($html);                   |
+| getPageDimensions() | Obtiene las dimensiones de la página actual.                                                                                             | $dimensions = $pdf->getPageDimensions();  |
+| ln()                | Genera un salto de línea. También puede establecer la posición de la siguiente celda.                                                    | $pdf->ln(10);                             |
