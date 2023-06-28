@@ -1,0 +1,2 @@
+- https://designpatternsphp.readthedocs.io/es/
+- https://github.com/ziadoz/awesome-php#composer-repositories

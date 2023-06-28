@@ -1,12 +1,12 @@
-1. Cultiva una mentalidad abierta y dispuesta a explorar nuevas ideas.
-2. Practica la curiosidad y cuestiona las cosas que das por sentado.
-3. Lee libros y artículos de diferentes géneros y temáticas.
-4. Exponte a diferentes formas de arte, como música, pintura, teatro y danza.
-5. Aprende a escuchar atentamente a los demás y considera diferentes perspectivas.
-6. Mantén un diario o cuaderno de ideas para anotar tus pensamientos y observaciones.
-7. Experimenta con diferentes técnicas de pensamiento lateral, como el brainstorming o la lluvia de ideas.
-8. Prueba actividades creativas, como escribir, dibujar, hacer manualidades o tocar un instrumento musical.
-9. Sal de tu zona de confort y enfrenta nuevos desafíos.
+01. Cultiva una mentalidad abierta y dispuesta a explorar nuevas ideas.
+02. Practica la curiosidad y cuestiona las cosas que das por sentado.
+03. Lee libros y artículos de diferentes géneros y temáticas.
+04. Exponte a diferentes formas de arte, como música, pintura, teatro y danza.
+05. Aprende a escuchar atentamente a los demás y considera diferentes perspectivas.
+06. Mantén un diario o cuaderno de ideas para anotar tus pensamientos y observaciones.
+07. Experimenta con diferentes técnicas de pensamiento lateral, como el brainstorming o la lluvia de ideas.
+08. Prueba actividades creativas, como escribir, dibujar, hacer manualidades o tocar un instrumento musical.
+09. Sal de tu zona de confort y enfrenta nuevos desafíos.
 10. Realiza ejercicios de visualización para imaginar soluciones innovadoras.
 11. Practica la meditación y la atención plena para calmar tu mente y fomentar la creatividad.
 12. Observa detenidamente tu entorno y encuentra belleza en los detalles.

@@ -32,3 +32,28 @@ En general, la clave para aliviar la sobrecarga cognitiva es encontrar un equili
 - VS Sequential Number, extension vscode
 - Markdown Preview Mermaid Support
 - Mermaid Markdown Syntax Highlighting
+
+# 28-06-2023
+## enfocarme en 
+- tomma de desisciones
+- habitos, habitos inconcientes
+- fuerza de voluntad para el cambios
+
+1. Enfoque preventivo
+2. Aprendizaje continuo
+3. Reflexión periódica
+4. Desarrollo de habilidades de resolución de problemas
+5. Cultivar la resiliencia
+6. Planificación estratégica
+
+
+
+1. Falta de conciencia
+2. Resistencia al cambio
+3. Minimización de las consecuencias
+4. Falta de motivación o urgencia
+
+
+# estoy en revolocion slider
+
+var revapi = jQuery('#rev_slider_1').show().revolution({])

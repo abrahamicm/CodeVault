@@ -1,12 +1,12 @@
-1. Observa tu entorno y encuentra inspiración en las situaciones cotidianas.
-2. Lee libros de comedia y estudia cómo los autores manejan el ritmo y la estructura del chiste.
-3. Ve espectáculos de comedia en vivo y analiza lo que funciona y lo que no.
-4. Escribe todos los días, aunque solo sea una pequeña broma.
-5. Encuentra tu estilo de humor propio y trabaja para perfeccionarlo.
-6. Practica contar chistes a tus amigos y familiares e intenta mejorar cada vez.
-7. Aprende a reírte de ti mismo y de tus propias fallas.
-8. Mantén un diario de ideas para chistes y revisa regularmente tus notas.
-9. Sé creativo y experimenta con diferentes formas de comedia, como parodias, sátiras o imitaciones.
+01. Observa tu entorno y encuentra inspiración en las situaciones cotidianas.
+02. Lee libros de comedia y estudia cómo los autores manejan el ritmo y la estructura del chiste.
+03. Ve espectáculos de comedia en vivo y analiza lo que funciona y lo que no.
+04. Escribe todos los días, aunque solo sea una pequeña broma.
+05. Encuentra tu estilo de humor propio y trabaja para perfeccionarlo.
+06. Practica contar chistes a tus amigos y familiares e intenta mejorar cada vez.
+07. Aprende a reírte de ti mismo y de tus propias fallas.
+08. Mantén un diario de ideas para chistes y revisa regularmente tus notas.
+09. Sé creativo y experimenta con diferentes formas de comedia, como parodias, sátiras o imitaciones.
 10. Escucha atentamente a la gente cuando hablan y busca oportunidades para hacer chistes basados ​​en lo que dicen.
 11. Presta atención a las noticias y encuentra maneras de burlarte de ellas de manera ingeniosa.
 12. Usa el lenguaje de manera efectiva y juega con las palabras para crear juegos de palabras.
