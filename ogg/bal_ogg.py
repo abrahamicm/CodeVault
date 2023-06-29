@@ -42,7 +42,7 @@ pendientes = []
 archivos_wav = []
 indices_convertidos = []
 for i, division in enumerate(saltos_de_linea):
-    nombre_archivo_wav = f'{division}.wav'
+    nombre_archivo_wav = f'{division[:40]}.wav'  # Limitar el nombre a 40 caracteres
     try:
         with open(f'{division}.txt', 'w') as file:
             file.write(division)
@@ -74,8 +74,7 @@ for nombre_archivo_wav in archivos_wav:
     except Exception as e:
         pendientes.append({'nombre_archivo': nombre_archivo_wav, 'razon': str(e)})
 
-# Eliminar las líneas convertidas exitosamente
-saltos_de_linea = [linea for i, linea in enumerate(saltos_de_linea) if i not in indices_convertidos]
+saltos_de_linea = [linea for i, linea in enumerate(saltos_de_linea) if i not in indices_convertidos]  # Eliminar líneas convertidas exitosamente
 
 if pendientes:
     with open('pendientes.txt', 'w') as file:

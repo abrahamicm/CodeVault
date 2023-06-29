@@ -1,2 +1,7 @@
 *.ogg
-!**/ogg/archivos_ogg/*.ogg
+
+# Permitir los archivos .ogg en la carpeta ogg
+!ogg/*.ogg
+
+# Permitir los archivos .ogg en las subcarpetas de ogg
+!ogg/**/*.ogg

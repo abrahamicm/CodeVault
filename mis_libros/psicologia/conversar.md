@@ -1,5 +1,3 @@
-Aquí tienes una posible tabla de contenido para un libro sobre cómo sacar una conversación:
-
 # 1 Introducción
 -  Importancia de la habilidad para sacar una conversación
 -  Objetivos del libro
