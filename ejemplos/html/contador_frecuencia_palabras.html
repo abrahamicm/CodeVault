@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contador de Frecuencia de Palabras</title>
+  <style>
+    table {
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: left;
+    }
+  </style>
+  <script>
+    function contarFrecuencia() {
+      // Obtiene el texto ingresado por el usuario
+      var texto = document.getElementById('texto').value;
+
+      // Convierte el texto a minúsculas y remueve caracteres especiales, excepto "/"
+      var textoProcesado = texto.toLowerCase().replace(/[^\w\s/]/g, '');
+
+      // Divide el texto en palabras individuales
+      var palabras = textoProcesado.split(/\s+/);
+
+      // Crea un objeto para almacenar la frecuencia de palabras
+      var frecuencia = {};
+
+      // Cuenta la frecuencia de cada palabra
+      for (var i = 0; i < palabras.length; i++) {
+        var palabra = palabras[i];
+        if (palabra !== '') {
+          if (frecuencia[palabra]) {
+            frecuencia[palabra]++;
+          } else {
+            frecuencia[palabra] = 1;
+          }
+        }
+      }
+
+      // Convierte el objeto de frecuencia en un array de pares [palabra, frecuencia]
+      var frecuenciaArray = [];
+      for (var palabra in frecuencia) {
+        frecuenciaArray.push([palabra, frecuencia[palabra]]);
+      }
+
+      // Ordena el array por frecuencia descendente
+      frecuenciaArray.sort(function(a, b) {
+        return b[1] - a[1];
+      });
+
+      // Muestra los resultados en la página
+      var resultado = document.getElementById('resultado');
+      resultado.innerHTML = '';
+
+      // Crea la tabla con las cabeceras "Frecuencia" y "Palabra"
+      var tabla = document.createElement('table');
+      var cabecera = tabla.createTHead();
+      var filaCabecera = cabecera.insertRow();
+      var th1 = document.createElement('th');
+      var th2 = document.createElement('th');
+      th1.innerHTML = 'Frecuencia';
+      th2.innerHTML = 'Palabra';
+      filaCabecera.appendChild(th1);
+      filaCabecera.appendChild(th2);
+
+      // Agrega las filas de datos a la tabla
+      var cuerpoTabla = tabla.createTBody();
+      for (var i = 0; i < frecuenciaArray.length; i++) {
+        var fila = cuerpoTabla.insertRow();
+        var celdaFrecuencia = fila.insertCell();
+        var celdaPalabra = fila.insertCell();
+        celdaFrecuencia.innerHTML = frecuenciaArray[i][1];
+        celdaPalabra.innerHTML = frecuenciaArray[i][0];
+      }
+
+      resultado.appendChild(tabla);
+    }
+  </script>
+</head>
+<body>
+  <h1>Contador de Frecuencia de Palabras</h1>
+  <textarea id="texto" rows="5" cols="50"></textarea><br>
+  <button onclick="contarFrecuencia()">Contar</button>
+  <div id="resultado"></div>
+</body>
+</html>
