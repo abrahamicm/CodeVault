@@ -1,0 +1,1 @@
+- para que agarre el porcentaje de las divisiones en movil, tamien en escritorio tiene que tener el mismo tamaño
