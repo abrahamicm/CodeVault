@@ -57,3 +57,42 @@ En general, la clave para aliviar la sobrecarga cognitiva es encontrar un equili
 # estoy en revolocion slider
 
 var revapi = jQuery('#rev_slider_1').show().revolution({])
+
+
+000 mi_documentacion
+000 mis_tutotiales
+001 canciones
+001 consejos
+001 how_to
+001 ideas_protectos_negocios
+001 mis_estegias
+001 paginas
+001 problemas
+001 seguimiento
+001 software_apps
+001 solo_promts
+001 tips
+001 tools
+002 analisis
+002 investigar
+002 mis_chats
+002 planes
+003 glosarios
+003 lista_de_deseos
+003 tutoriales
+004 esquemas_numerados      
+004 mermaid
+006 mis_script
+007 pasos
+007 regex
+008 mis_clases
+011 mis_plantillas
+014 docs
+022 ejemplos
+032 recursos
+040 cheatsheet
+058 documentos
+070 mis_listas
+168 ogg
+253 mis_libros
+397 audios
