@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Buscar videos de YouTube</title>
+    <script src="https://apis.google.com/js/api.js"></script>
+    <style>
+        .watch-link {
+            color: blue;
+            text-decoration: underline;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+
+<body>
+    <input type="text" id="searchTerm" placeholder="Término de búsqueda" value="nanutria">
+    <select id="durationSelector">
+        <option value="">Todas las duraciones</option>
+        <option value="short">Menos de 4 minutos</option>
+        <option value="medium">De 4 a 20 minutos</option>
+        <option value="long">Más de 20 minutos</option>
+    </select>
+    <button onclick="searchVideos()">Buscar</button>
+    <div id="results"></div>
+    <button onclick="loadMore()">Cargar más</button>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
