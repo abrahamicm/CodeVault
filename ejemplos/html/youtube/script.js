@@ -62,7 +62,7 @@ function searchVideos() {
                         var videoLink = 'https://www.youtube.com/watch?v=' + videoId;
 
                         output += '<div>';
-                        output += '<img src="' + videoThumbnail + '" alt="' + videoTitle + '">';
+                        //output += '<img src="' + videoThumbnail + '" alt="' + videoTitle + '">';
                         output += '<p><strong>Título:</strong> ' + videoTitle + '</p>';
                         output += '<p><strong>Duración:</strong> ' + videoDuration + '</p>';
                         output += '<p>' + videoLink + '</p>';
@@ -132,7 +132,7 @@ function loadMore() {
                             var videoLink = 'https://www.youtube.com/watch?v=' + videoId;
 
                             output += '<div>';
-                            output += '<img src="' + videoThumbnail + '" alt="' + videoTitle + '">';
+                            //output += '<img src="' + videoThumbnail + '" alt="' + videoTitle + '">';
                             output += '<p><strong>Título:</strong> ' + videoTitle + '</p>';
                             output += '<p><strong>Duración:</strong> ' + videoDuration + '</p>';
                             output += '<p>' + videoLink + '</p>';

@@ -96,3 +96,6 @@ var revapi = jQuery('#rev_slider_1').show().revolution({])
 168 ogg
 253 mis_libros
 397 audios
+
+trabajo efectivo
+- dry no repitas
