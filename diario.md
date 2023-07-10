@@ -56,7 +56,7 @@ En general, la clave para aliviar la sobrecarga cognitiva es encontrar un equili
 
 # estoy en revolocion slider
 
-var revapi = jQuery('#rev_slider_1').show().revolution({])
+var revapi = jQuery('#rev_slider_1').show().revolution({})
 
 
 000 mi_documentacion
@@ -99,3 +99,15 @@ var revapi = jQuery('#rev_slider_1').show().revolution({])
 
 trabajo efectivo
 - dry no repitas
+
+
+
+02. Hazlo ahora:
+03. Organízate con eficacia: Máxima productividad personal sin estrés:
+04. La semana laboral de 4 horas:
+05. Enfócate:
+08. Cuando: La ciencia de encontrar el momento preciso:
+11. Solo una cosa:
+12. Visión a realidad: cómo la acción masiva a corto plazo equivale a resultados masivos a largo plazo:
+13. El libro del mindfulness:
+14. Mañanas milagrosas: Los 6 hábitos que cambiarán tu vida antes de las 8:00:
