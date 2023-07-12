@@ -1,4 +1,3 @@
-Aquí tienes algunas ideas de juegos grupales que podrías utilizar para reforzar los temas mencionados:
 
 1. Juego de roles históricos: Divide al grupo en equipos y asigna a cada equipo un período histórico de la evolución tecnológica del computador. Cada equipo deberá investigar y presentar una breve dramatización o presentación sobre ese período, destacando los aspectos técnico, humano y operativo.
 
