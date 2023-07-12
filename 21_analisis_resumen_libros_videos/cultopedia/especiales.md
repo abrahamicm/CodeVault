@@ -4,8 +4,8 @@
 04. La Franja de Gaza (Contextos Historicos del Conflicto)
 05. Historia de Alemania
 06. Turquia
-07.  La No Violencia - Gandhi
-08.  60 Anos Independencia de la India - Gandhi
+07. La No Violencia - Gandhi
+08. 60 Anos Independencia de la India - Gandhi
 09. Pink Floyd 30 años [Parte 2]
 10. Pink Floyd 30 años [Parte 1]
 11. Halloween - Historias de brujas y muertos
