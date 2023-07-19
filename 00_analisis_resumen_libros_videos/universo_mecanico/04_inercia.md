@@ -1,0 +1,553 @@
+y los objetos se mueven con velocidad
+constante en línea recta cuando uno
+actúa sobre ellos un agente exterior
+este principio fundamental se llama la
+ley de inercia
+hoy vamos a hablar un poco de galilea
+porque llamaremos a los italianos de una
+determinada época por su nombre de pila
+como si fueran muy amigos
+no solo a galileo también a dante
+leonardo rafael es curioso
+les decía que vamos a hablar un poco de
+nuestro buen amigo galileo galilei
+aquí vemos un retrato suyo sacado de uno
+de su época a partir de un relieve de
+madera
+[Música]
+en 1564 nacieron dos hombres muy
+importantes
+william shakespeare en stratford y
+galileo galilei en pisa
+galileo comenzó los estudios de medicina
+en la universidad de pizza pero pronto
+se dio cuenta de que la medicina no era
+lo suyo
+cuando supo que en esa universidad no
+había ningún profesor de matemáticas se
+retiró de la medicina y comenzó a
+estudiar matemáticas por su cuenta
+[Música]
+escribió unos cuantos artículos y
+enseguida alcanzó fama de erudito
+y en 1589 con la ayuda de un amigo muy
+bien relacionado fue nombrado profesor
+de matemáticas en aquella época la
+universidad estaba dominada por
+seguidores de aristóteles que daban un
+poco valor a las matemáticas
+galileo pensaba que sus aristotélicos
+colegas eran unos necios y enseguida
+tuvo problemas con ellos a los cigarros
+y ridiculizarlos
+era obvio que al finalizar su contrato
+de tres años en 1592 no se renovaría su
+nombramiento y por tanto al recibir una
+oferta de la universidad de padua no
+dudó en aceptarla
+[Música]
+[Música]
+en padua explico es lo metería de
+euclides la astronomía de ptolomeo y la
+mecánica de aristóteles
+su investigación iba dirigida a la caída
+de los cuerpos y a los planos inclinados
+en 1610 galileo llevó a cabo
+posiblemente el mayor juego de manos
+académico de todos los tiempos
+un pulidor de lentes holandés llamado
+hans peter y había descubierto un
+extraordinario aparato
+el telescopio
+cuando galileo se enteró de ello pensó
+de inmediato cómo podría funcionar
+aquello
+hizo sus propios planes y construyó un
+anteojo que aumentaba la imagen
+aproximadamente 9 veces
+convocó entonces a los grandes de la
+ciudad de venecia para una demostración
+en la famosa torre de la plaza de san
+marcos
+y les dijo
+contemplen el horizonte con este aparato
+como se puede ver un barco que se
+aproxima a la costa dos horas antes de
+lo que se vería con una vista de lince
+para una potencia marítima como venecia
+a clamar a tu era absolutamente esencial
+[Música]
+galileo nunca pretendió haber inventado
+el telescopio pero tampoco se toma la
+molestia de desmentirlo los grandes de
+la ciudad muy impresionados aseguraron a
+galileo mediante un buen salario una
+vida acomodada y dos meses después
+modelos de telescopio de galileo se
+vendían por las calles de venecia como
+un juguete para los niños
+galileo aseguró financieramente su
+porvenir vendiendo a los grandes de la
+ciudad un juguete para niños
+[Música]
+pero galileo tenía en mente cosas mucho
+más importantes en relación con el
+telescopio construyó telescopios más
+grandes y más potentes incluyendo uno
+que aumentaba la imagen hasta 30 veces
+los niños están actualmente expuestos en
+el museo de historia de la ciencia de
+florencia
+galileo miro al firmamento con aquellos
+telescopios e hizo algunos
+descubrimientos notables
+las lunas de júpiter conocidas aún hoy
+como satélites de galileo
+las montañas de la luna
+las distintas fases de venus
+y las manchas sobre la superficie del
+sol aún ahora que hemos podido pasear
+por la luna los apuntes de galileo
+revelan que sus opiniones fueron
+asombrosamente certeras en aquel tiempo
+los descubrimientos astronómicos de
+galileo junto con las ideas de copérnico
+intelectualmente destrozaban la
+tranquilidad de los cielos
+[Música]
+cualquiera que se atreviese a mirar por
+el telescopio de galileo lo que vería
+sería el comienzo del fin de las ideas
+de aristóteles y ptolomeo sobre el mundo
+y el comienzo de un sinfín de
+dificultades para galileo galilei
+a comienzos del siglo 17 europa de había
+visto el renacimiento la reforma
+protestante y la contrarreforma católica
+grandes cambios estaban sacudiendo parte
+del sistema medieval religión arte
+literatura música matemáticas y otras
+ciencias pero sobre todo la astronomía
+[Música]
+antes del renacimiento la mecánica
+aristotélica y las ideas de ptolomeo
+sobre las esferas celestes estaban a la
+orden del día eran el orden lógico
+aceptado indiscutido y natural del
+universo
+y así había sido hasta que un día a un
+monje polaco se le ocurrió mirar hacia
+arriba y vio las cosas de modo diferente
+en oposición a la opinión de ptolomeo
+copérnico vio la tierra como otro
+planeta girando alrededor del sol
+en el seno de la iglesia católica
+algunos vieron el sistema de copérnico
+como una amenaza les parecía al igual
+que la propia herejía protestante un
+desafío a la autoridad absoluta del
+vaticano
+pero no obstante la iglesia tardo 75
+años en dar a conocer su plena
+desaprobación
+y entretanto tenía un problema mucho más
+próximo a ella que el sol católicos y
+protestantes se enzarzaron en una guerra
+por el verdadero espíritu de europa
+copérnico como lutero dudó de la
+interpretación que la iglesia daba a la
+sagrada escritura pero por otra parte el
+sistema de copérnico también desafiaba
+el más elemental sentido común
+[Música]
+los objetos pesados caen naturalmente
+hacia el centro de la tierra porque ese
+era el centro del mismo universo
+si la tierra está girando y marchando
+violentamente por el espacio porque no
+salen volando las cosas y si realmente
+la tierra gira porque un cuerpo al caer
+de una torre cae directamente abajo como
+no cae en la ciudad más próxima o al
+menos alguna distancia
+hace 300 años esas preguntas tenían
+mucha lógica eran preguntas inteligentes
+y galileo galilei se dedicó a
+encontrarles respuesta
+a pesar de su naturaleza independiente
+galileo era un hombre popular respetado
+y admirado por todos en general y su
+inteligencia dada por dios hizo que la
+iglesia le considerada como a uno de sus
+hijos favoritos
+seguramente el y leo gozaba con aquellas
+atenciones pero sí grande era su hambre
+de fama mayor aún era su sed de
+conocimiento y de verdad
+al comenzar su carrera siendo profesor
+en padua galileo supo ya desenvolverse
+muy bien en sus empresas académicas
+entre otras cosas fue tutor de príncipes
+en materias tales como magnetismo y
+matemáticas
+pero a la larga el telescopio era
+siempre lo que más le interesaba con la
+publicación de su primer libro el
+mensajero celeste se revelaron sus
+notables observaciones y la fama de
+galileo creció por toda europa pero aún
+así en algunos círculos no fueron muy
+bien acogidos sus descubrimientos
+con el telescopio galileo había visto
+algo no imaginado o al menos algo que
+los seguidores de ptolomeo no habían
+dicho nunca
+[Música]
+y las lunas de júpiter parecían
+demostrar que la tierra no era el centro
+de todo el movimiento celeste
+probaba aquello que copérnico tenía
+razón
+en contra de la doctrina tanto de
+aristóteles como de la iglesia era la
+tierra simplemente otro planeta que
+giraba alrededor del sol
+[Música]
+si aquello era cierto que se mantenía la
+pregunta por qué no rueda todo hacia
+fuera
+la opinión de aristóteles era que todo
+tenía un lugar propio según su
+naturaleza al cual tendía a volver y el
+propio sentido común parecía confirmar
+aquellas ideas de reposo un movimiento
+absoluto
+y basándose en experiencias cotidianas
+como podía pensarse seriamente que la
+tierra estuviera lanzada violentamente
+por el espacio
+para galileo
+una cosa fue criticar el punto de vista
+de aristóteles que aún prevalecía y otra
+muy distinta de mostrar cómo y por qué
+funcionaban las cosas en el sistema de
+movimiento planetario de copérnico
+aún antes de la invención del telescopio
+galileo ya se había preparado para hacer
+eso exactamente para poder asentar los
+fundamentos de su ley de caída de los
+cuerpos estuvo observando y midiendo
+concienzudamente el tiempo que tardaban
+las bolas en rodar por planos inclinados
+esos experimentos le condujeron también
+a otra profunda idea que más tarde se
+conoció como la ley de inercia
+calyon se dio cuenta de que cuando una
+bala rodaba hacia abajo por un plano
+inclinado después subía por otro plano
+con cualquier grado de inclinación hasta
+recuperar su primera altura
+si el segundo plano tenía menos
+inclinación que el primero la bola
+seguía rodando hasta alcanzar la misma
+altura a partir de la horizontal que
+tenía al empezar a rodar
+[Música]
+cuanto más próxima a la horizontal fuera
+la inclinación del segundo plano más
+lejos llegaba la bola
+o sea que si el plano era perfectamente
+horizontal y de superficie lisa la bola
+no se pararía nunca y continuaría
+rodando para siempre
+este fue el decisivo experimento que
+galileo necesitaba para poder explicar
+por qué las cosas incluyendo a sus
+críticos podían mantenerse sobre una
+superficie dando vueltas un cuerpo en
+movimiento horizontal tiende a conservar
+el movimiento que lleva en la superficie
+de la tierra todas las cosas están en
+movimiento horizontal exactamente a la
+misma velocidad de que la propia
+superficie y no hay rozamiento que
+afecte al movimiento de esos cuerpos
+porque todos se mueven juntos
+con tan espectacular concepción galileo
+derribo del antiguo dogma aristotélico
+de que era natural a todos los cuerpos
+tender al reposo pero aunque la idea de
+galileo fuera muy brillante no era del
+todo exacta
+influido aún por la idea platónica del
+movimiento circular galileo pensó que un
+cuerpo continuaba siempre en movimiento
+pero solo horizontalmente no en línea
+recta sino dando vueltas siguiendo a la
+superficie de la tierra
+una generación más tarde rené de kart
+puso en orden todo esto dando a la ley
+de ignacia su última forma los objetos
+en movimiento no tienden por sí mismos
+hacia el reposo tienen tendencia a
+continuar como están hasta que algo se
+interfiera
+ahora es más fácil de entender que en
+los tiempos de galileo hoy en día pocos
+se atreverían a negar que la tierra gira
+alrededor del sol que el sol gira
+alrededor de una esquina de una galaxia
+que esa galaxia se mueve solo en un
+racimo de galaxias todas marchando a
+gran velocidad por la inimaginable
+inmensidad del universo
+cómo se puede encajar la idea de reposo
+en este gran esquema de cosas no se
+puede nada en el universo va hacia el
+reposo por el contrario todo continuará
+moviéndose como esté en línea recta y
+velocidad constante hasta que algo se
+interfiera ese es el principio de
+inercia
+y es una teoría tan sencilla y tan
+profunda como cualquier otra idea sobre
+la que se haya reflexionado
+[Música]
+como es lógico a veces parece que los
+objetos están en reposo pero eso es sólo
+porque tienen el mismo estado de
+movimiento que el propio espectador si
+un objeto está en reposo o en movimiento
+depende completamente del punto de
+observación de si el observador se está
+moviendo a la misma velocidad
+no existe el reposo absoluto no existe
+el movimiento absoluto
+incluso marchando por el espacio a
+increíble velocidad en relación con la
+luna con el sol o con el centro de la
+galaxia la tendencia natural de
+cualquier objeto es la de conservar el
+movimiento que tiene
+en tiempos de galileo esta concepción
+era muy difícil de aceptar para un
+aristotélico el movimiento de una
+carreta requiere y tiene una explicación
+lógica
+si no hubiese algo que tirase o empujas
+y no se movería por lo tanto su estado
+natural era de reposo pero en cambio
+para un observador moderno un vehículo
+moviéndose no necesita explicación
+este objeto en movimiento conservará su
+movimiento hasta que los frenos o alguna
+otra cosa le lleve a estado de reposo
+y tu casa con un cuerpo que no se mueve
+paralelamente a la superficie de la
+tierra que pasa como un proyectil que se
+dispara al aire o una pelota que se deja
+caer desde una torre no haría el giro de
+la tierra que la pelota cayera detrás
+[Música]
+galileo dijo que no
+[Música]
+dijo que la pelota continuaría
+moviéndose horizontalmente con la tierra
+incluso cuando cae verticalmente hacia
+su superficie
+esta concepción era muy difícil de
+entender en tiempos del renacimiento así
+que galileo ofreció en sus
+contemporáneos una comparación
+[Música]
+pidió la gente que pintase una pelota
+cayendo desde el mástil de un barco en
+movimiento
+para un marinero en cubierta el mástil
+está quieto y él no estaría sorprendido
+de ver a la pelota caer recta hacia
+abajo sobre la cubierta al pie del
+mástil
+pero alguien en la orilla vería al barco
+y el mástil en movimiento
+un observador aristotélico no tendría
+ninguna duda de lo que iba a ocurrir
+la pelota caería hacia el centro de la
+tierra mientras el barco seguiría
+navegando por debajo de ella
+este marinero vería caer lanzada la
+pelota hacia la popa del barco en vez de
+ir al pie del mástil
+probablemente este experimento no se
+llevó a cabo nunca en vida de galileo
+pero sus resultados son precisamente lo
+que él había predicho la pelota caer a
+lo largo del mástil la pelota cae a lo
+largo del mástil porque ambos objetos
+pelota y barco comparten el mismo
+movimiento inicial
+si no compartieran el mismo movimiento
+inicial entonces el resultado sería el
+que habrían esperado los ha visto
+técnicos
+al caer de un mástil en movimiento la
+pelota cae en vertical mientras se mueve
+horizontalmente con el barco
+estos movimientos juntos siguen una
+trayectoria curva una parábola carrilero
+se dio cuenta de que esos principios
+originaría en el movimiento de cualquier
+proyectil seguiría en una curva
+parabólica en la tierra o en el mar
+una pelota dejada caer en cualquier
+parte de la tierra se comporta lo mismo
+aquí compartiendo el movimiento
+horizontal del planeta caer recta hacia
+abajo llegando al suelo al pie de la
+torre en esos términos salió vio y
+demostró algo nuevo bajo el sol
+en 1616 galileo fue citado a roma donde
+le advirtieron que no debía afirmar ni
+defender la idea de que la tierra se
+movía alrededor de un sol estacionario
+al saber que la iglesia se oponía
+oficialmente al sistema de copérnico
+galileo esperó a que llegara un momento
+más oportuno para convencerles del error
+de sus métodos aristotélicos
+en 1623 galileo pensó que había llegado
+el momento su amigo y protector el
+cardenal más feo barberini fue elegido
+papa con el nombre de urbano octavo
+para reforzar su caso me lee lo escribe
+un libro se trataba de un diálogo entre
+dos personajes que debatían los sistemas
+de aristóteles y copérnico
+como autor galileo era un político
+inteligente
+el personaje aristotélico argumentaba
+con gran maestría y fue declarado
+vencedor
+era un truco que tenía que ser la
+defensa de galileo contra la enseñanza
+de las ideas de copérnico
+no obstante muchos de sus lectores
+vieron que los argumentos de copérnico
+eran mucho más sólidos
+y lo peor de todo quizá fuera que esas
+argumentaciones estaban escritas en
+italiano en vez de latín de modo que los
+italianos corrientes podían
+comprenderlas fácilmente
+y en opinión de la iglesia valera
+cometió otros errores más en sus juicios
+por la boca del personaje que defendía
+aristóteles en su ficción utilizó los
+mismos argumentos que había utilizado el
+papá y llamó al personaje casualmente se
+emplease jone el simple
+y quizás lo peor de todo el nuevo libro
+de galileo retaba la iglesia en el
+preciso momento en que ésta era
+desafiada por todas partes
+en 1634 galileo fue procesado
+i
+[Música]
+[Música]
+su fama y prestigio hicieron impensable
+llegar más allá de amenazarle con la
+tortura
+pero para el niño que entendía mucho de
+máquinas
+aquello fue suficiente
+rechazó públicamente el sistema
+copernicano de movimiento planetario
+irónicamente en el futuro ningún
+científico serio negaría la evidencia de
+galileo
+el principio de energía concebido por
+galileo y perfeccionado por de carne
+llegó a ser la primera ley de la
+mecánica de isaac newton
+en lo que concierne a la iglesia con el
+tiempo el nombre de beni lo fue
+rehabilitado
+pero hubo de transcurrir largo tiempo
+en fecha tan reciente como 1983 la
+controversia de bell y leo estaba
+todavía sin resolver en ese año 1983 el
+papa juan pablo segundo pidió que la
+discusión entre galileo y la iglesia
+terminase de una vez dijo
+volvamos ahora a nuestra mente hacia una
+época en la que se había desarrollado
+una grave incomprensión entre la ciencia
+y la fe el resultado de malentendidos y
+errores solamente con un humilde y
+paciente nuevo examen se han podido ir
+disipando de forma gradual la misma
+iglesia aprende de la experiencia y con
+reflexión y ahora comprende mejor el
+significado que se debe dar a la
+libertad de investigación
+pero en aquel tiempo ni siquiera para un
+famoso científico con un imperdonable
+ego la humillación pública fue
+considerada castigo suficiente
+encontrado culpable a pesar de su famosa
+retractación galileo pasó a los ocho
+años restantes de su vida bajo arresto
+domiciliario en una finca cerca de
+florencia
+y como cuenta la leyenda
+cuando gary luego entraba en su casa
+arrestado
+a hundió
+de puré
+si mueve y sin embargo se mueve
+galileo se hizo realmente famoso por sus
+grandes descubrimientos con ayuda del
+telescopio antes de eso sólo le conocían
+algunos especialistas pero después su
+fama se extendió por toda europa
+como hijo fiel de la iglesia comprendió
+el error que está cometida al volverle
+la espalda a copérnico pero la iglesia
+entonces presionada por la reforma se
+vio obligada a endurecer su postura con
+respecto a la interpretación literal de
+la sagrada escritura galileo fue
+ingenioso y arrogante y pensó que él
+podría hacer cambiar la opinión de la
+iglesia con la sola lógica de los
+argumentos científicos cosa que podía
+haberse logrado antes cuando la iglesia
+era intelectualmente más flexible pero
+en el siglo 17 no había esperanza
+galilea dice incluso algo peor en vez de
+escribir en latín que sólo unos cuantos
+eruditos hubieran podido entender
+escribió en italiano que entendía todo
+el mundo
+un desafío que la iglesia no podía
+ignorar y así en 1634 fue procesado a
+pesar de actuar públicamente de sus
+ideas copernicanas le hicieron pasar los
+últimos 8 años de su vida arrestado en
+su finca en asse tri muy cerca de
+florencia
+cuando murió su cuerpo fue enterrado en
+una catedral y todavía allí en la
+iglesia de santa cruz de florencia está
+enterrado la mayor parte de su cuerpo
+me gusta pensar que galileo fue un
+provocador hasta el fin
+uno de sus dedos fue exhibido en el
+museo de la historia de la ciencia
+hasta el próximo día
+en la ley de inercia se oculta el hecho
+de que todo movimiento es relativo si un
+cuerpo está en movimiento o en reposo
+depende estrictamente del punto de
+observación del observador
+
