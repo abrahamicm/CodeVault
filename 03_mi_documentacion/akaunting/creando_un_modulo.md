@@ -1,0 +1,2 @@
+- php artisan module:make my-blog
+- php artisan module:install my-blog 1

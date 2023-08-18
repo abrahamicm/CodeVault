@@ -1,0 +1,98 @@
+## pasos para crear un modulo
+- php artisan module:make my-blog
+- php artisan module:install my-blog 1
+## Sistema de tablas:
+- accounts
+- categories
+- companies
+- contacts
+- currencies
+- dashboards
+- document_histories
+- document_item_taxes
+- document_items
+- document_totals
+- documents
+- email_templates
+- failed_jobs
+- firewall_ips
+- firewall_logs
+- item_taxes
+- items
+- jobs
+- media
+- mediables
+- migrations
+- module_histories
+- modules
+- notifications
+- password_resets
+- permissions
+- personal_access_tokens
+- reconciliations
+- recurring
+- reports
+- role_permissions
+- roles
+- sessions
+- settings
+- taxes
+- transactions
+- transfers
+- user_companies
+- user_dashboards
+- user_invitations
+- user_permissions
+- user_roles
+- users
+- widgets
+
+# estructura de documents
+- id
+- company_id
+- type
+- document_number
+- order_number
+- status
+- issued_at
+- due_at
+- amount
+- currency_code
+- currency_rate
+- category_id
+- contact_id
+- contact_name
+- contact_email
+- contact_tax_number
+- contact_phone
+- contact_address
+- contact_city
+- contact_zip_code
+- contact_state
+- contact_country
+- notes
+- footer
+- parent_id
+- created_from
+- created_by
+- created_at
+- updated_at
+- deleted_at
+
+### los documentos tienen un tipo, que pueden ser de tipo bill o invoice
+## tabla items
+- id
+- company_id
+- type
+- name
+- sku
+- description
+- sale_price
+- purchase_price
+- category_id
+- enabled
+- created_from
+- created_by
+- created_at
+- updated_at
+- deleted_at
