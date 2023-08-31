@@ -1,0 +1,9 @@
+- hacer una lista de cosas que hagan que los procesos no sean fluidos
+- eliminar distracciones
+- no vivir en el tiempo presente
+- darle rienda suelta a la imaginación
+- no hacer las cosas en un orden correcto o fluido
+- irse por las ramas
+- hay que tener pensamientos que te lleven mas a una acción que a una imaginación, creo que para que una idea tenga sentido esa idea tiene que tener sentido para varias personas
+- también creo que todo pensamiento o idea tiene que ir limitado en función de un tiempo asi uno no se va por las ramas
+- hay que buscar un método donde a las cosas se les de continuidad
