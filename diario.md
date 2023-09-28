@@ -111,3 +111,15 @@ trabajo efectivo
 12. Visión a realidad: cómo la acción masiva a corto plazo equivale a resultados masivos a largo plazo:
 13. El libro del mindfulness:
 14. Mañanas milagrosas: Los 6 hábitos que cambiarán tu vida antes de las 8:00:
+
+# fluidez
+## hacer una lista de cosas que hagan que los procesos no sean fluidos
+
+- distracciones
+- no vivir en el tiempo presente
+- darle rienda suelta a la imaginación
+- no hacer las cosas en un orden correcto o fluido
+- irse por las ramas
+- mas accion menos imaginacion
+- también creo que todo pensamiento o idea tiene que ir limitado en función de un tiempo asi uno no se va por las ramas
+- hay que buscar un método donde a las cosas se les de continuidad
