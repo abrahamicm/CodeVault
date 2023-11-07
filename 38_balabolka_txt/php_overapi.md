@@ -1,0 +1,887 @@
+# Array
+## Array Functions
+- array()
+- array_change_key_case()
+- array_chunk()
+- array_combine()
+- array_count_values()
+- array_diff()
+- array_diff_assoc()
+- array_diff_key()
+- array_diff_uassoc()
+- array_diff_ukey()
+- array_fill()
+- array_filter()
+- array_flip()
+- array_intersect()
+- array_intersect_assoc()
+- array_intersect_key()
+- array_intersect_uassoc()
+- array_intersect_ukey()
+- array_key_exists()
+- array_keys()
+- array_map()
+- array_merge()
+- array_merge_recursive()
+- array_multisort()
+- array_pad()
+- array_pop()
+- array_product()
+- array_push()
+- array_rand()
+- array_reduce()
+- array_reverse()
+- array_search()
+- array_shift()
+- array_slice()
+- array_splice()
+- array_sum()
+- array_udiff()
+- array_udiff_assoc()
+- array_udiff_uassoc()
+- array_uintersect()
+- array_uintersect_assoc()
+- array_uintersect_uassoc()
+- array_unique()
+- array_unshift()
+- array_values()
+- array_walk()
+- array_walk_recursive()
+- arsort()
+- asort()
+- compact()
+- count()
+- current()
+- each()
+- end()
+- extract()
+- in_array()
+- key()
+- krsort()
+- ksort()
+- list()
+- natcasesort()
+- natsort()
+- next()
+- pos()
+- prev()
+- range()
+- reset()
+- rsort()
+- shuffle()
+- sizeof()
+- sort()
+- uasort()
+- uksort()
+- usort()
+## Array Constants
+- CASE_LOWER .Used with array_change_key_case() to convert array keys to lower case
+- CASE_UPPER. Used with array_change_key_case() to convert array keys to upper case
+- SORT_ASC. Used with array_multisort() to sort in ascending order
+- SORT_DESC. Used with array_multisort() to sort in descending order
+- SORT_REGULAR. Used to compare items normally
+- SORT_NUMERIC. Used to compare items numerically
+- SORT_STRING. Used to compare items as strings
+- SORT_LOCALE_STRING. Used to compare items as strings, based on the current locale
+- COUNT_NORMAL
+- COUNT_RECURSIVE
+- EXTR_OVERWRITE
+- EXTR_SKIP
+- EXTR_PREFIX_SAME
+- EXTR_PREFIX_ALL
+- EXTR_PREFIX_INVALID
+- EXTR_PREFIX_IF_EXISTS
+- EXTR_IF_EXISTS
+- EXTR_REFS
+# String
+## String Functions
+- addcslashes()
+- addslashes()
+- bin2hex()
+- chop()
+- chr()
+- chunk_split()
+- convert_cyr_string()
+- convert_uudecode()
+- convert_uuencode()
+- count_chars()
+- crc32()
+- crypt()
+- echo()
+- explode()
+- fprintf()
+- get_html_translation_table()
+- hebrev()
+- hebrevc()
+- html_entity_decode()
+- htmlentities()
+- htmlspecialchars_decode()
+- htmlspecialchars()
+- implode()
+- join()
+- levenshtein()
+- localeconv()
+- ltrim()
+- md5()
+- md5_file()
+- metaphone()
+- money_format()
+- nl_langinfo()
+- nl2br()
+- number_format()
+- ord()
+- parse_str()
+- print()
+- printf()
+- quoted_printable_decode()
+- quotemeta()
+- rtrim()
+- setlocale()
+- sha1()
+- sha1_file()
+- similar_text()
+- soundex()
+- sprintf()
+- sscanf()
+- str_ireplace()
+- str_pad()
+- str_repeat()
+- str_replace()
+- str_rot13()
+- str_shuffle()
+- str_split()
+- str_word_count()
+- strcasecmp()
+- strchr()
+- strcmp()
+- strcoll()
+- strcspn()
+- strip_tags()
+- stripcslashes()
+- stripslashes()
+- stripos()
+- stristr()
+- strlen()
+- strnatcasecmp()
+- strnatcmp()
+- strncasecmp()
+- strncmp()
+- strpbrk()
+- strpos()
+- strrchr()
+- strrev()
+- strripos()
+- strrpos()
+- strspn()
+- strstr()
+- strtok()
+- strtolower()
+- strtoupper()
+- strtr()
+- substr()
+- substr_compare()
+- substr_count()
+- substr_replace()
+- trim()
+- ucfirst()
+- ucwords()
+- vfprintf()
+- vprintf()
+- vsprintf()
+- wordwrap()
+## String Constants
+- CRYPT_SALT_LENGTH. Contains the length of the default encryption method for the system. For standard DES encryption, - the length is 2
+- CRYPT_STD_DES. Set to 1 if the standard DES-based encryption with a 2 character salt is supported, 0 otherwise
+- CRYPT_EXT_DES. Set to 1 if the extended DES-based encryption with a 9 character salt is supported, 0 otherwise
+- CRYPT_MD5. Set to 1 if the MD5 encryption with a 12 character salt starting with $1$ is supported, 0 otherwise
+- CRYPT_BLOWFISH. Set to 1 if the Blowfish encryption with a 16 character salt starting with $2$ or $2a$ is - supported, 0 otherwise0
+- HTML_SPECIALCHARS
+- HTML_ENTITIES
+- ENT_COMPAT
+- ENT_QUOTES
+- ENT_NOQUOTES
+- CHAR_MAX
+- LC_CTYPE
+- LC_NUMERIC
+- LC_TIME
+- LC_COLLATE
+- LC_MONETARY
+- LC_ALL
+- LC_MESSAGES
+- STR_PAD_LEFT
+- STR_PAD_RIGHT
+- STR_PAD_BOTH
+# Variable
+## Handling Functions
+- boolval
+- debug_zval_dump
+- doubleval
+- empty
+- floatval
+- get_defined_vars
+- get_resource_type
+- gettype
+- import_request_variables
+- intval
+- is_array
+- is_bool
+- is_callable
+- is_double
+- is_float
+- is_int
+- is_integer
+- is_long
+- is_null
+- is_numeric
+- is_object
+- is_real
+- is_resource
+- is_scalar
+- is_string
+- isset
+- print_r
+- serialize
+- settype
+- strval
+- unserialize
+- unset
+- var_dump
+- var_export
+# Date/Time
+## Date/Time Functions
+- checkdate()
+- date_default_timezone_get()
+- date_default_timezone_set()
+- date_sunrise()
+- date_sunset()
+- date()
+- getdate()
+- gettimeofday()
+- gmdate()
+- gmmktime()
+- gmstrftime()
+- idate()
+- localtime()
+- microtime()
+- mktime()
+- strftime()
+- strptime()
+- strtotime()
+- time()
+## Date/Time Constants
+- DATE_ATOM. Atom (example: 2005-08-15T16:13:03+0000)
+- DATE_COOKIE
+- HTTP Cookies (example: Sun, 14 Aug 2005 16:13:03 UTC)
+- DATE_ISO8601
+- ISO-8601 (example: 2005-08-14T16:13:03+0000)
+- DATE_RFC822
+- RFC 822 (example: Sun, 14 Aug 2005 16:13:03 UTC)
+- DATE_RFC850
+- RFC 850 (example: Sunday, 14-Aug-05 16:13:03 UTC)
+- DATE_RFC1036
+- RFC 1036 (example: Sunday, 14-Aug-05 16:13:03 UTC)
+- DATE_RFC1123
+- RFC 1123 (example: Sun, 14 Aug 2005 16:13:03 UTC)
+- DATE_RFC2822
+- RFC 2822 (Sun, 14 Aug 2005 16:13:03 +0000)
+- DATE_RSS
+- RSS (Sun, 14 Aug 2005 16:13:03 UTC)
+- DATE_W3C. World Wide Web Consortium (example: 2005-08-14T16:13:03+0000)
+# Directory
+## Directory Functions
+- chdir()
+- chroot()
+- dir()
+- closedir()
+- getcwd()
+- opendir()
+- readdir()
+- rewinddir()
+- scandir()
+##  Directory Constants
+- DIRECTORY_SEPARATOR
+- PATH_SEPARATOR
+# Error
+## Error Functions
+- debug_backtrace()
+- debug_print_backtrace()
+- error_get_last()
+- error_log()
+- error_reporting()
+- restore_error_handler()
+- restore_exception_handler()
+- set_error_handler()
+- set_exception_handler()
+- trigger_error()
+- user_error()
+# Error Constants
+- E_ERROR1. Fatal run-time errors. Errors that cannot be recovered from. Execution of the script is halted
+- E_WARNING2. Non-fatal run-time errors. Execution of the script is not halted
+- E_PARSE4. Compile-time parse errors. Parse errors should only be generated by the parser
+- E_NOTICE8. Run-time notices. The script found something that might be an error, but could also happen when - running a script normally
+- E_CORE_ERROR16. Fatal errors at PHP startup. This is like an E_ERROR in the PHP core
+- E_CORE_WARNING32. Non-fatal errors at PHP startup. This is like an E_WARNING in the PHP core
+- E_COMPILE_ERROR64. Fatal compile-time errors. This is like an E_ERROR generated by the Zend Scripting Engine
+- E_COMPILE_WARNING128. Non-fatal compile-time errors. This is like an E_WARNING generated by the Zend Scripting Engine
+- E_USER_ERROR256. Fatal user-generated error. This is like an E_ERROR set by the programmer using the PHP function - trigger_error()
+- E_USER_WARNING512. Non-fatal user-generated warning. This is like an E_WARNING set by the programmer using the PHP - function trigger_error()
+- E_USER_NOTICE1024. User-generated notice. This is like an E_NOTICE set by the programmer using the PHP function - trigger_error()
+- E_STRICT2048. Run-time notices. PHP suggest changes to your code to help interoperability and compatibility of - the code
+- E_RECOVERABLE_ERROR4096. Catchable fatal error. This is like an E_ERROR but can be caught by a user defined handle (see also - set_error_handler())
+- E_ALL6143. All errors and warnings, except of level E_STRICT
+# Math
+## Math Functions
+- abs()
+- acos()
+- acosh()
+- asin()
+- asinh()
+- atan()
+- atan2()
+- atanh()
+- base_convert()
+- bindec()
+- ceil()
+- cos()
+- cosh()
+- decbin()
+- dechex()
+- decoct()
+- deg2rad()
+- exp()
+- expm1()
+- floor()
+- fmod()
+- getrandmax()
+- hexdec()
+- hypot()
+- is_finite()
+- is_infinite()
+- is_nan()
+- lcg_value()
+- log()
+- log10()
+- log1p()
+- max()
+- min()
+- mt_getrandmax()
+- mt_rand()
+- mt_srand()
+- octdec()
+- pi()
+- pow()
+- rad2deg()
+- rand()
+- round()
+- sin()
+- sinh()
+- sqrt()
+- srand()
+- tan()
+- tanh()
+## Math Constants
+- M_E. Returns e (approx. 2.718)
+- M_EULER. Returns Euler's constant (approx. 0.577)
+- M_LNPI. Returns the natural logarithm of PI (approx. 1.144)
+- M_LN2. Returns the natural logarithm of 2 (approx. 0.693)
+- M_LN10. Returns the natural logarithm of 10 (approx. 2.302)
+- M_LOG2E. Returns the base-2 logarithm of E (approx. 1.442)
+- M_LOG10E. Returns the base-10 logarithm of E (approx. 0.434)
+- M_PI. Returns PI (approx. 3.14159)
+- M_PI_2. Returns PI/2 (approx. 1.570)
+- M_PI_4. Returns PI/4 (approx. 0.785)
+- M_1_PI. Returns 1/PI (approx. 0.318)
+- M_2_PI. Returns 2/PI (approx. 0.636)
+- M_SQRTPI. Returns the square root of PI (approx. 1.772)
+- M_2_SQRTPI. Returns 2/square root of PI (approx. 1.128)
+- M_SQRT1_2. Returns the square root of 1/2 (approx. 0.707)
+- M_SQRT2. Returns the square root of 2 (approx. 1.414)
+- M_SQRT3. Returns the square root of 3 (approx. 1.732)
+# Filesystem
+## Filesystem Functions
+- basename()
+- chgrp()
+- chmod()
+- chown()
+- clearstatcache()
+- copy()
+- delete()
+- dirname()
+- disk_free_space()
+- disk_total_space()
+- diskfreespace()
+- fclose()
+- feof()
+- fflush()
+- fgetc()
+- fgetcsv()
+- fgets()
+- fgetss()
+- file()
+- file_exists()
+- file_get_contents()
+- file_put_contents
+- fileatime()
+- filectime()
+- filegroup()
+- fileinode()
+- filemtime()
+- fileowner()
+- fileperms()
+- filesize()
+- filetype()
+- flock()
+- fnmatch()
+- fopen()
+- fpassthru()
+- fputcsv()
+- fputs()
+- fread()
+- fscanf()
+- fseek()
+- fstat()
+- ftell()
+- ftruncate()
+- fwrite()
+- glob()
+- is_dir()
+- is_executable()
+- is_file()
+- is_link()
+- is_readable()
+- is_uploaded_file()
+- is_writable()
+- is_writeable()
+- link()
+- linkinfo()
+- lstat()
+- mkdir()
+- move_uploaded_file()
+- parse_ini_file()
+- pathinfo()
+- pclose()
+- popen()
+- readfile()
+- readlink()
+- realpath()
+- rename()
+- rewind()
+- rmdir()
+- set_file_buffer()
+- stat()
+- symlink()
+- tempnam()
+- tmpfile()
+- touch()
+- umask()
+- unlink()
+## Filesystem Constants
+- GLOB_BRACE
+- GLOB_ONLYDIR
+- GLOB_MARK
+- GLOB_NOSORT
+- GLOB_NOCHECK
+- GLOB_NOESCAPE
+- PATHINFO_DIRNAME
+- PATHINFO_BASENAME
+- PATHINFO_EXTENSION
+- FILE_USE_INCLUDE_PATH
+- FILE_APPEND
+- FILE_IGNORE_NEW_LINES
+- FILE_SKIP_EMPTY_LINES
+# Filter
+## Functions
+- filter_has_var()
+- filter_id()
+- filter_input()
+- filter_input_array()
+- filter_list()
+- filter_var_array()
+- filter_var()
+# Filters
+- FILTER_CALLBACK
+- FILTER_SANITIZE_STRING
+- FILTER_SANITIZE_STRIPPED
+- FILTER_SANITIZE_ENCODED
+- FILTER_SANITIZE_SPECIAL_CHARS
+- FILTER_SANITIZE_EMAIL
+- FILTER_SANITIZE_URL
+- FILTER_SANITIZE_NUMBER_INT
+- filter_sanitize_number_float
+- filter_sanitize_magic_quotes
+- FILTER_UNSAFE_RAW
+- FILTER_VALIDATE_INT
+- FILTER_VALIDATE_BOOLEAN
+- FILTER_VALIDATE_FLOAT
+- FILTER_VALIDATE_REGEXP
+- FILTER_VALIDATE_URL
+- FILTER_VALIDATE_EMAIL
+- FILTER_VALIDATE_IP
+# Calendar
+## Calendar Functions
+- cal_days_in_month()
+- cal_from_jd()
+- cal_info()
+- cal_to_jd()
+- easter_date()
+- easter_days()
+- FrenchToJD()
+- GregorianToJD()
+- JDDayOfWeek()
+- JDMonthName()
+- JDToFrench()
+- JDToGregorian()
+- jdtojewish()
+- JDToJulian()
+- jdtounix()
+- JewishToJD()
+- JulianToJD()
+- unixtojd()
+## Calendar Constants
+- CAL_GREGORIAN. Gregorian calendar
+- CAL_JULIAN. Julian calendar
+- CAL_JEWISH. Jewish calendar
+- CAL_FRENCH. French Republican calendar
+- CAL_NUM_CALS
+- CAL_DOW_DAYNO
+- CAL_DOW_SHORT
+- CAL_DOW_LONG
+- CAL_MONTH_GREGORIAN_SHORT
+- CAL_MONTH_GREGORIAN_LONG
+- CAL_MONTH_JULIAN_SHORT
+- CAL_MONTH_JULIAN_LONG
+- CAL_MONTH_JEWISH
+- CAL_MONTH_FRENCH
+- CAL_EASTER_DEFAULT
+- CAL_EASTER_ROMAN
+- CAL_EASTER_ALWAYS_GREGORIAN
+- CAL_EASTER_ALWAYS_JULIAN
+- CAL_JEWISH_ADD_ALAFIM_GERESH
+- CAL_JEWISH_ADD_ALAFIM
+- CAL_JEWISH_ADD_GERESHAYIM
+- FTP
+## FTP Functions
+- ftp_alloc()
+- ftp_cdup()
+- ftp_chdir()
+- ftp_chmod()
+- ftp_close()
+- ftp_connect()
+- ftp_delete()
+- ftp_exec()
+- ftp_fget()
+- ftp_fput()
+- ftp_get_option()
+- ftp_get()
+- ftp_login()
+- ftp_mdtm()
+- ftp_mkdir()
+- ftp_nb_continue()
+- ftp_nb_fget()
+- ftp_nb_fput()
+- ftp_nb_get()
+- ftp_nb_put()
+- ftp_nlist()
+- ftp_pasv()
+- ftp_put()
+- ftp_pwd()
+- ftp_quit()
+- ftp_raw()
+- ftp_rawlist()
+- ftp_rename()
+- ftp_rmdir()
+- ftp_set_option()
+- ftp_site()
+- ftp_size()
+- ftp_ssl_connect()
+- ftp_systype()
+## FTP Constants
+- FTP_ASCII
+- FTP_TEXT
+- FTP_BINARY
+- FTP_IMAGE
+- FTP_TIMEOUT_SEC
+- FTP_AUTOSEEK
+- FTP_AUTORESUME. Determine resume position and start position for get and put requests automatically
+- FTP_FAILED. Asynchronous transfer has failed
+- FTP_FINISHED
+.Asynchronous transfer has finished
+- FTP_MOREDATA
+.Asynchronous transfer is still active
+- HTTP
+## HTTP Functions
+- header()
+- headers_list()
+- headers_sent()
+- setcookie()
+- setrawcookie()
+# Libxml
+## Libxml Functions
+- libxml_clear_errors()
+- libxml_get_errors()
+- libxml_get_last_error()
+- libxml_set_streams_context()
+- libxml_use_internal_errors()
+## Libxml Constants
+- LIBXML_COMPACT. Set small nodes allocation optimization. This may improve the application performance
+- LIBXML_DTDATTR. Set default DTD attributes
+- LIBXML_DTDLOAD. Load external subset
+- LIBXML_DTDVALID. Validate with the DTD
+- LIBXML_NOBLANKS. Remove blank nodes
+- LIBXML_NOCDATA. Set CDATA as text nodes
+- LIBXML_NOEMPTYTAG. Change empty tags (e.g. <br/> to <br></br>), only available in the DOMDocument->save() and - DOMDocument->saveXML() functions
+- LIBXML_NOENT. Substitute entities
+- LIBXML_NOERROR. Do not show error reports
+- LIBXML_NONET. Stop network access while loading documents
+- LIBXML_NOWARNING. Do not show warning reports
+- LIBXML_NOXMLDECL. Drop the XML declaration when saving a document
+- LIBXML_NSCLEAN. Remove excess namespace declarations
+- LIBXML_XINCLUDE. Use XInclude substitution
+- LIBXML_ERR_ERROR. Get recoverable errors
+- LIBXML_ERR_FATA.  Get fatal errors
+- LIBXML_ERR_NONE. Get no errors
+- LIBXML_ERR_WARNING. Get simple warnings
+- LIBXML_VERSION. Get libxml version (e.g. 20605 or 20617)
+- LIBXML_DOTTED_VERSION. Get dotted libxml version (e.g. 2.6.5 or 2.6.17)
+# Mail
+## Mail Functions
+- ezmlm_hash()
+- mail()
+# Misc.
+## Misc. Functions
+- connection_aborted()
+- connection_status()
+- connection_timeout()
+- constant()
+- define()
+- defined()
+- die()
+- eval()
+- exit()
+- get_browser()
+- highlight_file()
+- highlight_string()
+- ignore_user_abort()
+- pack()
+- php_check_syntax()
+- php_strip_whitespace()
+- show_source()
+- sleep()
+- time_nanosleep()
+- time_sleep_until()
+- uniqid()
+- unpack()
+- usleep()
+## Misc. Constants
+- CONNECTION_ABORTED
+- CONNECTION_NORMAL
+- CONNECTION_TIMEOUT
+- __COMPILER_HALT_OFFSET__
+# MySQLi
+## MySQLi Class
+- mysqli::$affected_rows
+- mysqli::autocommit()
+- mysqli::change_user()
+- mysqli::character_set_name()
+- mysqli::$client_info
+- mysqli::$client_version
+- mysqli::close()
+- mysqli::commit()
+- mysqli::$connect_errno
+- mysqli::$connect_error
+- mysqli::__construct()
+- mysqli::debug()
+- mysqli::dump_debug_info()
+- mysqli::$errno
+- mysqli::$error_list
+- mysqli::$error
+- mysqli::$field_count
+- mysqli::get_charset()
+- mysqli::get_client_info()
+- mysqli_get_client_stats()
+- mysqli_get_client_version()
+- mysqli::get_connection_stats()
+- mysqli::$host_info
+- mysqli::$protocol_version
+- mysqli::$server_info
+- mysqli::$server_version
+- mysqli::get_warnings()
+- mysqli::$info
+- mysqli::init()
+- mysqli::$insert_id
+- mysqli::kill()
+- mysqli::more_results()
+- mysqli::multi_query()
+- mysqli::next_result()
+- mysqli::options()
+- mysqli::ping()
+- mysqli::poll()
+- mysqli::prepare()
+- mysqli::query()
+- mysqli::real_connect()
+- mysqli::real_escape_string()
+- mysqli::real_query()
+- mysqli::reap_async_query()
+- mysqli::refresh()
+- mysqli::rollback()
+- mysqli::rpl_query_type()
+- mysqli::select_db()
+- mysqli::send_query()
+- mysqli::set_charset()
+- mysqli::set_local_infile_default()
+- mysqli::set_local_infile_handler()
+- mysqli::$sqlstate
+- mysqli::ssl_set()
+- mysqli::stat()
+- mysqli::stmt_init()
+- mysqli::store_result()
+- mysqli::$thread_id
+- mysqli::thread_safe()
+- mysqli::use_result()
+- mysqli::$warning_count
+## MySQLi Stmt Class
+- mysqli_stmt::$affected_rows
+- mysqli_stmt::attr_get()
+- mysqli_stmt::attr_set()
+- mysqli_stmt::bind_param()
+- mysqli_stmt::bind_result()
+- mysqli_stmt::close()
+- mysqli_stmt::data_seek()
+- mysqli_stmt::$errno
+- mysqli_stmt::$error_list
+- mysqli_stmt::$error
+- mysqli_stmt::execute()
+- mysqli_stmt::fetch()
+- mysqli_stmt::$field_count
+- mysqli_stmt::free_result()
+- mysqli_stmt::get_result()
+- mysqli_stmt::get_warnings()
+- mysqli_stmt::$insert_id
+- mysqli_stmt::more_results()
+- mysqli_stmt::next_result()
+- mysqli_stmt::$num_rows
+- mysqli_stmt::$param_count
+- mysqli_stmt::prepare()
+- mysqli_stmt::reset()
+- mysqli_stmt::result_metadata()
+- mysqli_stmt::send_long_data()
+- mysqli_stmt::$sqlstate
+- mysqli_stmt::store_result()
+## MySQLi Result Class
+- mysqli_result::$current_field
+- mysqli_result::data_seek()
+- mysqli_result::fetch_all()
+- mysqli_result::fetch_array()
+- mysqli_result::fetch_assoc()
+- mysqli_result::fetch_field_direct()
+- mysqli_result::fetch_field()
+- mysqli_result::fetch_fields()
+- mysqli_result::fetch_object()
+- mysqli_result::fetch_row()
+- mysqli_result::$field_count
+- mysqli_result::field_seek()
+- mysqli_result::free()
+- mysqli_result::$lengths
+- mysqli_result::$num_rows
+## MySQLi Driver Class
+- mysqli_driver::embedded_server_end()
+- mysqli_driver::embedded_server_start()
+- mysqli_driver::$report_mode
+- mysqli_driver::$client_info
+- mysqli_driver::$client_version
+- mysqli_driver::$driver_version
+- mysqli_driver::$embedded
+- mysqli_driver::$reconnect
+- mysqli_driver::$report_mode
+## MySQLi Warning Class
+- mysqli_warning::__construct()
+- mysqli_warning::next()
+- mysqli_warning::$message
+- mysqli_warning::$sqlstate
+- mysqli_warning::$errno
+## MySQL Constants
+- MYSQLI_READ_DEFAULT_GROUP. Read options from the named group from my.cnf or the file specified with MYSQLI_READ_DEFAULT_FILE
+- MYSQLI_READ_DEFAULT_FILE. Read options from the named option file instead of from my.cnf
+- MYSQLI_OPT_CONNECT_TIMEOUT. Connect timeout in seconds
+- MYSQLI_OPT_LOCAL_INFILE. Enables command LOAD LOCAL INFILE
+- MYSQLI_INIT_COMMAND. Command to execute when connecting to MySQL server. Will automatically be re-executed when - reconnecting.
+- MYSQLI_CLIENT_SSL. Use SSL (encrypted protocol). This option should not be set by application programs; it is set - internally in the MySQL client library
+- MYSQLI_CLIENT_COMPRESS. Use compression protocol
+- MYSQLI_CLIENT_INTERACTIVE. Allow interactive_timeout seconds (instead of wait_timeout seconds) of inactivity before closing - the connection. The client's session wait_timeout variable will be set to the value of the session - interactive_timeout variable.
+- MYSQLI_CLIENT_IGNORE_SPACE. Allow spaces after function names. Makes all functions names reserved words.
+- MYSQLI_CLIENT_NO_SCHEMA. Don't allow the db_name.tbl_name.col_name syntax.
+- MYSQLI_CLIENT_MULTI_QUERIES. Allows multiple semicolon-delimited queries in a single mysqli_query() call.
+- MYSQLI_STORE_RESULT. For using buffered resultsets
+- MYSQLI_USE_RESULT. For using unbuffered resultsets
+- MYSQLI_ASSOC. Columns are returned into the array having the fieldname as the array index.
+- MYSQLI_NUM. Columns are returned into the array having an enumerated index.
+- MYSQLI_BOTH. Columns are returned into the array having both a numerical index and the fieldname as the - associative index.
+- MYSQLI_NOT_NULL_FLAG. Indicates that a field is defined as NOT NULL
+- MYSQLI_PRI_KEY_FLAG. Field is part of a primary index
+- MYSQLI_UNIQUE_KEY_FLAG. Field is part of a unique index.
+- MYSQLI_MULTIPLE_KEY_FLAG. Field is part of an index.
+- MYSQLI_BLOB_FLAG. Field is defined as BLOB
+- MYSQLI_UNSIGNED_FLAG. Field is defined as UNSIGNED
+- MYSQLI_ZEROFILL_FLAG. Field is defined as ZEROFILL
+- MYSQLI_AUTO_INCREMENT_FLAG. Field is defined as AUTO_INCREMENT
+- MYSQLI_TIMESTAMP_FLAG. Field is defined as TIMESTAMP
+- MYSQLI_SET_FLAG. Field is defined as SET
+- MYSQLI_NUM_FLAG. Field is defined as NUMERIC
+- MYSQLI_PART_KEY_FLAG. Field is part of an multi-index
+- MYSQLI_GROUP_FLAG. Field is part of GROUP BY
+- MYSQLI_TYPE_DECIMAL. Field is defined as DECIMAL
+- MYSQLI_TYPE_NEWDECIMAL. Precision math DECIMAL or NUMERIC field (MySQL 5.0.3 and up)
+- MYSQLI_TYPE_BIT. Field is defined as BIT (MySQL 5.0.3 and up)
+- MYSQLI_TYPE_TINY. Field is defined as TINYINT
+- MYSQLI_TYPE_SHORT. Field is defined as SMALLINT
+- MYSQLI_TYPE_LONG. Field is defined as INT
+- MYSQLI_TYPE_FLOAT. Field is defined as FLOAT
+- MYSQLI_TYPE_DOUBLE. Field is defined as DOUBLE
+- MYSQLI_TYPE_NULL. Field is defined as DEFAULT NULL
+- MYSQLI_TYPE_TIMESTAMP. Field is defined as TIMESTAMP
+- MYSQLI_TYPE_LONGLONG. Field is defined as BIGINT
+- MYSQLI_TYPE_INT24. Field is defined as MEDIUMINT
+- MYSQLI_TYPE_DATE. Field is defined as DATE
+- MYSQLI_TYPE_TIME. Field is defined as TIME
+- MYSQLI_TYPE_DATETIME. Field is defined as DATETIME
+- MYSQLI_TYPE_YEAR. Field is defined as YEAR
+- MYSQLI_TYPE_NEWDATE. Field is defined as DATE
+- MYSQLI_TYPE_INTERVAL. Field is defined as INTERVAL
+- MYSQLI_TYPE_ENUM. Field is defined as ENUM
+- MYSQLI_TYPE_SET. Field is defined as SET
+- MYSQLI_TYPE_TINY_BLOB. Field is defined as TINYBLOB
+- MYSQLI_TYPE_MEDIUM_BLOB. Field is defined as MEDIUMBLOB
+- MYSQLI_TYPE_LONG_BLOB. Field is defined as LONGBLOB
+- MYSQLI_TYPE_BLOB. Field is defined as BLOB
+- MYSQLI_TYPE_VAR_STRING. Field is defined as VARCHAR
+- MYSQLI_TYPE_STRING. Field is defined as CHAR or BINARY
+- MYSQLI_TYPE_CHAR. Field is defined as TINYINT. For CHAR, see MYSQLI_TYPE_STRING
+- MYSQLI_TYPE_GEOMETRY. Field is defined as GEOMETRY
+- MYSQLI_NEED_DATA. More data available for bind variable
+- MYSQLI_NO_DATA. No more data available for bind variable
+- MYSQLI_DATA_TRUNCATED. Data truncation occurred. Available since PHP 5.1.0 and MySQL 5.0.5.
+- MYSQLI_ENUM_FLAG. Field is defined as ENUM. Available since PHP 5.3.0.
+- MYSQLI_CURSOR_TYPE_FOR_UPDATE
+- MYSQLI_CURSOR_TYPE_NO_CURSOR
+- MYSQLI_CURSOR_TYPE_READ_ONLY
+- MYSQLI_CURSOR_TYPE_SCROLLABLE
+- MYSQLI_STMT_ATTR_CURSOR_TYPE
+- MYSQLI_STMT_ATTR_PREFETCH_ROWS
+- MYSQLI_STMT_ATTR_UPDATE_MAX_LENGTH
+- MYSQLI_SET_CHARSET_NAME
+- MYSQLI_REPORT_INDEX. Report if no index or bad index was used in a query.
+- MYSQLI_REPORT_ERROR. Report errors from mysqli function calls.
+- MYSQLI_REPORT_STRICT. Throw a mysqli_sql_exception for errors instead of warnings.
+- MYSQLI_REPORT_ALL. Set all options on (report all).
+- MYSQLI_REPORT_OFF. Turns reporting off.
+- MYSQLI_DEBUG_TRACE_ENABLED. Is set to 1 if mysqli_debug() functionality is enabled.
+- MYSQLI_SERVER_QUERY_NO_GOOD_INDEX_USED
+- MYSQLI_SERVER_QUERY_NO_INDEX_USED
+- MYSQLI_REFRESH_GRANT. Refreshes the grant tables.
+- MYSQLI_REFRESH_LOG. Flushes the logs, like executing the FLUSH LOGS SQL statement.
+- MYSQLI_REFRESH_TABLES. Flushes the table cache, like executing the FLUSH TABLES SQL statement.
+- MYSQLI_REFRESH_HOSTS. Flushes the host cache, like executing the FLUSH HOSTS SQL statement.
+- MYSQLI_REFRESH_STATUS. Reset the status variables, like executing the FLUSH STATUS SQL statement.
+- MYSQLI_REFRESH_THREADS. Flushes the thread cache.
+- MYSQLI_REFRESH_SLAVE. On a slave replication server: resets the master server information, and restarts the slave. Like - executing the RESET SLAVE SQL statement.
+- MYSQLI_REFRESH_MASTER. On a master replication server: removes the binary log files listed in the binary log index, and - truncates the index file. Like executing the RESET MASTER SQL statement.
