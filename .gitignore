@@ -1,4 +1,5 @@
 *.ogg
+*.pdf
 
 # Permitir los archivos .ogg en la carpeta ogg
 !ogg/*.ogg

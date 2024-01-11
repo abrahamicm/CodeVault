@@ -18,7 +18,6 @@
 9. Romanos 15:13: "Y el Dios de esperanza os llene de todo gozo y paz en el creer, para que abundéis en esperanza por el poder del Espíritu Santo."
 
 10. Efesios 3:16-17: "para que os dé, conforme a las riquezas de su gloria, el ser fortalecidos con poder en el hombre interior por su Espíritu; para que habite Cristo por la fe en vuestros corazones."
-Por supuesto, aquí tienes más versículos que hablan sobre el llenamiento del Espíritu Santo:
 
 11. Hechos 10:44-45: "Mientras aún hablaba Pedro estas palabras, el Espíritu Santo cayó sobre todos los que oían el discurso. Y los fieles de la circuncisión que habían venido con Pedro se quedaron atónitos de que también sobre los gentiles se derramara el don del Espíritu Santo."
 

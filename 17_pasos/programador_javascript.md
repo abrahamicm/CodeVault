@@ -30,9 +30,7 @@
 30. Aprende a utilizar herramientas de prueba unitaria, como Jest o Mocha, para probar tu código.
 31. Comprende los conceptos básicos de la programación funcional y cómo aplicarlos en JavaScript.
 32. Aprende a utilizar librerías y frameworks populares de JavaScript, como React, Angular o Vue.js.
-33. Conoce los conceptos de rendimiento y optimización en JavaScript y cómo aplicar técnicas para mejorar el rend
-
-imiento de tu código.
+33. Conoce los conceptos de rendimiento y optimización en JavaScript y cómo aplicar técnicas para mejorar el rendimiento de tu código.
 34. Aprende sobre la manipulación y validación de fechas y horas en JavaScript.
 35. Familiarízate con el concepto de algoritmos y cómo implementarlos en JavaScript.
 36. Aprende a utilizar herramientas de automatización de tareas, como Gulp o Grunt.
@@ -59,9 +57,7 @@ imiento de tu código.
 57. Comprende los conceptos de programación reactiva y cómo aplicarlos en JavaScript utilizando librerías como RxJS.
 58. Aprende sobre las técnicas de animación y manipulación de gráficos en JavaScript utilizando librerías como Three.js o GreenSock.
 59. Familiarízate con los conceptos de realidad virtual (VR) y realidad aumentada (AR) utilizando JavaScript y librerías como A-Frame o AR.js.
-60
-
-. Aprende a utilizar herramientas de análisis de rendimiento, como Lighthouse o WebPageTest.
+60. Aprende a utilizar herramientas de análisis de rendimiento, como Lighthouse o WebPageTest.
 61. Comprende los conceptos de internacionalización y localización en JavaScript y cómo aplicarlos en tus aplicaciones.
 62. Aprende a trabajar con bases de datos en el lado del servidor utilizando tecnologías como MongoDB, MySQL o PostgreSQL.
 63. Familiarízate con los conceptos de autenticación y autorización en el desarrollo web utilizando JavaScript, como OAuth o JSON Web Tokens (JWT).
@@ -84,9 +80,7 @@ imiento de tu código.
 80. Aprende a utilizar técnicas de optimización de consultas en bases de datos utilizando JavaScript y tecnologías como MongoDB o MySQL.
 81. Comprende los conceptos de programación reactiva y cómo aplicarlos en el desarrollo de aplicaciones web utilizando JavaScript y frameworks como Vue.js o Angular.
 82. Aprende a utilizar herramientas de automatización de pruebas, como Selenium o Puppeteer, para probar tus aplicaciones web desarrolladas en JavaScript.
-83. Familiarízate con los conceptos de computación en la nube y cómo utilizar servicios como AWS Lambda o Google Cloud Functions en aplicaciones JavaScript
-
-.
+83. Familiarízate con los conceptos de computación en la nube y cómo utilizar servicios como AWS Lambda o Google Cloud Functions en aplicaciones JavaScript.
 84. Aprende a utilizar librerías y frameworks de realidad virtual y realidad aumentada utilizando JavaScript, como A-Frame o AR.js.
 85. Comprende los conceptos de desarrollo de aplicaciones móviles híbridas utilizando JavaScript y frameworks como React Native o Ionic.
 86. Aprende a utilizar librerías y frameworks de visualización de datos interactivos en tiempo real, como D3.js o Chart.js.

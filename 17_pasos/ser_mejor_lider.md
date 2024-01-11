@@ -1,5 +1,3 @@
-¡Claro! Aquí te dejo 100 pasos que puedes seguir para convertirte en un mejor líder:
-
 1. Aprende a escuchar a tu equipo.
 2. Fomenta la comunicación abierta y honesta.
 3. Sé un modelo a seguir para tu equipo.
