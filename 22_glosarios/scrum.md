@@ -1,16 +1,16 @@
-- **Scrum**: Un marco de trabajo ágil para el desarrollo de proyectos complejos.
-- **Product Owner**: Representante del cliente o stakeholders, responsable de gestionar el backlog del producto y tomar decisiones sobre las funcionalidades a desarrollar.
-- **Scrum Master**: Facilitador del equipo Scrum, encargado de asegurar que se sigan las prácticas y valores de Scrum, y de eliminar obstáculos que puedan afectar al desarrollo.
-- **Equipo de Desarrollo**: Grupo de profesionales encargados de desarrollar el producto. Son autoorganizados y multidisciplinarios.
-- **Backlog del Producto**: Lista priorizada de todas las funcionalidades, requisitos, mejoras y cambios pendientes para el producto.
-- **Backlog del Sprint**: Conjunto de elementos seleccionados del Backlog del Producto para ser desarrollados durante un sprint específico.
-- **Sprint**: Período de tiempo fijo durante el cual se desarrolla un conjunto de funcionalidades. Suele tener una duración de 1 a 4 semanas.
-- **Incremento**: Resultado del trabajo realizado durante un sprint, que añade valor al producto y que puede ser potencialmente entregable.
-- **Definición de "Terminado"**: Criterios que el equipo de desarrollo define para determinar cuando una funcionalidad está completa y cumple con los estándares de calidad.
-- **Daily Scrum**: Reunión diaria de 15 minutos en la que el equipo de desarrollo comparte su progreso, planea el trabajo del día y discute los obstáculos.
-- **Sprint Planning**: Reunión al comienzo de cada sprint donde el equipo selecciona las tareas del backlog del sprint y establece el objetivo a alcanzar.
-- **Sprint Review**: Reunión al final de cada sprint en la que el equipo presenta el incremento desarrollado y recibe feedback de los stakeholders.
-- **Sprint Retrospective**: Reunión al final de cada sprint en la que el equipo reflexiona sobre el proceso y busca mejoras para el siguiente sprint.
-- **Burndown Chart**: Gráfico que muestra el trabajo restante a lo largo del tiempo, lo que permite al equipo hacer un seguimiento del progreso durante el sprint.
-- **Velocity**: Medida del trabajo que un equipo de desarrollo puede completar en un sprint determinado. Se utiliza para planificar la capacidad futura.
-- **Estimación**: Asignación de tamaños o puntos a las tareas o funcionalidades para determinar la cantidad de trabajo que implican.
+- Scrum: Un marco de trabajo ágil para el desarrollo de proyectos complejos.
+- Product Owner: Representante del cliente o stakeholders, responsable de gestionar el backlog del producto y tomar decisiones sobre las funcionalidades a desarrollar.
+- Scrum Master: Facilitador del equipo Scrum, encargado de asegurar que se sigan las prácticas y valores de Scrum, y de eliminar obstáculos que puedan afectar al desarrollo.
+- Equipo de Desarrollo: Grupo de profesionales encargados de desarrollar el producto. Son autoorganizados y multidisciplinarios.
+- Backlog del Producto: Lista priorizada de todas las funcionalidades, requisitos, mejoras y cambios pendientes para el producto.
+- Backlog del Sprint: Conjunto de elementos seleccionados del Backlog del Producto para ser desarrollados durante un sprint específico.
+- Sprint: Período de tiempo fijo durante el cual se desarrolla un conjunto de funcionalidades. Suele tener una duración de 1 a 4 semanas.
+- Incremento: Resultado del trabajo realizado durante un sprint, que añade valor al producto y que puede ser potencialmente entregable.
+- Definición de "Terminado": Criterios que el equipo de desarrollo define para determinar cuando una funcionalidad está completa y cumple con los estándares de calidad.
+- Daily Scrum: Reunión diaria de 15 minutos en la que el equipo de desarrollo comparte su progreso, planea el trabajo del día y discute los obstáculos.
+- Sprint Planning: Reunión al comienzo de cada sprint donde el equipo selecciona las tareas del backlog del sprint y establece el objetivo a alcanzar.
+- Sprint Review: Reunión al final de cada sprint en la que el equipo presenta el incremento desarrollado y recibe feedback de los stakeholders.
+- Sprint Retrospective: Reunión al final de cada sprint en la que el equipo reflexiona sobre el proceso y busca mejoras para el siguiente sprint.
+- Burndown Chart: Gráfico que muestra el trabajo restante a lo largo del tiempo, lo que permite al equipo hacer un seguimiento del progreso durante el sprint.
+- Velocity: Medida del trabajo que un equipo de desarrollo puede completar en un sprint determinado. Se utiliza para planificar la capacidad futura.
+- Estimación: Asignación de tamaños o puntos a las tareas o funcionalidades para determinar la cantidad de trabajo que implican.
