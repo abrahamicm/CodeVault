@@ -14,6 +14,7 @@
     - poner la funcion mas grande de ultimo
     - poner la atencion en las variables claves, variables que afectan el  conportamiento
     - estar pilas con el id de las cosas
+    - preparativos, ejecucion, postejecucion.
 
 - analisis de flujo de peticiones
 - donde, cuando, como, que necesito, que datos tengo (estrategia de las 5 preguntas clave)
