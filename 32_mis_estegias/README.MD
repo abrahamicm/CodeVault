@@ -14,11 +14,13 @@
     - poner la funcion mas grande de ultimo
     - poner la atencion en las variables claves, variables que afectan el  conportamiento
     - estar pilas con el id de las cosas
-    - ver cual es el punto final, aveces todo desenvoca aun puntos especifico.
+    - preparativos, ejecucion, postejecucion.
+    -  ver cual es el punto final, aveces todo desenvoca aun puntos especifico.
     - hay metodos y funciones claves o constantes, hay otras cosas que pueden variar.
     - hay tambien particularidades, cosas que no son tan obvias pero son asi
     - hay flujos de codigo y fujo de pasos 
-    -  a que pertenece algo, por ejemplo a que pertenece un metodo
+    - a que pertenece algo, por ejemplo a que pertenece un metodo
+    - preparativos, ejecucion, postejecucion.
 
 - analisis de flujo de peticiones
 - donde, cuando, como, que necesito, que datos tengo (estrategia de las 5 preguntas clave)
