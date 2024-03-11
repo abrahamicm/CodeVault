@@ -15,7 +15,7 @@
     - poner la atencion en las variables claves, variables que afectan el  conportamiento
     - estar pilas con el id de las cosas
     - preparativos, ejecucion, postejecucion.
-    -  ver cual es el punto final, aveces todo desenvoca aun puntos especifico.
+    - ver cual es el punto final, aveces todo desenvoca aun puntos especifico.
     - hay metodos y funciones claves o constantes, hay otras cosas que pueden variar.
     - hay tambien particularidades, cosas que no son tan obvias pero son asi
     - hay flujos de codigo y fujo de pasos 
