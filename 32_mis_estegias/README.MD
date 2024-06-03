@@ -21,9 +21,9 @@
     - hay flujos de codigo y fujo de pasos 
     - a que pertenece algo, por ejemplo a que pertenece un metodo
     - preparativos, ejecucion, postejecucion.
-
-- analisis de flujo de peticiones
-- donde, cuando, como, que necesito, que datos tengo (estrategia de las 5 preguntas clave)
+    - poner el foco donde se graba en la base de datos
+    - analisis de flujo de peticiones
+    - donde, cuando, como, que necesito, que datos tengo (estrategia de las 5 preguntas clave)
 
 # Tipo de funciones
 - frecuencia
