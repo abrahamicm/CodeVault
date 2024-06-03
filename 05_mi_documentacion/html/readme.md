@@ -1,0 +1,233 @@
+Tag
+<!--...-->
+- a
+- abbr
+- acronym
+- address
+- applet
+- area
+- article
+- aside
+- audio
+- b
+- base
+- basefont
+- bdi
+- bdo
+- big
+- blockquote
+- body
+- br
+- button
+- canvas
+- caption
+- center
+- cite
+- code
+- col
+- colgroup
+- data
+- datalist
+- dd
+- del
+- details
+- dfn
+- dialog
+- dir
+- div
+- dl
+- dt
+- em
+- embed
+- fieldset
+- figcaption
+- figure
+- font
+- footer
+- form
+- frame
+- frameset
+- head
+- header
+- hgroup
+- hr
+- html
+- i
+- iframe
+- img
+- input
+- ins
+- kbd
+- label
+- legend
+- li
+- link
+- main
+- map
+- mark
+- menu
+- meta
+- meter
+- nav
+- noframes
+- noscript
+- object
+- ol
+- optgroup
+- option
+- output
+- p
+- param
+- picture
+- pre
+- progress
+- q
+- rp
+- rt
+- ruby
+- s
+- samp
+- script
+- search
+- section
+- select
+- small
+- source
+- span
+- strike
+- strong
+- style
+- sub
+- summary
+- sup
+- svg
+- table
+- tbody
+- td
+- template
+- textarea
+- tfoot
+- th
+- thead
+- time
+- title
+- tr
+- track
+- tt
+- u
+- ul
+- var
+- video
+- wbr
+
+1. **Elementos de estructura del documento:**
+   - `html`
+   - `head`
+   - `body`
+   - `title`
+
+2. **Elementos de sección:**
+   - `header`
+   - `footer`
+   - `nav`
+   - `aside`
+   - `section`
+   - `article`
+
+3. **Elementos de texto:**
+   - `p`
+   - `span`
+   - `h1` a `h6`
+   - `em`
+   - `strong`
+   - `blockquote`
+   - `q`
+   - `cite`
+   - `pre`
+   - `code`
+   - `abbr`
+   - `address`
+   - `dfn`
+   - `time`
+   - `var`
+   - `kbd`
+   - `samp`
+   - `sub`
+   - `sup`
+   - `mark`
+   - `del`
+   - `ins`
+   - `u`
+   - `small`
+   - `b`
+   - `i`
+   - `tt`
+   - `strike`
+
+4. **Elementos de lista:**
+   - `ul`
+   - `ol`
+   - `li`
+   - `dl`
+   - `dt`
+   - `dd`
+
+5. **Elementos de enlace:**
+   - `a`
+   - `link`
+
+6. **Elementos de tabla:**
+   - `table`
+   - `tr`
+   - `td`
+   - `th`
+   - `tbody`
+   - `thead`
+   - `tfoot`
+   - `col`
+   - `colgroup`
+   - `caption`
+
+7. **Elementos de formulario:**
+   - `form`
+   - `input`
+   - `button`
+   - `select`
+   - `option`
+   - `optgroup`
+   - `textarea`
+   - `label`
+   - `fieldset`
+   - `legend`
+   - `datalist`
+   - `output`
+   - `progress`
+   - `meter`
+   - `keygen`
+   - `details`
+   - `summary`
+
+8. **Elementos multimedia:**
+   - `img`
+   - `audio`
+   - `video`
+   - `source`
+   - `track`
+   - `embed`
+   - `object`
+   - `param`
+   - `canvas`
+   - `map`
+   - `area`
+   - `picture`
+   - `iframe`
+   - `svg`
+
+9. **Elementos de estilo y metadatos:**
+   - `style`
+   - `meta`
+   - `base`
+   - `basefont`
+   - `script`
+   - `noscript`
+   - `template`
